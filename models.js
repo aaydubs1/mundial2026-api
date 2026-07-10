@@ -1,9 +1,9 @@
 const { model } = require('mongoose')
 const { seleccionSchema , partidoSchema } = require('./schemas')
 
-// Creamos los modelos a partir de los esquemas y los exportamos.
-const Seleccion = model(`Seleccion` , seleccionSchema)
-const Partido   = model(`Partido`   , partidoSchema)
+// El tercer argumento fuerza el nombre EXACTO de la coleccion (sin pluralizar en ingles)
+const Seleccion = model(`Seleccion` , seleccionSchema , `selecciones`)
+const Partido   = model(`Partido`   , partidoSchema   , `partidos`)
 
 module.exports = {
     Seleccion,
