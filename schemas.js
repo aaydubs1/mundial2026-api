@@ -26,6 +26,15 @@ const estadisticasEquipoSchema = new Schema({
     tarjetasAmarillas  : { type : Number , default : 0 }
 }, { _id : false })
 
+// Sub-esquema de un gol (quien lo marco).
+const goleadorSchema = new Schema({
+    nombre   : { type : String  , required : true , trim : true }, // "Lamine Yamal"
+    equipo   : { type : String  , enum : [`local`, `visitante`] , required : true }, // a que equipo le cuenta
+    minuto   : { type : Number },                    // minuto del gol
+    penal    : { type : Boolean , default : false }, // si fue de penalti
+    enPropia : { type : Boolean , default : false }  // si fue en propia puerta
+}, { _id : false })
+
 // Esquema del PARTIDO (entidad principal del CRUD).
 const partidoSchema = new Schema({
     local            : { type : Schema.Types.ObjectId , ref : `Seleccion` , required : true },
@@ -34,6 +43,7 @@ const partidoSchema = new Schema({
     golesVisitante   : { type : Number  , default : 0 },
     penalesLocal     : { type : Number }, // opcional: solo si hay tanda
     penalesVisitante : { type : Number }, // opcional: solo si hay tanda
+    goleadores       : { type : [goleadorSchema] , default : [] }, // quien marco cada gol
     fecha            : { type : Date },
     fase             : { type : String  , trim : true },
     estadio          : { type : String  , trim : true },

@@ -1,0 +1,1402 @@
+[
+  {
+    "localCodigo": "GER",
+    "visitanteCodigo": "PAR",
+    "golesLocal": 1,
+    "golesVisitante": 1,
+    "penalesLocal": 3,
+    "penalesVisitante": 4,
+    "fase": "Ronda de 32",
+    "jugado": true,
+    "estadisticas": {
+      "local": {
+        "posesion": 76,
+        "distanciaRecorrida": 134.1,
+        "xG": 1.57,
+        "grandesOcasiones": 2,
+        "tirosTotales": 21,
+        "atajadas": 2,
+        "sprints": 102,
+        "corners": 16,
+        "faltas": 18,
+        "pases": 305,
+        "entradas": 13,
+        "tirosLibres": 12,
+        "tarjetasAmarillas": 2
+      },
+      "visitante": {
+        "posesion": 24,
+        "distanciaRecorrida": 121.8,
+        "xG": 0.35,
+        "grandesOcasiones": 3,
+        "tirosTotales": 7,
+        "atajadas": 6,
+        "sprints": 89,
+        "corners": 6,
+        "faltas": 12,
+        "pases": 255,
+        "entradas": 33,
+        "tirosLibres": 18,
+        "tarjetasAmarillas": 2
+      }
+    },
+    "goleadores": [
+      {
+        "nombre": "K.Havertz",
+        "equipo": "local",
+        "minuto": 54
+      },
+      {
+        "nombre": "J.Enciso",
+        "equipo": "visitante",
+        "minuto": 42
+      }
+    ]
+  },
+  {
+    "localCodigo": "FRA",
+    "visitanteCodigo": "SWE",
+    "golesLocal": 3,
+    "golesVisitante": 0,
+    "fase": "Ronda de 32",
+    "jugado": true,
+    "estadisticas": {
+      "local": {
+        "posesion": 61,
+        "distanciaRecorrida": 94.1,
+        "xG": 3.24,
+        "grandesOcasiones": 7,
+        "tirosTotales": 25,
+        "atajadas": 3,
+        "sprints": 95,
+        "corners": 9,
+        "faltas": 14,
+        "pases": 551,
+        "entradas": 13,
+        "tirosLibres": 10,
+        "tarjetasAmarillas": 0
+      },
+      "visitante": {
+        "posesion": 39,
+        "distanciaRecorrida": 94.2,
+        "xG": 0.7,
+        "grandesOcasiones": 1,
+        "tirosTotales": 8,
+        "atajadas": 9,
+        "sprints": 82,
+        "corners": 1,
+        "faltas": 10,
+        "pases": 350,
+        "entradas": 13,
+        "tirosLibres": 14,
+        "tarjetasAmarillas": 0
+      }
+    },
+    "goleadores": [
+      {
+        "nombre": "K.Mbappé",
+        "equipo": "local",
+        "minuto": 45
+      },
+      {
+        "nombre": "B.Barcola",
+        "equipo": "local",
+        "minuto": 53
+      },
+      {
+        "nombre": "K.Mbappé",
+        "equipo": "local",
+        "minuto": 74
+      }
+    ]
+  },
+  {
+    "localCodigo": "RSA",
+    "visitanteCodigo": "CAN",
+    "golesLocal": 0,
+    "golesVisitante": 1,
+    "fase": "Ronda de 32",
+    "jugado": true,
+    "estadisticas": {
+      "local": {
+        "posesion": 58,
+        "distanciaRecorrida": 97.6,
+        "xG": 0.14,
+        "grandesOcasiones": 0,
+        "tirosTotales": 6,
+        "atajadas": 5,
+        "sprints": 110,
+        "corners": 1,
+        "faltas": 10,
+        "pases": 554,
+        "entradas": 22,
+        "tirosLibres": 16,
+        "tarjetasAmarillas": 0
+      },
+      "visitante": {
+        "posesion": 42,
+        "distanciaRecorrida": 103.4,
+        "xG": 1.38,
+        "grandesOcasiones": 4,
+        "tirosTotales": 12,
+        "atajadas": 1,
+        "sprints": 128,
+        "corners": 4,
+        "faltas": 16,
+        "pases": 379,
+        "entradas": 20,
+        "tirosLibres": 10,
+        "tarjetasAmarillas": 2
+      }
+    },
+    "goleadores": [
+      {
+        "nombre": "S.Eustáquio",
+        "equipo": "visitante",
+        "minuto": 92
+      }
+    ]
+  },
+  {
+    "localCodigo": "NED",
+    "visitanteCodigo": "MAR",
+    "golesLocal": 1,
+    "golesVisitante": 1,
+    "penalesLocal": 2,
+    "penalesVisitante": 3,
+    "fase": "Ronda de 32",
+    "jugado": true,
+    "estadisticas": {
+      "local": {
+        "posesion": 30,
+        "distanciaRecorrida": 104.8,
+        "xG": 0.24,
+        "grandesOcasiones": 1,
+        "tirosTotales": 6,
+        "atajadas": 5,
+        "sprints": 110,
+        "corners": 5,
+        "faltas": 18,
+        "pases": 371,
+        "entradas": 19,
+        "tirosLibres": 15,
+        "tarjetasAmarillas": 0
+      },
+      "visitante": {
+        "posesion": 70,
+        "distanciaRecorrida": 102.6,
+        "xG": 1.38,
+        "grandesOcasiones": 5,
+        "tirosTotales": 11,
+        "atajadas": 1,
+        "sprints": 123,
+        "corners": 8,
+        "faltas": 15,
+        "pases": 879,
+        "entradas": 19,
+        "tirosLibres": 18,
+        "tarjetasAmarillas": 1
+      }
+    },
+    "goleadores": [
+      {
+        "nombre": "C.Gakpo",
+        "equipo": "local",
+        "minuto": 72
+      },
+      {
+        "nombre": "I.Diop",
+        "equipo": "visitante",
+        "minuto": 91
+      }
+    ]
+  },
+  {
+    "localCodigo": "POR",
+    "visitanteCodigo": "CRO",
+    "golesLocal": 2,
+    "golesVisitante": 1,
+    "fase": "Ronda de 32",
+    "jugado": true,
+    "estadisticas": {
+      "local": {
+        "posesion": 60,
+        "distanciaRecorrida": 108.5,
+        "xG": 2.2,
+        "grandesOcasiones": 3,
+        "tirosTotales": 15,
+        "atajadas": 5,
+        "sprints": 118,
+        "corners": 9,
+        "faltas": 6,
+        "pases": 585,
+        "entradas": 19,
+        "tirosLibres": 11,
+        "tarjetasAmarillas": 1
+      },
+      "visitante": {
+        "posesion": 40,
+        "distanciaRecorrida": 111.2,
+        "xG": 1.34,
+        "grandesOcasiones": 4,
+        "tirosTotales": 13,
+        "atajadas": 2,
+        "sprints": 114,
+        "corners": 5,
+        "faltas": 12,
+        "pases": 370,
+        "entradas": 22,
+        "tirosLibres": 6,
+        "tarjetasAmarillas": 2
+      }
+    },
+    "goleadores": [
+      {
+        "nombre": "C.Ronaldo",
+        "equipo": "local",
+        "minuto": 68,
+        "penal": true
+      },
+      {
+        "nombre": "G.Ramos",
+        "equipo": "local",
+        "minuto": 94
+      },
+      {
+        "nombre": "I.Perišić",
+        "equipo": "visitante",
+        "minuto": 53
+      }
+    ]
+  },
+  {
+    "localCodigo": "ESP",
+    "visitanteCodigo": "AUT",
+    "golesLocal": 3,
+    "golesVisitante": 0,
+    "fase": "Ronda de 32",
+    "jugado": true,
+    "estadisticas": {
+      "local": {
+        "posesion": 64,
+        "distanciaRecorrida": 100.4,
+        "xG": 2.8,
+        "grandesOcasiones": 4,
+        "tirosTotales": 23,
+        "atajadas": 0,
+        "sprints": 107,
+        "corners": 9,
+        "faltas": 8,
+        "pases": 629,
+        "entradas": 19,
+        "tirosLibres": 15,
+        "tarjetasAmarillas": 0
+      },
+      "visitante": {
+        "posesion": 36,
+        "distanciaRecorrida": 100.4,
+        "xG": 0.32,
+        "grandesOcasiones": 1,
+        "tirosTotales": 5,
+        "atajadas": 6,
+        "sprints": 103,
+        "corners": 0,
+        "faltas": 15,
+        "pases": 347,
+        "entradas": 16,
+        "tirosLibres": 8,
+        "tarjetasAmarillas": 1
+      }
+    },
+    "goleadores": [
+      {
+        "nombre": "M.Oyarzabal",
+        "equipo": "local",
+        "minuto": 36
+      },
+      {
+        "nombre": "P.Porro",
+        "equipo": "local",
+        "minuto": 66
+      },
+      {
+        "nombre": "M.Oyarzabal",
+        "equipo": "local",
+        "minuto": 89
+      }
+    ]
+  },
+  {
+    "localCodigo": "USA",
+    "visitanteCodigo": "BIH",
+    "golesLocal": 2,
+    "golesVisitante": 0,
+    "fase": "Ronda de 32",
+    "jugado": true,
+    "estadisticas": {
+      "local": {
+        "posesion": 48,
+        "distanciaRecorrida": 107.1,
+        "xG": 0.88,
+        "grandesOcasiones": 2,
+        "tirosTotales": 8,
+        "atajadas": 3,
+        "sprints": 108,
+        "corners": 4,
+        "faltas": 7,
+        "pases": 415,
+        "entradas": 12,
+        "tirosLibres": 13,
+        "tarjetasAmarillas": 0
+      },
+      "visitante": {
+        "posesion": 52,
+        "distanciaRecorrida": 109,
+        "xG": 0.25,
+        "grandesOcasiones": 0,
+        "tirosTotales": 10,
+        "atajadas": 0,
+        "sprints": 105,
+        "corners": 3,
+        "faltas": 13,
+        "pases": 447,
+        "entradas": 15,
+        "tirosLibres": 7,
+        "tarjetasAmarillas": 1
+      }
+    },
+    "goleadores": [
+      {
+        "nombre": "F.Balogun",
+        "equipo": "local",
+        "minuto": 45
+      },
+      {
+        "nombre": "M.Tillman",
+        "equipo": "local",
+        "minuto": 82
+      }
+    ]
+  },
+  {
+    "localCodigo": "BEL",
+    "visitanteCodigo": "SEN",
+    "golesLocal": 3,
+    "golesVisitante": 2,
+    "fase": "Ronda de 32",
+    "jugado": true,
+    "estadisticas": {
+      "local": {
+        "posesion": 52,
+        "distanciaRecorrida": 141.6,
+        "xG": 1.74,
+        "grandesOcasiones": 3,
+        "tirosTotales": 19,
+        "atajadas": 3,
+        "sprints": 123,
+        "corners": 4,
+        "faltas": 22,
+        "pases": 701,
+        "entradas": 12,
+        "tirosLibres": 11,
+        "tarjetasAmarillas": 1
+      },
+      "visitante": {
+        "posesion": 48,
+        "distanciaRecorrida": 135.4,
+        "xG": 3.58,
+        "grandesOcasiones": 6,
+        "tirosTotales": 19,
+        "atajadas": 3,
+        "sprints": 108,
+        "corners": 2,
+        "faltas": 12,
+        "pases": 639,
+        "entradas": 12,
+        "tirosLibres": 22,
+        "tarjetasAmarillas": 1
+      }
+    },
+    "goleadores": [
+      {
+        "nombre": "H.Diarra",
+        "equipo": "visitante",
+        "minuto": 24
+      },
+      {
+        "nombre": "I.Sarr",
+        "equipo": "visitante",
+        "minuto": 51
+      },
+      {
+        "nombre": "R.Lukaku",
+        "equipo": "local",
+        "minuto": 86
+      },
+      {
+        "nombre": "Y.Tielemans",
+        "equipo": "local",
+        "minuto": 89
+      },
+      {
+        "nombre": "Y.Tielemans",
+        "equipo": "local",
+        "minuto": 125,
+        "penal": true
+      }
+    ]
+  },
+  {
+    "localCodigo": "BRA",
+    "visitanteCodigo": "JPN",
+    "golesLocal": 2,
+    "golesVisitante": 1,
+    "fase": "Ronda de 32",
+    "jugado": true,
+    "estadisticas": {
+      "local": {
+        "posesion": 69,
+        "distanciaRecorrida": 98.1,
+        "xG": 2.07,
+        "grandesOcasiones": 5,
+        "tirosTotales": 19,
+        "atajadas": 1,
+        "sprints": 92,
+        "corners": 6,
+        "faltas": 4,
+        "pases": 682,
+        "entradas": 12,
+        "tirosLibres": 13,
+        "tarjetasAmarillas": 2
+      },
+      "visitante": {
+        "posesion": 31,
+        "distanciaRecorrida": 102.3,
+        "xG": 0.33,
+        "grandesOcasiones": 0,
+        "tirosTotales": 5,
+        "atajadas": 4,
+        "sprints": 99,
+        "corners": 2,
+        "faltas": 13,
+        "pases": 313,
+        "entradas": 10,
+        "tirosLibres": 4,
+        "tarjetasAmarillas": 3
+      }
+    },
+    "goleadores": [
+      {
+        "nombre": "K.Sano",
+        "equipo": "visitante",
+        "minuto": 29
+      },
+      {
+        "nombre": "Casemiro",
+        "equipo": "local",
+        "minuto": 56
+      },
+      {
+        "nombre": "G.Martinelli",
+        "equipo": "local",
+        "minuto": 96
+      }
+    ]
+  },
+  {
+    "localCodigo": "CIV",
+    "visitanteCodigo": "NOR",
+    "golesLocal": 1,
+    "golesVisitante": 2,
+    "fase": "Ronda de 32",
+    "jugado": true,
+    "estadisticas": {
+      "local": {
+        "posesion": 47,
+        "distanciaRecorrida": 94.7,
+        "xG": 1.49,
+        "grandesOcasiones": 3,
+        "tirosTotales": 14,
+        "atajadas": 1,
+        "sprints": 98,
+        "corners": 14,
+        "faltas": 6,
+        "pases": 401,
+        "entradas": 24,
+        "tirosLibres": 7,
+        "tarjetasAmarillas": 0
+      },
+      "visitante": {
+        "posesion": 53,
+        "distanciaRecorrida": 99.7,
+        "xG": 1.9,
+        "grandesOcasiones": 4,
+        "tirosTotales": 9,
+        "atajadas": 4,
+        "sprints": 126,
+        "corners": 3,
+        "faltas": 7,
+        "pases": 474,
+        "entradas": 19,
+        "tirosLibres": 6,
+        "tarjetasAmarillas": 1
+      }
+    },
+    "goleadores": [
+      {
+        "nombre": "A.Nusa",
+        "equipo": "visitante",
+        "minuto": 39
+      },
+      {
+        "nombre": "A.Diallo",
+        "equipo": "local",
+        "minuto": 74
+      },
+      {
+        "nombre": "E.Haaland",
+        "equipo": "visitante",
+        "minuto": 86
+      }
+    ]
+  },
+  {
+    "localCodigo": "MEX",
+    "visitanteCodigo": "ECU",
+    "golesLocal": 2,
+    "golesVisitante": 0,
+    "fase": "Ronda de 32",
+    "jugado": true,
+    "estadisticas": {
+      "local": {
+        "posesion": 43,
+        "distanciaRecorrida": 100,
+        "xG": 1.05,
+        "grandesOcasiones": 2,
+        "tirosTotales": 15,
+        "atajadas": 1,
+        "sprints": 95,
+        "corners": 3,
+        "faltas": 10,
+        "pases": 316,
+        "entradas": 10,
+        "tirosLibres": 14,
+        "tarjetasAmarillas": 0
+      },
+      "visitante": {
+        "posesion": 57,
+        "distanciaRecorrida": 83.9,
+        "xG": 0.75,
+        "grandesOcasiones": 1,
+        "tirosTotales": 7,
+        "atajadas": 1,
+        "sprints": 87,
+        "corners": 8,
+        "faltas": 14,
+        "pases": 410,
+        "entradas": 11,
+        "tirosLibres": 10,
+        "tarjetasAmarillas": 3
+      }
+    },
+    "goleadores": [
+      {
+        "nombre": "J.Quiñones",
+        "equipo": "local",
+        "minuto": 22
+      },
+      {
+        "nombre": "R.Jiménez",
+        "equipo": "local",
+        "minuto": 31
+      }
+    ]
+  },
+  {
+    "localCodigo": "ENG",
+    "visitanteCodigo": "COD",
+    "golesLocal": 2,
+    "golesVisitante": 1,
+    "fase": "Ronda de 32",
+    "jugado": true,
+    "estadisticas": {
+      "local": {
+        "posesion": 60,
+        "distanciaRecorrida": 103,
+        "xG": 2.16,
+        "grandesOcasiones": 7,
+        "tirosTotales": 16,
+        "atajadas": 1,
+        "sprints": 121,
+        "corners": 5,
+        "faltas": 10,
+        "pases": 517,
+        "entradas": 11,
+        "tirosLibres": 12,
+        "tarjetasAmarillas": 1
+      },
+      "visitante": {
+        "posesion": 40,
+        "distanciaRecorrida": 103.5,
+        "xG": 0.77,
+        "grandesOcasiones": 1,
+        "tirosTotales": 7,
+        "atajadas": 5,
+        "sprints": 103,
+        "corners": 3,
+        "faltas": 12,
+        "pases": 365,
+        "entradas": 20,
+        "tirosLibres": 10,
+        "tarjetasAmarillas": 1
+      }
+    },
+    "goleadores": [
+      {
+        "nombre": "B.Cipenga",
+        "equipo": "visitante",
+        "minuto": 7
+      },
+      {
+        "nombre": "H.Kane",
+        "equipo": "local",
+        "minuto": 75
+      },
+      {
+        "nombre": "H.Kane",
+        "equipo": "local",
+        "minuto": 86
+      }
+    ]
+  },
+  {
+    "localCodigo": "ARG",
+    "visitanteCodigo": "CPV",
+    "golesLocal": 3,
+    "golesVisitante": 2,
+    "fase": "Ronda de 32",
+    "jugado": true,
+    "estadisticas": {
+      "local": {
+        "posesion": 64,
+        "distanciaRecorrida": 116.9,
+        "xG": 2.26,
+        "grandesOcasiones": 3,
+        "tirosTotales": 22,
+        "atajadas": 3,
+        "sprints": 84,
+        "corners": 8,
+        "faltas": 13,
+        "pases": 850,
+        "entradas": 22,
+        "tirosLibres": 12,
+        "tarjetasAmarillas": 1
+      },
+      "visitante": {
+        "posesion": 36,
+        "distanciaRecorrida": 129,
+        "xG": 0.47,
+        "grandesOcasiones": 0,
+        "tirosTotales": 16,
+        "atajadas": 8,
+        "sprints": 98,
+        "corners": 8,
+        "faltas": 12,
+        "pases": 476,
+        "entradas": 19,
+        "tirosLibres": 13,
+        "tarjetasAmarillas": 1
+      }
+    },
+    "goleadores": [
+      {
+        "nombre": "L.Messi",
+        "equipo": "local",
+        "minuto": 29
+      },
+      {
+        "nombre": "D.Duarte",
+        "equipo": "visitante",
+        "minuto": 59
+      },
+      {
+        "nombre": "L.Martínez",
+        "equipo": "local",
+        "minuto": 92
+      },
+      {
+        "nombre": "S.Lopes Cabral",
+        "equipo": "visitante",
+        "minuto": 103
+      },
+      {
+        "nombre": "Diney",
+        "equipo": "local",
+        "minuto": 111,
+        "enPropia": true
+      }
+    ]
+  },
+  {
+    "localCodigo": "AUS",
+    "visitanteCodigo": "EGY",
+    "golesLocal": 1,
+    "golesVisitante": 1,
+    "penalesLocal": 2,
+    "penalesVisitante": 4,
+    "fase": "Ronda de 32",
+    "jugado": true,
+    "estadisticas": {
+      "local": {
+        "posesion": 42,
+        "distanciaRecorrida": 126.8,
+        "xG": 0.84,
+        "grandesOcasiones": 0,
+        "tirosTotales": 16,
+        "atajadas": 3,
+        "sprints": 90,
+        "corners": 4,
+        "faltas": 12,
+        "pases": 505,
+        "entradas": 10,
+        "tirosLibres": 14,
+        "tarjetasAmarillas": 0
+      },
+      "visitante": {
+        "posesion": 58,
+        "distanciaRecorrida": 119.1,
+        "xG": 1.32,
+        "grandesOcasiones": 3,
+        "tirosTotales": 14,
+        "atajadas": 1,
+        "sprints": 70,
+        "corners": 7,
+        "faltas": 14,
+        "pases": 722,
+        "entradas": 15,
+        "tirosLibres": 12,
+        "tarjetasAmarillas": 2
+      }
+    },
+    "goleadores": [
+      {
+        "nombre": "E.Ashour",
+        "equipo": "visitante",
+        "minuto": 13
+      },
+      {
+        "nombre": "M.Hany",
+        "equipo": "local",
+        "minuto": 55,
+        "enPropia": true
+      }
+    ]
+  },
+  {
+    "localCodigo": "SUI",
+    "visitanteCodigo": "ALG",
+    "golesLocal": 2,
+    "golesVisitante": 0,
+    "fase": "Ronda de 32",
+    "jugado": true,
+    "estadisticas": {
+      "local": {
+        "posesion": 45,
+        "distanciaRecorrida": 102.6,
+        "xG": 2.45,
+        "grandesOcasiones": 2,
+        "tirosTotales": 11,
+        "atajadas": 2,
+        "sprints": 108,
+        "corners": 4,
+        "faltas": 10,
+        "pases": 438,
+        "entradas": 20,
+        "tirosLibres": 12,
+        "tarjetasAmarillas": 0
+      },
+      "visitante": {
+        "posesion": 55,
+        "distanciaRecorrida": 101.8,
+        "xG": 0.74,
+        "grandesOcasiones": 2,
+        "tirosTotales": 8,
+        "atajadas": 2,
+        "sprints": 82,
+        "corners": 2,
+        "faltas": 12,
+        "pases": 563,
+        "entradas": 21,
+        "tirosLibres": 10,
+        "tarjetasAmarillas": 2
+      }
+    },
+    "goleadores": [
+      {
+        "nombre": "B.Embolo",
+        "equipo": "local",
+        "minuto": 10
+      },
+      {
+        "nombre": "D.Ndoye",
+        "equipo": "local",
+        "minuto": 46
+      }
+    ]
+  },
+  {
+    "localCodigo": "COL",
+    "visitanteCodigo": "GHA",
+    "golesLocal": 1,
+    "golesVisitante": 0,
+    "fase": "Ronda de 32",
+    "jugado": true,
+    "estadisticas": {
+      "local": {
+        "posesion": 61,
+        "distanciaRecorrida": 99.9,
+        "xG": 2.04,
+        "grandesOcasiones": 5,
+        "tirosTotales": 20,
+        "atajadas": 0,
+        "sprints": 128,
+        "corners": 3,
+        "faltas": 14,
+        "pases": 586,
+        "entradas": 12,
+        "tirosLibres": 10,
+        "tarjetasAmarillas": 2
+      },
+      "visitante": {
+        "posesion": 39,
+        "distanciaRecorrida": 99.6,
+        "xG": 0.27,
+        "grandesOcasiones": 0,
+        "tirosTotales": 8,
+        "atajadas": 7,
+        "sprints": 139,
+        "corners": 2,
+        "faltas": 10,
+        "pases": 376,
+        "entradas": 13,
+        "tirosLibres": 14,
+        "tarjetasAmarillas": 3
+      }
+    },
+    "goleadores": [
+      {
+        "nombre": "J.Arias",
+        "equipo": "local",
+        "minuto": 14
+      }
+    ]
+  },
+  {
+    "localCodigo": "PAR",
+    "visitanteCodigo": "FRA",
+    "golesLocal": 0,
+    "golesVisitante": 1,
+    "fase": "Octavos de final",
+    "jugado": true,
+    "estadisticas": {
+      "local": {
+        "posesion": 24,
+        "distanciaRecorrida": 89.4,
+        "xG": 0.13,
+        "grandesOcasiones": 0,
+        "tirosTotales": 5,
+        "atajadas": 4,
+        "sprints": 74,
+        "corners": 2,
+        "faltas": 13,
+        "pases": 183,
+        "entradas": 29,
+        "tirosLibres": 11,
+        "tarjetasAmarillas": 0
+      },
+      "visitante": {
+        "posesion": 76,
+        "distanciaRecorrida": 84.1,
+        "xG": 1.45,
+        "grandesOcasiones": 2,
+        "tirosTotales": 15,
+        "atajadas": 1,
+        "sprints": 57,
+        "corners": 12,
+        "faltas": 11,
+        "pases": 569,
+        "entradas": 13,
+        "tirosLibres": 12,
+        "tarjetasAmarillas": 3
+      }
+    },
+    "goleadores": [
+      {
+        "nombre": "K.Mbappé",
+        "equipo": "visitante",
+        "minuto": 70,
+        "penal": true
+      }
+    ]
+  },
+  {
+    "localCodigo": "CAN",
+    "visitanteCodigo": "MAR",
+    "golesLocal": 0,
+    "golesVisitante": 3,
+    "fase": "Octavos de final",
+    "jugado": true,
+    "estadisticas": {
+      "local": {
+        "posesion": 45,
+        "distanciaRecorrida": 107.4,
+        "xG": 0.84,
+        "grandesOcasiones": 1,
+        "tirosTotales": 10,
+        "atajadas": 1,
+        "sprints": 154,
+        "corners": 11,
+        "faltas": 24,
+        "pases": 359,
+        "entradas": 18,
+        "tirosLibres": 14,
+        "tarjetasAmarillas": 4
+      },
+      "visitante": {
+        "posesion": 55,
+        "distanciaRecorrida": 100.5,
+        "xG": 0.82,
+        "grandesOcasiones": 2,
+        "tirosTotales": 5,
+        "atajadas": 3,
+        "sprints": 133,
+        "corners": 1,
+        "faltas": 14,
+        "pases": 473,
+        "entradas": 13,
+        "tirosLibres": 24,
+        "tarjetasAmarillas": 4
+      }
+    },
+    "goleadores": [
+      {
+        "nombre": "A.Ounahi",
+        "equipo": "visitante",
+        "minuto": 50
+      },
+      {
+        "nombre": "A.Ounahi",
+        "equipo": "visitante",
+        "minuto": 82
+      },
+      {
+        "nombre": "S.Rahimi",
+        "equipo": "visitante",
+        "minuto": 98
+      }
+    ]
+  },
+  {
+    "localCodigo": "POR",
+    "visitanteCodigo": "ESP",
+    "golesLocal": 0,
+    "golesVisitante": 1,
+    "fase": "Octavos de final",
+    "jugado": true,
+    "estadisticas": {
+      "local": {
+        "posesion": 45,
+        "distanciaRecorrida": 101,
+        "xG": 0.63,
+        "grandesOcasiones": 1,
+        "tirosTotales": 10,
+        "atajadas": 5,
+        "sprints": 102,
+        "corners": 3,
+        "faltas": 9,
+        "pases": 427,
+        "entradas": 14,
+        "tirosLibres": 13,
+        "tarjetasAmarillas": 2
+      },
+      "visitante": {
+        "posesion": 55,
+        "distanciaRecorrida": 101.9,
+        "xG": 1.69,
+        "grandesOcasiones": 3,
+        "tirosTotales": 15,
+        "atajadas": 2,
+        "sprints": 99,
+        "corners": 7,
+        "faltas": 13,
+        "pases": 530,
+        "entradas": 18,
+        "tirosLibres": 9,
+        "tarjetasAmarillas": 1
+      }
+    },
+    "goleadores": [
+      {
+        "nombre": "M.Merino",
+        "equipo": "visitante",
+        "minuto": 91
+      }
+    ]
+  },
+  {
+    "localCodigo": "USA",
+    "visitanteCodigo": "BEL",
+    "golesLocal": 1,
+    "golesVisitante": 4,
+    "fase": "Octavos de final",
+    "jugado": true,
+    "estadisticas": {
+      "local": {
+        "posesion": 56,
+        "distanciaRecorrida": 103.9,
+        "xG": 0.63,
+        "grandesOcasiones": 0,
+        "tirosTotales": 7,
+        "atajadas": 3,
+        "sprints": 83,
+        "corners": 3,
+        "faltas": 11,
+        "pases": 527,
+        "entradas": 20,
+        "tirosLibres": 9,
+        "tarjetasAmarillas": 2
+      },
+      "visitante": {
+        "posesion": 44,
+        "distanciaRecorrida": 102.9,
+        "xG": 2.01,
+        "grandesOcasiones": 4,
+        "tirosTotales": 15,
+        "atajadas": 1,
+        "sprints": 93,
+        "corners": 5,
+        "faltas": 9,
+        "pases": 414,
+        "entradas": 22,
+        "tirosLibres": 11,
+        "tarjetasAmarillas": 0
+      }
+    },
+    "goleadores": [
+      {
+        "nombre": "M.Tillman",
+        "equipo": "local",
+        "minuto": 31
+      },
+      {
+        "nombre": "C.De Ketelaere",
+        "equipo": "visitante",
+        "minuto": 9
+      },
+      {
+        "nombre": "C.De Ketelaere",
+        "equipo": "visitante",
+        "minuto": 33
+      },
+      {
+        "nombre": "H.Vanaken",
+        "equipo": "visitante",
+        "minuto": 57
+      },
+      {
+        "nombre": "R.Lukaku",
+        "equipo": "visitante",
+        "minuto": 93
+      }
+    ]
+  },
+  {
+    "localCodigo": "BRA",
+    "visitanteCodigo": "NOR",
+    "golesLocal": 1,
+    "golesVisitante": 2,
+    "fase": "Octavos de final",
+    "jugado": true,
+    "estadisticas": {
+      "local": {
+        "posesion": 34,
+        "distanciaRecorrida": 97.3,
+        "xG": 2.61,
+        "grandesOcasiones": 5,
+        "tirosTotales": 14,
+        "atajadas": 3,
+        "sprints": 93,
+        "corners": 5,
+        "faltas": 7,
+        "pases": 331,
+        "entradas": 23,
+        "tirosLibres": 4,
+        "tarjetasAmarillas": 1
+      },
+      "visitante": {
+        "posesion": 66,
+        "distanciaRecorrida": 104.7,
+        "xG": 1.05,
+        "grandesOcasiones": 3,
+        "tirosTotales": 9,
+        "atajadas": 4,
+        "sprints": 100,
+        "corners": 5,
+        "faltas": 6,
+        "pases": 681,
+        "entradas": 14,
+        "tirosLibres": 7,
+        "tarjetasAmarillas": 0
+      }
+    },
+    "goleadores": [
+      {
+        "nombre": "Neymar",
+        "equipo": "local",
+        "minuto": 100,
+        "penal": true
+      },
+      {
+        "nombre": "E.Haaland",
+        "equipo": "visitante",
+        "minuto": 79
+      },
+      {
+        "nombre": "E.Haaland",
+        "equipo": "visitante",
+        "minuto": 90
+      }
+    ]
+  },
+  {
+    "localCodigo": "MEX",
+    "visitanteCodigo": "ENG",
+    "golesLocal": 2,
+    "golesVisitante": 3,
+    "fase": "Octavos de final",
+    "jugado": true,
+    "estadisticas": {
+      "local": {
+        "posesion": 67,
+        "distanciaRecorrida": 91.6,
+        "xG": 1.88,
+        "grandesOcasiones": 2,
+        "tirosTotales": 20,
+        "atajadas": 2,
+        "sprints": 61,
+        "corners": 12,
+        "faltas": 14,
+        "pases": 453,
+        "entradas": 16,
+        "tirosLibres": 6,
+        "tarjetasAmarillas": 2
+      },
+      "visitante": {
+        "posesion": 33,
+        "distanciaRecorrida": 91.6,
+        "xG": 1.61,
+        "grandesOcasiones": 3,
+        "tirosTotales": 6,
+        "atajadas": 3,
+        "sprints": 60,
+        "corners": 5,
+        "faltas": 7,
+        "pases": 244,
+        "entradas": 18,
+        "tirosLibres": 13,
+        "tarjetasAmarillas": 2
+      }
+    },
+    "goleadores": [
+      {
+        "nombre": "J.Quiñones",
+        "equipo": "local",
+        "minuto": 42
+      },
+      {
+        "nombre": "R.Jiménez",
+        "equipo": "local",
+        "minuto": 69,
+        "penal": true
+      },
+      {
+        "nombre": "J.Bellingham",
+        "equipo": "visitante",
+        "minuto": 36
+      },
+      {
+        "nombre": "J.Bellingham",
+        "equipo": "visitante",
+        "minuto": 38
+      },
+      {
+        "nombre": "H.Kane",
+        "equipo": "visitante",
+        "minuto": 60,
+        "penal": true
+      }
+    ]
+  },
+  {
+    "localCodigo": "ARG",
+    "visitanteCodigo": "EGY",
+    "golesLocal": 3,
+    "golesVisitante": 2,
+    "fase": "Octavos de final",
+    "jugado": true,
+    "estadisticas": {
+      "local": {
+        "posesion": 64,
+        "distanciaRecorrida": 0,
+        "xG": 2.84,
+        "grandesOcasiones": 6,
+        "tirosTotales": 19,
+        "atajadas": 0,
+        "sprints": 0,
+        "corners": 6,
+        "faltas": 13,
+        "pases": 602,
+        "entradas": 20,
+        "tirosLibres": 10,
+        "tarjetasAmarillas": 0
+      },
+      "visitante": {
+        "posesion": 36,
+        "distanciaRecorrida": 0,
+        "xG": 0.89,
+        "grandesOcasiones": 2,
+        "tirosTotales": 5,
+        "atajadas": 4,
+        "sprints": 0,
+        "corners": 1,
+        "faltas": 11,
+        "pases": 349,
+        "entradas": 16,
+        "tirosLibres": 13,
+        "tarjetasAmarillas": 4
+      }
+    },
+    "goleadores": [
+      {
+        "nombre": "Y.Ibrahim",
+        "equipo": "visitante",
+        "minuto": 15
+      },
+      {
+        "nombre": "M.Ziko",
+        "equipo": "visitante",
+        "minuto": 67
+      },
+      {
+        "nombre": "C.Romero",
+        "equipo": "local",
+        "minuto": 79
+      },
+      {
+        "nombre": "L.Messi",
+        "equipo": "local",
+        "minuto": 83
+      },
+      {
+        "nombre": "E.Fernández",
+        "equipo": "local",
+        "minuto": 93
+      }
+    ]
+  },
+  {
+    "localCodigo": "SUI",
+    "visitanteCodigo": "COL",
+    "golesLocal": 0,
+    "golesVisitante": 0,
+    "penalesLocal": 4,
+    "penalesVisitante": 3,
+    "fase": "Octavos de final",
+    "jugado": true,
+    "estadisticas": {
+      "local": {
+        "posesion": 53,
+        "distanciaRecorrida": 0,
+        "xG": 0.39,
+        "grandesOcasiones": 0,
+        "tirosTotales": 7,
+        "atajadas": 3,
+        "sprints": 0,
+        "corners": 3,
+        "faltas": 22,
+        "pases": 631,
+        "entradas": 12,
+        "tirosLibres": 21,
+        "tarjetasAmarillas": 3
+      },
+      "visitante": {
+        "posesion": 47,
+        "distanciaRecorrida": 0,
+        "xG": 1.09,
+        "grandesOcasiones": 2,
+        "tirosTotales": 15,
+        "atajadas": 2,
+        "sprints": 0,
+        "corners": 7,
+        "faltas": 21,
+        "pases": 547,
+        "entradas": 17,
+        "tirosLibres": 22,
+        "tarjetasAmarillas": 0
+      }
+    },
+    "goleadores": []
+  },
+  {
+    "localCodigo": "FRA",
+    "visitanteCodigo": "MAR",
+    "golesLocal": 2,
+    "golesVisitante": 0,
+    "fase": "Cuartos de final",
+    "jugado": true,
+    "goleadores": [
+      {
+        "nombre": "K.Mbappé",
+        "equipo": "local",
+        "minuto": 60
+      },
+      {
+        "nombre": "O.Dembélé",
+        "equipo": "local",
+        "minuto": 66
+      }
+    ],
+    "estadisticas": {
+      "local": {
+        "posesion": 48,
+        "distanciaRecorrida": 0,
+        "xG": 3.69,
+        "grandesOcasiones": 6,
+        "tirosTotales": 22,
+        "atajadas": 1,
+        "sprints": 0,
+        "corners": 5,
+        "faltas": 10,
+        "pases": 486,
+        "entradas": 11,
+        "tirosLibres": 12,
+        "tarjetasAmarillas": 0
+      },
+      "visitante": {
+        "posesion": 52,
+        "distanciaRecorrida": 0,
+        "xG": 0.14,
+        "grandesOcasiones": 0,
+        "tirosTotales": 5,
+        "atajadas": 6,
+        "sprints": 0,
+        "corners": 5,
+        "faltas": 13,
+        "pases": 526,
+        "entradas": 16,
+        "tirosLibres": 10,
+        "tarjetasAmarillas": 1
+      }
+    }
+  }
+]
