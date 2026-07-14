@@ -26,6 +26,7 @@ const DATABASE_URL = process.env.DATABASE_URL
 
     app.use(middleware404)
     app.use(middleware500)
+    app.use(`/api/login`, authRouter)
 
 // Conectamos a Mongo y, solo si va bien, levantamos el servidor
 mongoose.connect(DATABASE_URL)

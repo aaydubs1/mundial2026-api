@@ -5,7 +5,8 @@ require('dotenv').config()
 
 const mongoose = require('mongoose')
 const fs       = require('fs')
-const { Seleccion , Partido } = require('./models')
+const bcrypt   = require('bcryptjs')
+const { Seleccion , Partido , Usuario } = require('./models')
 
 const DATABASE_URL = process.env.DATABASE_URL
 
@@ -23,7 +24,7 @@ const cargarDatos = async () => {
         const seleccionesCreadas = await Seleccion.insertMany(selecciones)
         console.log(`✅ ${seleccionesCreadas.length} selecciones cargadas`)
 
-        // Mapa codigo -> _id para enlazar los partidos (ESP, ARG...)
+        // Mapa codigo -> _id para enlazar los partidos por codigo (ESP, ARG...)
         const mapaSelecciones = {}
         seleccionesCreadas.forEach( seleccion => {
             mapaSelecciones[seleccion.codigo] = seleccion._id
@@ -39,6 +40,12 @@ const cargarDatos = async () => {
 
         const partidosCreados = await Partido.insertMany(partidosConReferencias)
         console.log(`✅ ${partidosCreados.length} partidos cargados`)
+
+        // 3) Creamos un usuario de administracion para el login
+        await Usuario.deleteMany()
+        const passwordHash = await bcrypt.hash(`mundial2026`, 10)
+        await Usuario.create({ email : `admin@mundial.com`, password : passwordHash })
+        console.log(`✅ usuario admin creado (admin@mundial.com / mundial2026)`)
 
         console.log(`🌱 Datos cargados correctamente`)
         process.exit(0)

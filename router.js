@@ -4,13 +4,15 @@ const {
     getPartidos, getPartidoById, getPartidosByFase, getPartidosByJugado,
     postPartido, putPartido, patchPartido, deletePartido,
     getSelecciones, getSeleccionById,
-    postSeleccion, putSeleccion, patchSeleccion, deleteSeleccion
+    postSeleccion, putSeleccion, patchSeleccion, deleteSeleccion,
+    postLogin
 } = require('./controllers')
 
 const { validarJugadoParam , validarPartidoBody } = require('./middlewares')
 
 const partidosRouter    = express.Router()
 const seleccionesRouter = express.Router()
+const authRouter        = express.Router()
 
 
 // ---------- Rutas de PARTIDOS ----------
@@ -40,7 +42,13 @@ seleccionesRouter.route(`/:_id`)
     .delete( deleteSeleccion )
 
 
+// ---------- Ruta de LOGIN ----------
+authRouter.route(`/`)
+    .post( postLogin )
+
+
 module.exports = {
     partidosRouter,
-    seleccionesRouter
+    seleccionesRouter,
+    authRouter
 }
