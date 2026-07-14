@@ -222,7 +222,9 @@
         "titular": false,
         "sustituyeA": "D. Gómez"
       }
-    ]
+    ],
+    "formacionLocal": "4-2-3-1",
+    "formacionVisitante": "4-3-3"
   },
   {
     "localCodigo": "FRA",
@@ -450,7 +452,9 @@
         "titular": false,
         "sustituyeA": "Lindelöf"
       }
-    ]
+    ],
+    "formacionLocal": "4-2-3-1",
+    "formacionVisitante": "4-4-2"
   },
   {
     "localCodigo": "RSA",
@@ -662,7 +666,9 @@
         "titular": false,
         "sustituyeA": "Larin"
       }
-    ]
+    ],
+    "formacionLocal": "4-2-3-1",
+    "formacionVisitante": "4-2-3-1"
   },
   {
     "localCodigo": "NED",
@@ -887,7 +893,9 @@
         "titular": false,
         "sustituyeA": "En-Nesyri"
       }
-    ]
+    ],
+    "formacionLocal": "4-3-3",
+    "formacionVisitante": "4-3-3"
   },
   {
     "localCodigo": "POR",
@@ -1116,7 +1124,9 @@
         "titular": false,
         "sustituyeA": "Perišić"
       }
-    ]
+    ],
+    "formacionLocal": "4-3-3",
+    "formacionVisitante": "4-3-3"
   },
   {
     "localCodigo": "ESP",
@@ -1344,7 +1354,9 @@
         "titular": false,
         "sustituyeA": "Laimer"
       }
-    ]
+    ],
+    "formacionLocal": "4-3-3",
+    "formacionVisitante": "4-2-3-1"
   },
   {
     "localCodigo": "USA",
@@ -1561,7 +1573,9 @@
         "titular": false,
         "sustituyeA": "Tahirović"
       }
-    ]
+    ],
+    "formacionLocal": "4-3-3",
+    "formacionVisitante": "4-2-3-1"
   },
   {
     "localCodigo": "BEL",
@@ -1800,7 +1814,9 @@
         "titular": false,
         "sustituyeA": "Gana Gueye"
       }
-    ]
+    ],
+    "formacionLocal": "4-2-3-1",
+    "formacionVisitante": "4-3-3"
   },
   {
     "localCodigo": "BRA",
@@ -2028,7 +2044,9 @@
         "titular": false,
         "sustituyeA": "Morita"
       }
-    ]
+    ],
+    "formacionLocal": "4-3-3",
+    "formacionVisitante": "3-4-2-1"
   },
   {
     "localCodigo": "CIV",
@@ -2250,7 +2268,9 @@
         "titular": false,
         "sustituyeA": "Berg"
       }
-    ]
+    ],
+    "formacionLocal": "4-3-3",
+    "formacionVisitante": "4-3-3"
   },
   {
     "localCodigo": "MEX",
@@ -2473,7 +2493,9 @@
         "titular": false,
         "sustituyeA": "Páez"
       }
-    ]
+    ],
+    "formacionLocal": "4-2-3-1",
+    "formacionVisitante": "4-2-3-1"
   },
   {
     "localCodigo": "ENG",
@@ -2695,7 +2717,9 @@
         "titular": false,
         "sustituyeA": "Bakambu"
       }
-    ]
+    ],
+    "formacionLocal": "4-2-3-1",
+    "formacionVisitante": "4-2-3-1"
   },
   {
     "localCodigo": "ARG",
@@ -2934,7 +2958,9 @@
         "titular": false,
         "sustituyeA": "Andrade"
       }
-    ]
+    ],
+    "formacionLocal": "4-3-3",
+    "formacionVisitante": "4-3-3"
   },
   {
     "localCodigo": "AUS",
@@ -3160,7 +3186,9 @@
         "titular": false,
         "sustituyeA": "Mostafa Mohamed"
       }
-    ]
+    ],
+    "formacionLocal": "4-4-2",
+    "formacionVisitante": "4-3-3"
   },
   {
     "localCodigo": "SUI",
@@ -3383,7 +3411,9 @@
         "titular": false,
         "sustituyeA": "Mahrez"
       }
-    ]
+    ],
+    "formacionLocal": "3-4-2-1",
+    "formacionVisitante": "4-3-3"
   },
   {
     "localCodigo": "COL",
@@ -3601,7 +3631,9 @@
         "titular": false,
         "sustituyeA": "J. Ayew"
       }
-    ]
+    ],
+    "formacionLocal": "4-2-3-1",
+    "formacionVisitante": "4-2-3-1"
   },
   {
     "localCodigo": "PAR",
@@ -3808,7 +3840,9 @@
         "titular": false,
         "sustituyeA": "Griezmann"
       }
-    ]
+    ],
+    "formacionLocal": "4-3-3",
+    "formacionVisitante": "4-2-3-1"
   },
   {
     "localCodigo": "CAN",
@@ -4036,7 +4070,9 @@
         "titular": false,
         "sustituyeA": "El Khannouss"
       }
-    ]
+    ],
+    "formacionLocal": "4-2-3-1",
+    "formacionVisitante": "4-2-3-1"
   },
   {
     "localCodigo": "POR",
@@ -4254,7 +4290,9 @@
         "titular": false,
         "sustituyeA": "Ruiz"
       }
-    ]
+    ],
+    "formacionLocal": "4-3-3",
+    "formacionVisitante": "4-3-3"
   },
   {
     "localCodigo": "USA",
@@ -4492,7 +4530,9 @@
         "titular": false,
         "sustituyeA": "Doku"
       }
-    ]
+    ],
+    "formacionLocal": "4-3-3",
+    "formacionVisitante": "4-2-3-1"
   },
   {
     "localCodigo": "BRA",
@@ -4715,7 +4755,9 @@
         "titular": false,
         "sustituyeA": "Nusa"
       }
-    ]
+    ],
+    "formacionLocal": "4-3-3",
+    "formacionVisitante": "4-3-3"
   },
   {
     "localCodigo": "MEX",
@@ -4955,7 +4997,9 @@
         "titular": false,
         "sustituyeA": "Mainoo"
       }
-    ]
+    ],
+    "formacionLocal": "4-2-3-1",
+    "formacionVisitante": "4-2-3-1"
   },
   {
     "localCodigo": "ARG",
@@ -5187,7 +5231,9 @@
         "titular": false,
         "sustituyeA": "Ashour"
       }
-    ]
+    ],
+    "formacionLocal": "4-3-3",
+    "formacionVisitante": "4-3-3"
   },
   {
     "localCodigo": "SUI",
@@ -5229,7 +5275,6 @@
         "tirosLibres": 22,
         "tarjetasAmarillas": 0
       }
-      
     },
     "goleadores": [],
     "fecha": "2026-07-07",
@@ -5402,7 +5447,9 @@
         "titular": false,
         "sustituyeA": "Arias"
       }
-    ]
+    ],
+    "formacionLocal": "3-4-2-1",
+    "formacionVisitante": "4-2-3-1"
   },
   {
     "localCodigo": "FRA",
@@ -5625,7 +5672,9 @@
         "titular": false,
         "sustituyeA": "El Khannouss"
       }
-    ]
+    ],
+    "formacionLocal": "4-2-3-1",
+    "formacionVisitante": "4-2-3-1"
   },
   {
     "localCodigo": "ESP",
@@ -5853,7 +5902,9 @@
         "titular": false,
         "sustituyeA": "De Cuyper"
       }
-    ]
+    ],
+    "formacionLocal": "4-2-3-1",
+    "formacionVisitante": "4-2-3-1"
   },
   {
     "localCodigo": "NOR",
@@ -6081,7 +6132,9 @@
         "titular": false,
         "sustituyeA": "Gordon"
       }
-    ]
+    ],
+    "formacionLocal": "4-1-2-3",
+    "formacionVisitante": "4-2-3-1"
   },
   {
     "localCodigo": "ARG",
@@ -6314,6 +6367,8 @@
         "titular": false,
         "sustituyeA": "Ndoye"
       }
-    ]
+    ],
+    "formacionLocal": "4-1-3-2",
+    "formacionVisitante": "4-2-3-1"
   }
 ]
