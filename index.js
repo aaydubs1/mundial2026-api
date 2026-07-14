@@ -8,7 +8,7 @@ const cors     = require('cors')
 const morgan   = require('morgan')
 const mongoose = require('mongoose')
 
-const { partidosRouter , seleccionesRouter } = require('./router')
+const { partidosRouter , seleccionesRouter , authRouter } = require('./router')
 const { middleware404 , middleware500 } = require('./middlewares')
 
 const app = express()
@@ -23,10 +23,10 @@ const DATABASE_URL = process.env.DATABASE_URL
 
     app.use(`/api/partidos`    , partidosRouter)
     app.use(`/api/selecciones` , seleccionesRouter)
-
+    app.use(`/api/login`, authRouter)
+    
     app.use(middleware404)
     app.use(middleware500)
-    app.use(`/api/login`, authRouter)
 
 // Conectamos a Mongo y, solo si va bien, levantamos el servidor
 mongoose.connect(DATABASE_URL)
