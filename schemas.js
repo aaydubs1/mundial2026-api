@@ -35,6 +35,15 @@ const goleadorSchema = new Schema({
     enPropia : { type : Boolean , default : false }  // si fue en propia puerta
 }, { _id : false })
 
+// Sub-esquema de un jugador en la alineacion de un partido.
+const jugadorAlineacionSchema = new Schema({
+    nombre     : { type : String  , required : true , trim : true },
+    equipo     : { type : String  , enum : [`local`, `visitante`] , required : true },
+    posicion   : { type : String  , enum : [`Portero`, `Defensa`, `Centrocampista`, `Delantero`] },
+    titular    : { type : Boolean , default : true },
+    sustituyeA : { type : String  , trim : true } // solo para suplentes
+}, { _id : false })
+
 // Esquema del PARTIDO (entidad principal del CRUD).
 const partidoSchema = new Schema({
     local            : { type : Schema.Types.ObjectId , ref : `Seleccion` , required : true },
@@ -44,6 +53,9 @@ const partidoSchema = new Schema({
     penalesLocal     : { type : Number }, // opcional: solo si hay tanda
     penalesVisitante : { type : Number }, // opcional: solo si hay tanda
     goleadores       : { type : [goleadorSchema] , default : [] }, // quien marco cada gol
+    alineaciones     : { type : [jugadorAlineacionSchema] , default : [] }, // once inicial + cambios
+    formacionLocal     : { type : String , trim : true }, // ej "4-3-3"
+    formacionVisitante : { type : String , trim : true },
     fecha            : { type : Date },
     fase             : { type : String  , trim : true },
     estadio          : { type : String  , trim : true },
@@ -52,6 +64,8 @@ const partidoSchema = new Schema({
         local     : { type : estadisticasEquipoSchema , default : () => ({}) },
         visitante : { type : estadisticasEquipoSchema , default : () => ({}) }
     }
+    
+    
 }, { timestamps : true , versionKey : false })
 
 module.exports = {
