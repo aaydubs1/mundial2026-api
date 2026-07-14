@@ -1,5 +1,5 @@
-const { Partido , Seleccion } = require('./models')
-
+const bcrypt = require('bcryptjs')
+const { Partido , Seleccion , Usuario } = require('./models')
 
 // ============ PARTIDOS ============
 
