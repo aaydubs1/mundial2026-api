@@ -209,11 +209,36 @@ const postLogin = async ( req , res , next ) => {
             return next(error)
         }
 
-        res.status(200).json({ message : `Login correcto`, data : { email : usuario.email } })
+        res.status(200).json({ message : `Login correcto`, data : { email : usuario.email , rol : usuario.rol } })
+    } catch (error) {
+        next(error)
+    }
+
+    
+}
+
+
+// POST /api/registro -> crea un usuario nuevo con rol "usuario"
+const postRegistro = async ( req , res , next ) => {
+    try {
+        const { email , password } = req.body
+
+        const existe = await Usuario.findOne({ email })
+        if( existe ){
+            const error = new Error(`Ya existe una cuenta con ese email`)
+            error.status = 409
+            return next(error)
+        }
+
+        const passwordHash = await bcrypt.hash(password, 10)
+        const usuario = await Usuario.create({ email , password : passwordHash })
+
+        res.status(201).json({ message : `Cuenta creada`, data : { email : usuario.email , rol : usuario.rol } })
     } catch (error) {
         next(error)
     }
 }
+
 module.exports = {
     getPartidos, getPartidoById, getPartidosByFase, getPartidosByJugado,
     postPartido, putPartido, patchPartido, deletePartido,

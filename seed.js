@@ -44,7 +44,7 @@ const cargarDatos = async () => {
         // 3) Creamos un usuario de administracion para el login
         await Usuario.deleteMany()
         const passwordHash = await bcrypt.hash(`mundial2026`, 10)
-        await Usuario.create({ email : `admin@mundial.com`, password : passwordHash })
+        await Usuario.create({ email : `admin@mundial.com`, password : passwordHash, rol : `admin` })
         console.log(`✅ usuario admin creado (admin@mundial.com / mundial2026)`)
 
         console.log(`🌱 Datos cargados correctamente`)

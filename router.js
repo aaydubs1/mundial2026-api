@@ -5,7 +5,7 @@ const {
     postPartido, putPartido, patchPartido, deletePartido,
     getSelecciones, getSeleccionById,
     postSeleccion, putSeleccion, patchSeleccion, deleteSeleccion,
-    postLogin
+    postLogin, postRegistro
 } = require('./controllers')
 
 const { validarJugadoParam , validarPartidoBody } = require('./middlewares')
@@ -46,9 +46,14 @@ seleccionesRouter.route(`/:_id`)
 authRouter.route(`/`)
     .post( postLogin )
 
+const registroRouter = express.Router()
+
+registroRouter.route(`/`)
+    .post( postRegistro )
 
 module.exports = {
     partidosRouter,
     seleccionesRouter,
-    authRouter
+    authRouter,
+    registroRouter
 }

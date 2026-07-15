@@ -24,6 +24,7 @@ const DATABASE_URL = process.env.DATABASE_URL
     app.use(`/api/partidos`    , partidosRouter)
     app.use(`/api/selecciones` , seleccionesRouter)
     app.use(`/api/login`, authRouter)
+    app.use(`/api/registro`, registroRouter)
     
     app.use(middleware404)
     app.use(middleware500)

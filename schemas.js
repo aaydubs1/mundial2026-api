@@ -68,10 +68,11 @@ const partidoSchema = new Schema({
     
 }, { timestamps : true , versionKey : false })
 
-// Esquema de USUARIO (para el login).
+// Esquema de USUARIO (para el login y registro).
 const usuarioSchema = new Schema({
     email    : { type : String , required : true , trim : true , lowercase : true , unique : true },
-    password : { type : String , required : true }
+    password : { type : String , required : true },
+    rol      : { type : String , enum : [`usuario`, `admin`] , default : `usuario` }
 }, { timestamps : true , versionKey : false })
 
 module.exports = {
