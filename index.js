@@ -8,7 +8,7 @@ const cors     = require('cors')
 const morgan   = require('morgan')
 const mongoose = require('mongoose')
 
-const { partidosRouter , seleccionesRouter , authRouter } = require('./router')
+const { partidosRouter , seleccionesRouter , authRouter, registroRouter } = require('./router')
 const { middleware404 , middleware500 } = require('./middlewares')
 
 const app = express()

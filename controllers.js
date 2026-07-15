@@ -243,5 +243,5 @@ module.exports = {
     getPartidos, getPartidoById, getPartidosByFase, getPartidosByJugado,
     postPartido, putPartido, patchPartido, deletePartido,
     getSelecciones, getSeleccionById,
-    postSeleccion, putSeleccion, patchSeleccion, deleteSeleccion, postLogin
+    postSeleccion, putSeleccion, patchSeleccion, deleteSeleccion, postLogin, postRegistro
 }
