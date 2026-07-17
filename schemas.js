@@ -26,6 +26,42 @@ const estadisticasEquipoSchema = new Schema({
     tarjetasAmarillas  : { type : Number , default : 0 }
 }, { _id : false })
 
+// Sub-esquemas de las estadisticas avanzadas (tab tras login).
+const estadisticasTirosSchema = new Schema({
+    tirosTotales    : { type : Number , default : 0 },
+    tirosPuerta     : { type : Number , default : 0 },
+    disparosPalo    : { type : Number , default : 0 },
+    tirosFuera      : { type : Number , default : 0 },
+    tirosBloqueados : { type : Number , default : 0 },
+    tirosArea       : { type : Number , default : 0 },
+    tirosFueraArea  : { type : Number , default : 0 }
+}, { _id : false })
+
+const estadisticasAtaqueSchema = new Schema({
+    ocasionesClarasRealizadas : { type : Number , default : 0 },
+    ocasionesClarasFalladas   : { type : Number , default : 0 },
+    pasesProfundidad          : { type : Number , default : 0 },
+    toquesArea                : { type : Number , default : 0 },
+    faltasUltimoTercio        : { type : Number , default : 0 },
+    fuerasDeJuego             : { type : Number , default : 0 }
+}, { _id : false })
+
+const estadisticasDefensaSchema = new Schema({
+    entradasGanadas : { type : Number , default : 0 }, // %
+    totalEntradas   : { type : Number , default : 0 },
+    intercepciones  : { type : Number , default : 0 },
+    recuperaciones  : { type : Number , default : 0 },
+    despejes        : { type : Number , default : 0 },
+    erroresDisparo  : { type : Number , default : 0 },
+    erroresGol      : { type : Number , default : 0 }
+}, { _id : false })
+
+const estadisticasAvanzadasEquipoSchema = new Schema({
+    tiros   : { type : estadisticasTirosSchema   , default : () => ({}) },
+    ataque  : { type : estadisticasAtaqueSchema  , default : () => ({}) },
+    defensa : { type : estadisticasDefensaSchema , default : () => ({}) }
+}, { _id : false })
+
 // Sub-esquema de un gol (quien lo marco).
 const goleadorSchema = new Schema({
     nombre   : { type : String  , required : true , trim : true }, // "Lamine Yamal"
@@ -60,12 +96,14 @@ const partidoSchema = new Schema({
     fase             : { type : String  , trim : true },
     estadio          : { type : String  , trim : true },
     jugado           : { type : Boolean , default : false },
-    estadisticas     : {
+estadisticas     : {
         local     : { type : estadisticasEquipoSchema , default : () => ({}) },
         visitante : { type : estadisticasEquipoSchema , default : () => ({}) }
+    },
+    estadisticasAvanzadas : {
+        local     : { type : estadisticasAvanzadasEquipoSchema , default : () => ({}) },
+        visitante : { type : estadisticasAvanzadasEquipoSchema , default : () => ({}) }
     }
-    
-    
 }, { timestamps : true , versionKey : false })
 
 // Esquema de USUARIO (para el login y registro).
