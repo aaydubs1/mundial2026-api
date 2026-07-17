@@ -55,15 +55,9 @@
     "fecha": "2026-06-29",
     "alineaciones": [
       {
-        "nombre": "Ter Stegen",
+        "nombre": "Neuer",
         "equipo": "local",
         "posicion": "Portero",
-        "titular": true
-      },
-      {
-        "nombre": "Kimmich",
-        "equipo": "local",
-        "posicion": "Defensa",
         "titular": true
       },
       {
@@ -79,31 +73,25 @@
         "titular": true
       },
       {
-        "nombre": "Raum",
+        "nombre": "Pavlović",
         "equipo": "local",
         "posicion": "Defensa",
         "titular": true
       },
       {
-        "nombre": "Andrich",
-        "equipo": "local",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Pavlović",
-        "equipo": "local",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
         "nombre": "Wirtz",
         "equipo": "local",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Kimmich",
+        "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Gündoğan",
+        "nombre": "Nmecha",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
@@ -117,41 +105,59 @@
       {
         "nombre": "Havertz",
         "equipo": "local",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Undav",
+        "equipo": "local",
         "posicion": "Delantero",
         "titular": true
       },
       {
-        "nombre": "Füllkrug",
+        "nombre": "Canale",
         "equipo": "local",
-        "titular": false,
-        "sustituyeA": "Havertz"
+        "posicion": "Delantero",
+        "titular": true
       },
       {
-        "nombre": "Müller",
+        "nombre": "Leon Goretzka",
         "equipo": "local",
         "titular": false,
-        "sustituyeA": "Sané"
+        "sustituyeA": "Nmecha"
       },
       {
-        "nombre": "Kroos",
+        "nombre": "Waldemar Anton",
         "equipo": "local",
         "titular": false,
         "sustituyeA": "Pavlović"
       },
       {
-        "nombre": "Coronel",
+        "nombre": "Nick Woltemade",
+        "equipo": "local",
+        "titular": false,
+        "sustituyeA": "Sané"
+      },
+      {
+        "nombre": "Nadiem Amiri",
+        "equipo": "local",
+        "titular": false,
+        "sustituyeA": "Wirtz"
+      },
+      {
+        "nombre": "Gómez",
         "equipo": "visitante",
         "posicion": "Portero",
         "titular": true
       },
       {
-        "nombre": "Rojas",
+        "nombre": "Velázquez",
         "equipo": "visitante",
         "posicion": "Defensa",
         "titular": true
       },
       {
-        "nombre": "Gómez",
+        "nombre": "Cáceres",
         "equipo": "visitante",
         "posicion": "Defensa",
         "titular": true
@@ -175,13 +181,13 @@
         "titular": true
       },
       {
-        "nombre": "Villasanti",
+        "nombre": "Galarza",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "D. Gómez",
+        "nombre": "Enciso",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
@@ -189,42 +195,48 @@
       {
         "nombre": "Almirón",
         "equipo": "visitante",
-        "posicion": "Delantero",
+        "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Enciso",
-        "equipo": "visitante",
-        "posicion": "Delantero",
-        "titular": true
-      },
-      {
-        "nombre": "Sanabria",
+        "nombre": "Avalos",
         "equipo": "visitante",
         "posicion": "Delantero",
         "titular": true
       },
       {
-        "nombre": "Sosa",
+        "nombre": "Bobadilla",
         "equipo": "visitante",
-        "titular": false,
-        "sustituyeA": "Almirón"
+        "posicion": "Delantero",
+        "titular": true
       },
       {
-        "nombre": "Romero",
+        "nombre": "Gustavo Caballero",
         "equipo": "visitante",
         "titular": false,
-        "sustituyeA": "Sanabria"
+        "sustituyeA": "Avalos"
       },
       {
-        "nombre": "Sánchez",
+        "nombre": "Mauricio",
         "equipo": "visitante",
         "titular": false,
-        "sustituyeA": "D. Gómez"
+        "sustituyeA": "Enciso"
+      },
+      {
+        "nombre": "Braian Ojeda",
+        "equipo": "visitante",
+        "titular": false,
+        "sustituyeA": "Cáceres"
+      },
+      {
+        "nombre": "Fabián Balbuena",
+        "equipo": "visitante",
+        "titular": false,
+        "sustituyeA": "Alonso"
       }
     ],
-    "formacionLocal": "4-2-3-1",
-    "formacionVisitante": "4-3-3"
+    "formacionLocal": "4-4-2",
+    "formacionVisitante": "4-4-2"
   },
   {
     "localCodigo": "FRA",
@@ -297,7 +309,7 @@
         "titular": true
       },
       {
-        "nombre": "Konaté",
+        "nombre": "Upamecano",
         "equipo": "local",
         "posicion": "Defensa",
         "titular": true
@@ -309,15 +321,9 @@
         "titular": true
       },
       {
-        "nombre": "T. Hernández",
+        "nombre": "Digne",
         "equipo": "local",
         "posicion": "Defensa",
-        "titular": true
-      },
-      {
-        "nombre": "Tchouaméni",
-        "equipo": "local",
-        "posicion": "Centrocampista",
         "titular": true
       },
       {
@@ -327,13 +333,7 @@
         "titular": true
       },
       {
-        "nombre": "Dembélé",
-        "equipo": "local",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Griezmann",
+        "nombre": "Tchouaméni",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
@@ -345,45 +345,57 @@
         "titular": true
       },
       {
+        "nombre": "Olise",
+        "equipo": "local",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
         "nombre": "Mbappé",
+        "equipo": "local",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Dembélé",
         "equipo": "local",
         "posicion": "Delantero",
         "titular": true
       },
       {
-        "nombre": "Giroud",
+        "nombre": "Malo Gusto",
         "equipo": "local",
         "titular": false,
-        "sustituyeA": "Mbappé"
+        "sustituyeA": "Koundé"
       },
       {
-        "nombre": "Coman",
+        "nombre": "Désiré Doué",
         "equipo": "local",
         "titular": false,
         "sustituyeA": "Dembélé"
       },
       {
-        "nombre": "Camavinga",
+        "nombre": "Theo Hernández",
         "equipo": "local",
         "titular": false,
-        "sustituyeA": "Rabiot"
+        "sustituyeA": "Digne"
       },
       {
-        "nombre": "Olsen",
+        "nombre": "Rayan Cherki",
+        "equipo": "local",
+        "titular": false,
+        "sustituyeA": "Olise"
+      },
+      {
+        "nombre": "Jean-Philippe Mateta",
+        "equipo": "local",
+        "titular": false,
+        "sustituyeA": "Mbappé"
+      },
+      {
+        "nombre": "Zetterström",
         "equipo": "visitante",
         "posicion": "Portero",
-        "titular": true
-      },
-      {
-        "nombre": "Holm",
-        "equipo": "visitante",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
-        "nombre": "Hien",
-        "equipo": "visitante",
-        "posicion": "Defensa",
         "titular": true
       },
       {
@@ -393,25 +405,31 @@
         "titular": true
       },
       {
-        "nombre": "Augustinsson",
+        "nombre": "Lagerbielke",
         "equipo": "visitante",
         "posicion": "Defensa",
         "titular": true
       },
       {
-        "nombre": "Kulusevski",
+        "nombre": "Ayari",
+        "equipo": "visitante",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Gudmundsson",
+        "equipo": "visitante",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Svensson",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Cajuste",
-        "equipo": "visitante",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Larsson",
+        "nombre": "Bergvall",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
@@ -425,7 +443,7 @@
       {
         "nombre": "Isak",
         "equipo": "visitante",
-        "posicion": "Delantero",
+        "posicion": "Centrocampista",
         "titular": true
       },
       {
@@ -435,22 +453,28 @@
         "titular": true
       },
       {
-        "nombre": "Forsberg",
+        "nombre": "Stroud",
         "equipo": "visitante",
-        "titular": false,
-        "sustituyeA": "Elanga"
+        "posicion": "Delantero",
+        "titular": true
       },
       {
-        "nombre": "Svanberg",
+        "nombre": "Besfort Zeneli",
         "equipo": "visitante",
         "titular": false,
-        "sustituyeA": "Cajuste"
+        "sustituyeA": "Bergvall"
       },
       {
-        "nombre": "Starfelt",
+        "nombre": "Mattias Svanberg",
         "equipo": "visitante",
         "titular": false,
-        "sustituyeA": "Lindelöf"
+        "sustituyeA": "Svensson"
+      },
+      {
+        "nombre": "Benjamin Nygren",
+        "equipo": "visitante",
+        "titular": false,
+        "sustituyeA": "Ayari"
       }
     ],
     "formacionLocal": "4-2-3-1",
@@ -517,13 +541,7 @@
         "titular": true
       },
       {
-        "nombre": "Kekana",
-        "equipo": "local",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
-        "nombre": "Mvala",
+        "nombre": "Sithole",
         "equipo": "local",
         "posicion": "Defensa",
         "titular": true
@@ -537,53 +555,59 @@
       {
         "nombre": "Mokoena",
         "equipo": "local",
-        "posicion": "Centrocampista",
+        "posicion": "Defensa",
         "titular": true
       },
       {
-        "nombre": "Sithole",
+        "nombre": "Makgopa",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Morena",
+        "nombre": "Mofokeng",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Zwane",
+        "nombre": "Appollis",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Tau",
+        "nombre": "Mbokazi",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Lepasa",
+        "nombre": "Okon",
+        "equipo": "local",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Laryea",
         "equipo": "local",
         "posicion": "Delantero",
         "titular": true
       },
       {
-        "nombre": "Mayambela",
+        "nombre": "Thalente Mbatha",
         "equipo": "local",
         "titular": false,
-        "sustituyeA": "Morena"
+        "sustituyeA": "Mofokeng"
       },
       {
-        "nombre": "Sibisi",
+        "nombre": "Iqraam Rayners",
         "equipo": "local",
         "titular": false,
-        "sustituyeA": "Zwane"
+        "sustituyeA": "Makgopa"
       },
       {
-        "nombre": "Crépeau",
+        "nombre": "Crepeau",
         "equipo": "visitante",
         "posicion": "Portero",
         "titular": true
@@ -601,31 +625,25 @@
         "titular": true
       },
       {
-        "nombre": "Cornelius",
+        "nombre": "Laryea",
         "equipo": "visitante",
         "posicion": "Defensa",
-        "titular": true
-      },
-      {
-        "nombre": "Davies",
-        "equipo": "visitante",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
-        "nombre": "Eustáquio",
-        "equipo": "visitante",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Koné",
-        "equipo": "visitante",
-        "posicion": "Centrocampista",
         "titular": true
       },
       {
         "nombre": "Buchanan",
+        "equipo": "visitante",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Eustaquio",
+        "equipo": "visitante",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Oluwaseyi",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
@@ -643,32 +661,38 @@
         "titular": true
       },
       {
-        "nombre": "Larin",
+        "nombre": "Cornelius",
         "equipo": "visitante",
         "posicion": "Delantero",
         "titular": true
       },
       {
-        "nombre": "Shaffelburg",
+        "nombre": "Sigur",
+        "equipo": "visitante",
+        "posicion": "Delantero",
+        "titular": true
+      },
+      {
+        "nombre": "Luc De Fougerolles",
+        "equipo": "visitante",
+        "titular": false,
+        "sustituyeA": "Bombito"
+      },
+      {
+        "nombre": "Jacob Shaffelburg",
         "equipo": "visitante",
         "titular": false,
         "sustituyeA": "Millar"
       },
       {
-        "nombre": "Osorio",
+        "nombre": "Alphonso Davies",
         "equipo": "visitante",
         "titular": false,
-        "sustituyeA": "Koné"
-      },
-      {
-        "nombre": "Brym",
-        "equipo": "visitante",
-        "titular": false,
-        "sustituyeA": "Larin"
+        "sustituyeA": "Buchanan"
       }
     ],
     "formacionLocal": "4-2-3-1",
-    "formacionVisitante": "4-2-3-1"
+    "formacionVisitante": "4-4-2"
   },
   {
     "localCodigo": "NED",
@@ -732,13 +756,7 @@
         "titular": true
       },
       {
-        "nombre": "Dumfries",
-        "equipo": "local",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
-        "nombre": "Van Dijk",
+        "nombre": "van Dijk",
         "equipo": "local",
         "posicion": "Defensa",
         "titular": true
@@ -750,64 +768,88 @@
         "titular": true
       },
       {
-        "nombre": "Van de Ven",
+        "nombre": "van de Ven",
         "equipo": "local",
         "posicion": "Defensa",
         "titular": true
       },
       {
-        "nombre": "Schouten",
+        "nombre": "van Hecke",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Reijnders",
+        "nombre": "Gravenberch",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Simons",
+        "nombre": "de Jong",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Frimpong",
+        "nombre": "Summerville",
         "equipo": "local",
-        "posicion": "Delantero",
+        "posicion": "Centrocampista",
         "titular": true
       },
       {
         "nombre": "Gakpo",
         "equipo": "local",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Brobbey",
+        "equipo": "local",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Riad",
+        "equipo": "local",
         "posicion": "Delantero",
         "titular": true
       },
       {
-        "nombre": "Depay",
-        "equipo": "local",
-        "posicion": "Delantero",
-        "titular": true
-      },
-      {
-        "nombre": "Malen",
+        "nombre": "Teun Koopmeiners",
         "equipo": "local",
         "titular": false,
-        "sustituyeA": "Frimpong"
+        "sustituyeA": "Aké"
       },
       {
-        "nombre": "Weghorst",
+        "nombre": "Wout Weghorst",
         "equipo": "local",
         "titular": false,
-        "sustituyeA": "Depay"
+        "sustituyeA": "Brobbey"
       },
       {
-        "nombre": "Wijnaldum",
+        "nombre": "Jorrel Hato",
         "equipo": "local",
         "titular": false,
-        "sustituyeA": "Schouten"
+        "sustituyeA": "van de Ven"
+      },
+      {
+        "nombre": "Quinten Timber",
+        "equipo": "local",
+        "titular": false,
+        "sustituyeA": "Gravenberch"
+      },
+      {
+        "nombre": "Marten de Roon",
+        "equipo": "local",
+        "titular": false,
+        "sustituyeA": "de Jong"
+      },
+      {
+        "nombre": "Justin Kluivert",
+        "equipo": "local",
+        "titular": false,
+        "sustituyeA": "Gakpo"
       },
       {
         "nombre": "Bono",
@@ -822,25 +864,25 @@
         "titular": true
       },
       {
-        "nombre": "Aguerd",
-        "equipo": "visitante",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
-        "nombre": "Saïss",
-        "equipo": "visitante",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
         "nombre": "Mazraoui",
         "equipo": "visitante",
         "posicion": "Defensa",
         "titular": true
       },
       {
-        "nombre": "Amrabat",
+        "nombre": "Talbi",
+        "equipo": "visitante",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "El Aynaoui",
+        "equipo": "visitante",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Bouaddi",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
@@ -852,50 +894,50 @@
         "titular": true
       },
       {
-        "nombre": "Amallah",
+        "nombre": "Khannouss",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Ziyech",
+        "nombre": "Saibari",
         "equipo": "visitante",
-        "posicion": "Delantero",
-        "titular": true
-      },
-      {
-        "nombre": "En-Nesyri",
-        "equipo": "visitante",
-        "posicion": "Delantero",
+        "posicion": "Centrocampista",
         "titular": true
       },
       {
         "nombre": "Díaz",
         "equipo": "visitante",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Diop",
+        "equipo": "visitante",
         "posicion": "Delantero",
         "titular": true
       },
       {
-        "nombre": "Adli",
+        "nombre": "Gessime Yassine",
         "equipo": "visitante",
         "titular": false,
-        "sustituyeA": "Ziyech"
+        "sustituyeA": "Díaz"
       },
       {
-        "nombre": "El Khannouss",
+        "nombre": "Samir El Mourabet",
         "equipo": "visitante",
         "titular": false,
-        "sustituyeA": "Amallah"
+        "sustituyeA": "Bouaddi"
       },
       {
-        "nombre": "Rahimi",
+        "nombre": "Soufiane Rahimi",
         "equipo": "visitante",
         "titular": false,
-        "sustituyeA": "En-Nesyri"
+        "sustituyeA": "Ounahi"
       }
     ],
-    "formacionLocal": "4-3-3",
-    "formacionVisitante": "4-3-3"
+    "formacionLocal": "3-4-2-1",
+    "formacionVisitante": "4-2-3-1"
   },
   {
     "localCodigo": "POR",
@@ -957,7 +999,7 @@
     "fecha": "2026-07-02",
     "alineaciones": [
       {
-        "nombre": "Diogo Costa",
+        "nombre": "D. Costa",
         "equipo": "local",
         "posicion": "Portero",
         "titular": true
@@ -969,13 +1011,7 @@
         "titular": true
       },
       {
-        "nombre": "Rúben Dias",
-        "equipo": "local",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
-        "nombre": "Inácio",
+        "nombre": "Dias",
         "equipo": "local",
         "posicion": "Defensa",
         "titular": true
@@ -987,9 +1023,9 @@
         "titular": true
       },
       {
-        "nombre": "Palhinha",
+        "nombre": "Neves",
         "equipo": "local",
-        "posicion": "Centrocampista",
+        "posicion": "Defensa",
         "titular": true
       },
       {
@@ -999,51 +1035,69 @@
         "titular": true
       },
       {
-        "nombre": "Bruno Fernandes",
+        "nombre": "Veiga",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
+        "nombre": "Fernandes",
+        "equipo": "local",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Félix",
+        "equipo": "local",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Neto",
+        "equipo": "local",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Ronaldo",
+        "equipo": "local",
+        "posicion": "Delantero",
+        "titular": true
+      },
+      {
         "nombre": "Bernardo Silva",
-        "equipo": "local",
-        "posicion": "Delantero",
-        "titular": true
-      },
-      {
-        "nombre": "Cristiano Ronaldo",
-        "equipo": "local",
-        "posicion": "Delantero",
-        "titular": true
-      },
-      {
-        "nombre": "Rafael Leão",
-        "equipo": "local",
-        "posicion": "Delantero",
-        "titular": true
-      },
-      {
-        "nombre": "Jota",
-        "equipo": "local",
-        "titular": false,
-        "sustituyeA": "Rafael Leão"
-      },
-      {
-        "nombre": "Neves",
         "equipo": "local",
         "titular": false,
         "sustituyeA": "Vitinha"
       },
       {
-        "nombre": "Félix",
+        "nombre": "Nélson Semedo",
         "equipo": "local",
         "titular": false,
-        "sustituyeA": "Bernardo Silva"
+        "sustituyeA": "Fernandes"
+      },
+      {
+        "nombre": "Francisco Conceição",
+        "equipo": "local",
+        "titular": false,
+        "sustituyeA": "Neto"
+      },
+      {
+        "nombre": "Gonçalo Ramos",
+        "equipo": "local",
+        "titular": false,
+        "sustituyeA": "Cancelo"
       },
       {
         "nombre": "Livaković",
         "equipo": "visitante",
         "posicion": "Portero",
+        "titular": true
+      },
+      {
+        "nombre": "Pongračić",
+        "equipo": "visitante",
+        "posicion": "Defensa",
         "titular": true
       },
       {
@@ -1053,27 +1107,15 @@
         "titular": true
       },
       {
-        "nombre": "Šutalo",
+        "nombre": "Sutalo",
         "equipo": "visitante",
         "posicion": "Defensa",
         "titular": true
       },
       {
-        "nombre": "Gvardiol",
+        "nombre": "Perišić",
         "equipo": "visitante",
         "posicion": "Defensa",
-        "titular": true
-      },
-      {
-        "nombre": "Sosa",
-        "equipo": "visitante",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
-        "nombre": "Modrić",
-        "equipo": "visitante",
-        "posicion": "Centrocampista",
         "titular": true
       },
       {
@@ -1083,50 +1125,62 @@
         "titular": true
       },
       {
-        "nombre": "Pašalić",
+        "nombre": "Sučić",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Majer",
+        "nombre": "Baturina",
         "equipo": "visitante",
-        "posicion": "Delantero",
+        "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Kramarić",
+        "nombre": "Vlašić",
         "equipo": "visitante",
-        "posicion": "Delantero",
+        "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Perišić",
+        "nombre": "Modrić",
         "equipo": "visitante",
-        "posicion": "Delantero",
+        "posicion": "Centrocampista",
         "titular": true
       },
       {
         "nombre": "Budimir",
         "equipo": "visitante",
-        "titular": false,
-        "sustituyeA": "Kramarić"
+        "posicion": "Delantero",
+        "titular": true
       },
       {
-        "nombre": "Sučić",
+        "nombre": "Igor Matanović",
         "equipo": "visitante",
         "titular": false,
-        "sustituyeA": "Pašalić"
+        "sustituyeA": "Budimir"
       },
       {
-        "nombre": "Petković",
+        "nombre": "Mario Pašalić",
         "equipo": "visitante",
         "titular": false,
-        "sustituyeA": "Perišić"
+        "sustituyeA": "Baturina"
+      },
+      {
+        "nombre": "Joško Gvardiol",
+        "equipo": "visitante",
+        "titular": false,
+        "sustituyeA": "Vlašić"
+      },
+      {
+        "nombre": "Andrej Kramarić",
+        "equipo": "visitante",
+        "titular": false,
+        "sustituyeA": "Kovačić"
       }
     ],
-    "formacionLocal": "4-3-3",
-    "formacionVisitante": "4-3-3"
+    "formacionLocal": "4-2-3-1",
+    "formacionVisitante": "4-2-3-1"
   },
   {
     "localCodigo": "ESP",
@@ -1187,19 +1241,19 @@
     "fecha": "2026-07-02",
     "alineaciones": [
       {
-        "nombre": "Simón",
+        "nombre": "U. Simón",
         "equipo": "local",
         "posicion": "Portero",
         "titular": true
       },
       {
-        "nombre": "Carvajal",
+        "nombre": "Porro",
         "equipo": "local",
         "posicion": "Defensa",
         "titular": true
       },
       {
-        "nombre": "Le Normand",
+        "nombre": "Cubarsí",
         "equipo": "local",
         "posicion": "Defensa",
         "titular": true
@@ -1217,19 +1271,13 @@
         "titular": true
       },
       {
-        "nombre": "Pedri",
-        "equipo": "local",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
         "nombre": "Rodri",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Ruiz",
+        "nombre": "Pedri",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
@@ -1237,49 +1285,61 @@
       {
         "nombre": "Yamal",
         "equipo": "local",
-        "posicion": "Delantero",
-        "titular": true
-      },
-      {
-        "nombre": "Morata",
-        "equipo": "local",
-        "posicion": "Delantero",
-        "titular": true
-      },
-      {
-        "nombre": "Williams",
-        "equipo": "local",
-        "posicion": "Delantero",
+        "posicion": "Centrocampista",
         "titular": true
       },
       {
         "nombre": "Olmo",
         "equipo": "local",
-        "titular": false,
-        "sustituyeA": "Pedri"
+        "posicion": "Centrocampista",
+        "titular": true
       },
       {
         "nombre": "Oyarzabal",
         "equipo": "local",
-        "titular": false,
-        "sustituyeA": "Morata"
-      },
-      {
-        "nombre": "Torres",
-        "equipo": "local",
-        "titular": false,
-        "sustituyeA": "Williams"
-      },
-      {
-        "nombre": "Lindelöf",
-        "equipo": "visitante",
-        "posicion": "Portero",
+        "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Wöber",
+        "nombre": "Baena",
+        "equipo": "local",
+        "posicion": "Delantero",
+        "titular": true
+      },
+      {
+        "nombre": "Mikel Merino",
+        "equipo": "local",
+        "titular": false,
+        "sustituyeA": "Olmo"
+      },
+      {
+        "nombre": "Ferran Torres",
+        "equipo": "local",
+        "titular": false,
+        "sustituyeA": "Baena"
+      },
+      {
+        "nombre": "Pablo Gavi",
+        "equipo": "local",
+        "titular": false,
+        "sustituyeA": "Yamal"
+      },
+      {
+        "nombre": "Marc Pubill",
+        "equipo": "local",
+        "titular": false,
+        "sustituyeA": "Laporte"
+      },
+      {
+        "nombre": "Fabián Ruiz",
+        "equipo": "local",
+        "titular": false,
+        "sustituyeA": "Pedri"
+      },
+      {
+        "nombre": "A. Schlager",
         "equipo": "visitante",
-        "posicion": "Defensa",
+        "posicion": "Portero",
         "titular": true
       },
       {
@@ -1289,19 +1349,37 @@
         "titular": true
       },
       {
-        "nombre": "Lienhart",
+        "nombre": "Posch",
         "equipo": "visitante",
         "posicion": "Defensa",
         "titular": true
       },
       {
-        "nombre": "Mwene",
+        "nombre": "Wanner",
         "equipo": "visitante",
         "posicion": "Defensa",
         "titular": true
       },
       {
         "nombre": "Seiwald",
+        "equipo": "visitante",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Laimer",
+        "equipo": "visitante",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "X. Schlager",
+        "equipo": "visitante",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Gregoritsch",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
@@ -1313,49 +1391,37 @@
         "titular": true
       },
       {
-        "nombre": "Laimer",
+        "nombre": "Schmid",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Baumgartner",
-        "equipo": "visitante",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Grillitsch",
-        "equipo": "visitante",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Gregoritsch",
+        "nombre": "Alaba",
         "equipo": "visitante",
         "posicion": "Delantero",
         "titular": true
       },
       {
-        "nombre": "Arnautović",
+        "nombre": "Florian Grillitsch",
+        "equipo": "visitante",
+        "titular": false,
+        "sustituyeA": "Seiwald"
+      },
+      {
+        "nombre": "Saša Kalajdžić",
         "equipo": "visitante",
         "titular": false,
         "sustituyeA": "Gregoritsch"
       },
       {
-        "nombre": "Schmid",
+        "nombre": "Alexander Prass",
         "equipo": "visitante",
         "titular": false,
-        "sustituyeA": "Grillitsch"
-      },
-      {
-        "nombre": "Wimmer",
-        "equipo": "visitante",
-        "titular": false,
-        "sustituyeA": "Laimer"
+        "sustituyeA": "Schmid"
       }
     ],
-    "formacionLocal": "4-3-3",
+    "formacionLocal": "4-2-3-1",
     "formacionVisitante": "4-2-3-1"
   },
   {
@@ -1418,7 +1484,7 @@
         "titular": true
       },
       {
-        "nombre": "Scally",
+        "nombre": "Robinson",
         "equipo": "local",
         "posicion": "Defensa",
         "titular": true
@@ -1436,7 +1502,13 @@
         "titular": true
       },
       {
-        "nombre": "Robinson",
+        "nombre": "Dest",
+        "equipo": "local",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Adams",
         "equipo": "local",
         "posicion": "Defensa",
         "titular": true
@@ -1448,21 +1520,15 @@
         "titular": true
       },
       {
-        "nombre": "Musah",
+        "nombre": "Tillman",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Reyna",
+        "nombre": "Pulisic",
         "equipo": "local",
         "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Weah",
-        "equipo": "local",
-        "posicion": "Delantero",
         "titular": true
       },
       {
@@ -1472,51 +1538,33 @@
         "titular": true
       },
       {
-        "nombre": "Pulisic",
+        "nombre": "Freeman",
         "equipo": "local",
         "posicion": "Delantero",
         "titular": true
       },
       {
-        "nombre": "Pepi",
+        "nombre": "Sebastian Berhalter",
         "equipo": "local",
         "titular": false,
-        "sustituyeA": "Balogun"
+        "sustituyeA": "Dest"
       },
       {
-        "nombre": "Aaronson",
+        "nombre": "Ricardo Pepi",
         "equipo": "local",
         "titular": false,
-        "sustituyeA": "Reyna"
+        "sustituyeA": "Pulisic"
       },
       {
-        "nombre": "Cardoso",
+        "nombre": "Giovanni Reyna",
         "equipo": "local",
         "titular": false,
-        "sustituyeA": "Musah"
+        "sustituyeA": "McKennie"
       },
       {
         "nombre": "Vasilj",
         "equipo": "visitante",
         "posicion": "Portero",
-        "titular": true
-      },
-      {
-        "nombre": "Gazibegović",
-        "equipo": "visitante",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
-        "nombre": "Ahmedhodžić",
-        "equipo": "visitante",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
-        "nombre": "Hadžikadunić",
-        "equipo": "visitante",
-        "posicion": "Defensa",
         "titular": true
       },
       {
@@ -1526,31 +1574,37 @@
         "titular": true
       },
       {
-        "nombre": "Krunić",
+        "nombre": "Muharemović",
+        "equipo": "visitante",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Katić",
+        "equipo": "visitante",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Dedić",
+        "equipo": "visitante",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Šunjić",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Tahirović",
+        "nombre": "Gigović",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Stevanović",
-        "equipo": "visitante",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Hajradinović",
-        "equipo": "visitante",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Demirović",
+        "nombre": "Alajbegović",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
@@ -1562,20 +1616,44 @@
         "titular": true
       },
       {
-        "nombre": "Tabaković",
+        "nombre": "Demirović",
+        "equipo": "visitante",
+        "posicion": "Delantero",
+        "titular": true
+      },
+      {
+        "nombre": "Radeljić",
+        "equipo": "visitante",
+        "posicion": "Delantero",
+        "titular": true
+      },
+      {
+        "nombre": "Benjamin Tahirovic",
+        "equipo": "visitante",
+        "titular": false,
+        "sustituyeA": "Šunjić"
+      },
+      {
+        "nombre": "Ermin Mahmic",
         "equipo": "visitante",
         "titular": false,
         "sustituyeA": "Džeko"
       },
       {
-        "nombre": "Cimirot",
+        "nombre": "Amar Memic",
         "equipo": "visitante",
         "titular": false,
-        "sustituyeA": "Tahirović"
+        "sustituyeA": "Katić"
+      },
+      {
+        "nombre": "Haris Tabakovic",
+        "equipo": "visitante",
+        "titular": false,
+        "sustituyeA": "Kolašinac"
       }
     ],
-    "formacionLocal": "4-3-3",
-    "formacionVisitante": "4-2-3-1"
+    "formacionLocal": "5-3-2",
+    "formacionVisitante": "4-3-3"
   },
   {
     "localCodigo": "BEL",
@@ -1647,25 +1725,13 @@
     "fecha": "2026-07-01",
     "alineaciones": [
       {
-        "nombre": "Casteels",
+        "nombre": "Courtois",
         "equipo": "local",
         "posicion": "Portero",
         "titular": true
       },
       {
-        "nombre": "Castagne",
-        "equipo": "local",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
-        "nombre": "Faes",
-        "equipo": "local",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
-        "nombre": "Vertonghen",
+        "nombre": "Mechele",
         "equipo": "local",
         "posicion": "Defensa",
         "titular": true
@@ -1677,25 +1743,43 @@
         "titular": true
       },
       {
+        "nombre": "Castagne",
+        "equipo": "local",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "De Cuyper",
+        "equipo": "local",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
         "nombre": "Onana",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Mangala",
+        "nombre": "Vanaken",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Bakayoko",
+        "nombre": "Trossard",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "De Bruyne",
+        "nombre": "De Ketelaere",
+        "equipo": "local",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Tielemans",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
@@ -1703,53 +1787,35 @@
       {
         "nombre": "Doku",
         "equipo": "local",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Lukaku",
-        "equipo": "local",
         "posicion": "Delantero",
         "titular": true
       },
       {
-        "nombre": "Trossard",
+        "nombre": "Romelu Lukaku",
         "equipo": "local",
         "titular": false,
-        "sustituyeA": "Bakayoko"
+        "sustituyeA": "De Ketelaere"
       },
       {
-        "nombre": "Tielemans",
+        "nombre": "Diego Moreira",
         "equipo": "local",
         "titular": false,
-        "sustituyeA": "Mangala"
+        "sustituyeA": "Vanaken"
       },
       {
-        "nombre": "De Ketelaere",
+        "nombre": "Thomas Meunier",
         "equipo": "local",
         "titular": false,
-        "sustituyeA": "Lukaku"
+        "sustituyeA": "De Cuyper"
       },
       {
-        "nombre": "Mendy",
+        "nombre": "Diaw",
         "equipo": "visitante",
         "posicion": "Portero",
         "titular": true
       },
       {
-        "nombre": "Sabaly",
-        "equipo": "visitante",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
-        "nombre": "Koulibaly",
-        "equipo": "visitante",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
-        "nombre": "Diallo",
+        "nombre": "Niakhaté",
         "equipo": "visitante",
         "posicion": "Defensa",
         "titular": true
@@ -1761,33 +1827,33 @@
         "titular": true
       },
       {
-        "nombre": "Camara",
+        "nombre": "Gueye",
+        "equipo": "visitante",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Ciss",
+        "equipo": "visitante",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Diatta",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Gana Gueye",
+        "nombre": "Ndiaye",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "S. Sarr",
+        "nombre": "Sarr",
         "equipo": "visitante",
         "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "I. Sarr",
-        "equipo": "visitante",
-        "posicion": "Delantero",
-        "titular": true
-      },
-      {
-        "nombre": "Jackson",
-        "equipo": "visitante",
-        "posicion": "Delantero",
         "titular": true
       },
       {
@@ -1797,22 +1863,28 @@
         "titular": true
       },
       {
-        "nombre": "Ndiaye",
+        "nombre": "Diarra",
         "equipo": "visitante",
-        "titular": false,
-        "sustituyeA": "I. Sarr"
+        "posicion": "Delantero",
+        "titular": true
       },
       {
-        "nombre": "Diallo",
+        "nombre": "P. Gueye",
         "equipo": "visitante",
-        "titular": false,
-        "sustituyeA": "Jackson"
+        "posicion": "Delantero",
+        "titular": true
       },
       {
-        "nombre": "Ciss",
+        "nombre": "El Hadji Malick Diouf",
         "equipo": "visitante",
         "titular": false,
-        "sustituyeA": "Gana Gueye"
+        "sustituyeA": "Jakobs"
+      },
+      {
+        "nombre": "Nicolas Jackson",
+        "equipo": "visitante",
+        "titular": false,
+        "sustituyeA": "Mané"
       }
     ],
     "formacionLocal": "4-2-3-1",
@@ -1889,31 +1961,25 @@
         "titular": true
       },
       {
-        "nombre": "Militão",
-        "equipo": "local",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
         "nombre": "Marquinhos",
         "equipo": "local",
         "posicion": "Defensa",
         "titular": true
       },
       {
-        "nombre": "Wendell",
+        "nombre": "Magalhães",
         "equipo": "local",
         "posicion": "Defensa",
         "titular": true
       },
       {
-        "nombre": "Guimarães",
+        "nombre": "Santos",
         "equipo": "local",
-        "posicion": "Centrocampista",
+        "posicion": "Defensa",
         "titular": true
       },
       {
-        "nombre": "Gomes",
+        "nombre": "Casemiro",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
@@ -1925,7 +1991,25 @@
         "titular": true
       },
       {
-        "nombre": "Vinícius Jr.",
+        "nombre": "Guimarães",
+        "equipo": "local",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Vinícius Jr",
+        "equipo": "local",
+        "posicion": "Delantero",
+        "titular": true
+      },
+      {
+        "nombre": "Cunha",
+        "equipo": "local",
+        "posicion": "Delantero",
+        "titular": true
+      },
+      {
+        "nombre": "Rayan",
         "equipo": "local",
         "posicion": "Delantero",
         "titular": true
@@ -1933,32 +2017,14 @@
       {
         "nombre": "Endrick",
         "equipo": "local",
-        "posicion": "Delantero",
-        "titular": true
+        "titular": false,
+        "sustituyeA": "Cunha"
       },
       {
-        "nombre": "Raphinha",
-        "equipo": "local",
-        "posicion": "Delantero",
-        "titular": true
-      },
-      {
-        "nombre": "Sávio",
+        "nombre": "Fabinho",
         "equipo": "local",
         "titular": false,
-        "sustituyeA": "Raphinha"
-      },
-      {
-        "nombre": "Martinelli",
-        "equipo": "local",
-        "titular": false,
-        "sustituyeA": "Vinícius Jr."
-      },
-      {
-        "nombre": "Pereira",
-        "equipo": "local",
-        "titular": false,
-        "sustituyeA": "Paquetá"
+        "sustituyeA": "Casemiro"
       },
       {
         "nombre": "Suzuki",
@@ -1967,7 +2033,7 @@
         "titular": true
       },
       {
-        "nombre": "Itakura",
+        "nombre": "Tomiyasu",
         "equipo": "visitante",
         "posicion": "Defensa",
         "titular": true
@@ -1979,37 +2045,13 @@
         "titular": true
       },
       {
-        "nombre": "Machida",
+        "nombre": "Ito",
         "equipo": "visitante",
         "posicion": "Defensa",
         "titular": true
       },
       {
-        "nombre": "Sugawara",
-        "equipo": "visitante",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Endo",
-        "equipo": "visitante",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Morita",
-        "equipo": "visitante",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Nakamura",
-        "equipo": "visitante",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Minamino",
+        "nombre": "Kamada",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
@@ -2021,28 +2063,52 @@
         "titular": true
       },
       {
+        "nombre": "Maeda",
+        "equipo": "visitante",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
         "nombre": "Ueda",
+        "equipo": "visitante",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Sano",
+        "equipo": "visitante",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "S. Ito",
+        "equipo": "visitante",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Nakamura",
         "equipo": "visitante",
         "posicion": "Delantero",
         "titular": true
       },
       {
-        "nombre": "Kubo",
+        "nombre": "Ao Tanaka",
         "equipo": "visitante",
         "titular": false,
-        "sustituyeA": "Minamino"
+        "sustituyeA": "Kamada"
       },
       {
-        "nombre": "Ito",
+        "nombre": "Shuto Machino",
         "equipo": "visitante",
         "titular": false,
-        "sustituyeA": "Doan"
+        "sustituyeA": "Ito"
       },
       {
-        "nombre": "Kamada",
+        "nombre": "Koki Ogawa",
         "equipo": "visitante",
         "titular": false,
-        "sustituyeA": "Morita"
+        "sustituyeA": "Maeda"
       }
     ],
     "formacionLocal": "4-3-3",
@@ -2113,25 +2179,25 @@
         "titular": true
       },
       {
-        "nombre": "Aurier",
-        "equipo": "local",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
-        "nombre": "Diomande",
-        "equipo": "local",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
-        "nombre": "Ndicka",
-        "equipo": "local",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
         "nombre": "Konan",
+        "equipo": "local",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Agbadou",
+        "equipo": "local",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Oulaï",
+        "equipo": "local",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Kossounou",
         "equipo": "local",
         "posicion": "Defensa",
         "titular": true
@@ -2143,46 +2209,34 @@
         "titular": true
       },
       {
-        "nombre": "Seri",
-        "equipo": "local",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
         "nombre": "Sangaré",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Adingra",
+        "nombre": "Diomande",
         "equipo": "local",
-        "posicion": "Delantero",
+        "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Haller",
+        "nombre": "Bonny",
         "equipo": "local",
-        "posicion": "Delantero",
+        "posicion": "Centrocampista",
         "titular": true
       },
       {
         "nombre": "Pépé",
         "equipo": "local",
-        "posicion": "Delantero",
+        "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Kouamé",
+        "nombre": "Doué",
         "equipo": "local",
-        "titular": false,
-        "sustituyeA": "Pépé"
-      },
-      {
-        "nombre": "Krasso",
-        "equipo": "local",
-        "titular": false,
-        "sustituyeA": "Seri"
+        "posicion": "Delantero",
+        "titular": true
       },
       {
         "nombre": "Nyland",
@@ -2191,19 +2245,19 @@
         "titular": true
       },
       {
-        "nombre": "Ryerson",
-        "equipo": "visitante",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
-        "nombre": "Østigård",
-        "equipo": "visitante",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
         "nombre": "Ajer",
+        "equipo": "visitante",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Heggem",
+        "equipo": "visitante",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Ryerson",
         "equipo": "visitante",
         "posicion": "Defensa",
         "titular": true
@@ -2215,13 +2269,13 @@
         "titular": true
       },
       {
-        "nombre": "Berge",
+        "nombre": "Berg",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Berg",
+        "nombre": "Berge",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
@@ -2233,7 +2287,7 @@
         "titular": true
       },
       {
-        "nombre": "Bobb",
+        "nombre": "Sørloth",
         "equipo": "visitante",
         "posicion": "Delantero",
         "titular": true
@@ -2251,25 +2305,13 @@
         "titular": true
       },
       {
-        "nombre": "Sørloth",
-        "equipo": "visitante",
-        "titular": false,
-        "sustituyeA": "Bobb"
-      },
-      {
-        "nombre": "Larsen",
+        "nombre": "Andreas Schjelderup",
         "equipo": "visitante",
         "titular": false,
         "sustituyeA": "Nusa"
-      },
-      {
-        "nombre": "Thorstvedt",
-        "equipo": "visitante",
-        "titular": false,
-        "sustituyeA": "Berg"
       }
     ],
-    "formacionLocal": "4-3-3",
+    "formacionLocal": "4-1-4-1",
     "formacionVisitante": "4-3-3"
   },
   {
@@ -2326,7 +2368,7 @@
     "fecha": "2026-07-01",
     "alineaciones": [
       {
-        "nombre": "Malagón",
+        "nombre": "Rangel",
         "equipo": "local",
         "posicion": "Portero",
         "titular": true
@@ -2338,97 +2380,103 @@
         "titular": true
       },
       {
-        "nombre": "Montes",
-        "equipo": "local",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
         "nombre": "Vásquez",
         "equipo": "local",
         "posicion": "Defensa",
         "titular": true
       },
       {
-        "nombre": "Arteaga",
+        "nombre": "Montes",
         "equipo": "local",
         "posicion": "Defensa",
         "titular": true
       },
       {
-        "nombre": "Álvarez",
+        "nombre": "Gallardo",
         "equipo": "local",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Chávez",
-        "equipo": "local",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Antuna",
-        "equipo": "local",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Pineda",
-        "equipo": "local",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Huerta",
-        "equipo": "local",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Giménez",
-        "equipo": "local",
-        "posicion": "Delantero",
+        "posicion": "Defensa",
         "titular": true
       },
       {
         "nombre": "Romo",
         "equipo": "local",
-        "titular": false,
-        "sustituyeA": "Pineda"
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Lira",
+        "equipo": "local",
+        "posicion": "Centrocampista",
+        "titular": true
       },
       {
         "nombre": "Quiñones",
         "equipo": "local",
-        "titular": false,
-        "sustituyeA": "Huerta"
+        "posicion": "Centrocampista",
+        "titular": true
       },
       {
-        "nombre": "Martínez",
+        "nombre": "Mora",
+        "equipo": "local",
+        "posicion": "Delantero",
+        "titular": true
+      },
+      {
+        "nombre": "Alvarado",
+        "equipo": "local",
+        "posicion": "Delantero",
+        "titular": true
+      },
+      {
+        "nombre": "Jiménez",
+        "equipo": "local",
+        "posicion": "Delantero",
+        "titular": true
+      },
+      {
+        "nombre": "Brian Gutierrez",
         "equipo": "local",
         "titular": false,
-        "sustituyeA": "Giménez"
+        "sustituyeA": "Mora"
       },
       {
-        "nombre": "Domínguez",
+        "nombre": "Obed Vargas",
+        "equipo": "local",
+        "titular": false,
+        "sustituyeA": "Romo"
+      },
+      {
+        "nombre": "Santiago Gimenez",
+        "equipo": "local",
+        "titular": false,
+        "sustituyeA": "Jiménez"
+      },
+      {
+        "nombre": "Israel Reyes",
+        "equipo": "local",
+        "titular": false,
+        "sustituyeA": "Alvarado"
+      },
+      {
+        "nombre": "Orbelin Pineda",
+        "equipo": "local",
+        "titular": false,
+        "sustituyeA": "Quiñones"
+      },
+      {
+        "nombre": "Galíndez",
         "equipo": "visitante",
         "posicion": "Portero",
         "titular": true
       },
       {
-        "nombre": "Preciado",
-        "equipo": "visitante",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
-        "nombre": "Torres",
-        "equipo": "visitante",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
         "nombre": "Pacho",
+        "equipo": "visitante",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Ordóñez",
         "equipo": "visitante",
         "posicion": "Defensa",
         "titular": true
@@ -2440,9 +2488,9 @@
         "titular": true
       },
       {
-        "nombre": "Franco",
+        "nombre": "Angulo",
         "equipo": "visitante",
-        "posicion": "Centrocampista",
+        "posicion": "Defensa",
         "titular": true
       },
       {
@@ -2452,21 +2500,27 @@
         "titular": true
       },
       {
+        "nombre": "Franco",
+        "equipo": "visitante",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Vite",
+        "equipo": "visitante",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Plata",
+        "equipo": "visitante",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
         "nombre": "Yeboah",
         "equipo": "visitante",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Páez",
-        "equipo": "visitante",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Minda",
-        "equipo": "visitante",
-        "posicion": "Centrocampista",
+        "posicion": "Delantero",
         "titular": true
       },
       {
@@ -2476,26 +2530,14 @@
         "titular": true
       },
       {
-        "nombre": "Rodríguez",
+        "nombre": "Kevin Rodriguez",
         "equipo": "visitante",
         "titular": false,
-        "sustituyeA": "Minda"
-      },
-      {
-        "nombre": "Mena",
-        "equipo": "visitante",
-        "titular": false,
-        "sustituyeA": "Yeboah"
-      },
-      {
-        "nombre": "Caicedo",
-        "equipo": "visitante",
-        "titular": false,
-        "sustituyeA": "Páez"
+        "sustituyeA": "Valencia"
       }
     ],
-    "formacionLocal": "4-2-3-1",
-    "formacionVisitante": "4-2-3-1"
+    "formacionLocal": "4-3-3",
+    "formacionVisitante": "4-4-2"
   },
   {
     "localCodigo": "ENG",
@@ -2562,7 +2604,7 @@
         "titular": true
       },
       {
-        "nombre": "Walker",
+        "nombre": "Konsa",
         "equipo": "local",
         "posicion": "Defensa",
         "titular": true
@@ -2580,7 +2622,7 @@
         "titular": true
       },
       {
-        "nombre": "Trippier",
+        "nombre": "O'Reilly",
         "equipo": "local",
         "posicion": "Defensa",
         "titular": true
@@ -2592,13 +2634,13 @@
         "titular": true
       },
       {
-        "nombre": "Mainoo",
+        "nombre": "Anderson",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Saka",
+        "nombre": "Gordon",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
@@ -2610,45 +2652,27 @@
         "titular": true
       },
       {
-        "nombre": "Foden",
+        "nombre": "Kane",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Kane",
+        "nombre": "Madueke",
         "equipo": "local",
         "posicion": "Delantero",
         "titular": true
       },
       {
-        "nombre": "Palmer",
+        "nombre": "Bukayo Saka",
         "equipo": "local",
         "titular": false,
-        "sustituyeA": "Saka"
-      },
-      {
-        "nombre": "Watkins",
-        "equipo": "local",
-        "titular": false,
-        "sustituyeA": "Kane"
-      },
-      {
-        "nombre": "Gallagher",
-        "equipo": "local",
-        "titular": false,
-        "sustituyeA": "Mainoo"
+        "sustituyeA": "Madueke"
       },
       {
         "nombre": "Mpasi",
         "equipo": "visitante",
         "posicion": "Portero",
-        "titular": true
-      },
-      {
-        "nombre": "Kalulu",
-        "equipo": "visitante",
-        "posicion": "Defensa",
         "titular": true
       },
       {
@@ -2658,7 +2682,7 @@
         "titular": true
       },
       {
-        "nombre": "Inonga",
+        "nombre": "Tuanzebe",
         "equipo": "visitante",
         "posicion": "Defensa",
         "titular": true
@@ -2670,9 +2694,9 @@
         "titular": true
       },
       {
-        "nombre": "Pickel",
+        "nombre": "Mukau",
         "equipo": "visitante",
-        "posicion": "Centrocampista",
+        "posicion": "Defensa",
         "titular": true
       },
       {
@@ -2682,13 +2706,7 @@
         "titular": true
       },
       {
-        "nombre": "Bongonda",
-        "equipo": "visitante",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Kakuta",
+        "nombre": "Sadiki",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
@@ -2700,26 +2718,50 @@
         "titular": true
       },
       {
-        "nombre": "Bakambu",
+        "nombre": "Cipenga",
         "equipo": "visitante",
         "posicion": "Delantero",
         "titular": true
       },
       {
-        "nombre": "Elia",
+        "nombre": "Mbuku",
         "equipo": "visitante",
-        "titular": false,
-        "sustituyeA": "Bongonda"
+        "posicion": "Delantero",
+        "titular": true
       },
       {
-        "nombre": "Banza",
+        "nombre": "Spence",
+        "equipo": "visitante",
+        "posicion": "Delantero",
+        "titular": true
+      },
+      {
+        "nombre": "Meschak Elia",
         "equipo": "visitante",
         "titular": false,
-        "sustituyeA": "Bakambu"
+        "sustituyeA": "Mbuku"
+      },
+      {
+        "nombre": "Theo Bongonda",
+        "equipo": "visitante",
+        "titular": false,
+        "sustituyeA": "Cipenga"
+      },
+      {
+        "nombre": "Edo Kayembe",
+        "equipo": "visitante",
+        "titular": false,
+        "sustituyeA": "Mukau"
+      },
+      {
+        "nombre": "Fiston Mayele",
+        "equipo": "visitante",
+        "titular": false,
+        "sustituyeA": "Moutoussamy"
       }
     ],
     "formacionLocal": "4-2-3-1",
-    "formacionVisitante": "4-2-3-1"
+    "formacionVisitante": "4-3-3"
   },
   {
     "localCodigo": "ARG",
@@ -2791,19 +2833,13 @@
     "fecha": "2026-07-03",
     "alineaciones": [
       {
-        "nombre": "Dibu Martínez",
+        "nombre": "E. Martínez",
         "equipo": "local",
         "posicion": "Portero",
         "titular": true
       },
       {
-        "nombre": "Molina",
-        "equipo": "local",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
-        "nombre": "C. Romero",
+        "nombre": "Romero",
         "equipo": "local",
         "posicion": "Defensa",
         "titular": true
@@ -2821,13 +2857,13 @@
         "titular": true
       },
       {
-        "nombre": "De Paul",
+        "nombre": "Molina",
         "equipo": "local",
-        "posicion": "Centrocampista",
+        "posicion": "Defensa",
         "titular": true
       },
       {
-        "nombre": "Enzo Fernández",
+        "nombre": "Paredes",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
@@ -2839,40 +2875,28 @@
         "titular": true
       },
       {
+        "nombre": "Enzo Fernández",
+        "equipo": "local",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "De Paul",
+        "equipo": "local",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
         "nombre": "Messi",
         "equipo": "local",
         "posicion": "Delantero",
         "titular": true
       },
       {
-        "nombre": "Julián Álvarez",
+        "nombre": "Álvarez",
         "equipo": "local",
         "posicion": "Delantero",
         "titular": true
-      },
-      {
-        "nombre": "Di María",
-        "equipo": "local",
-        "posicion": "Delantero",
-        "titular": true
-      },
-      {
-        "nombre": "Lautaro Martínez",
-        "equipo": "local",
-        "titular": false,
-        "sustituyeA": "Julián Álvarez"
-      },
-      {
-        "nombre": "Paredes",
-        "equipo": "local",
-        "titular": false,
-        "sustituyeA": "Enzo Fernández"
-      },
-      {
-        "nombre": "Garnacho",
-        "equipo": "local",
-        "titular": false,
-        "sustituyeA": "Di María"
       },
       {
         "nombre": "Vozinha",
@@ -2881,19 +2905,19 @@
         "titular": true
       },
       {
-        "nombre": "Stopira",
+        "nombre": "Mendes",
         "equipo": "visitante",
         "posicion": "Defensa",
         "titular": true
       },
       {
-        "nombre": "Lopes",
+        "nombre": "Duarte",
         "equipo": "visitante",
         "posicion": "Defensa",
         "titular": true
       },
       {
-        "nombre": "Costa",
+        "nombre": "Cabral",
         "equipo": "visitante",
         "posicion": "Defensa",
         "titular": true
@@ -2905,62 +2929,44 @@
         "titular": true
       },
       {
-        "nombre": "Andrade",
+        "nombre": "Lenini",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "João Paulo",
+        "nombre": "Almada",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Monteiro",
+        "nombre": "D. Cabral",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Mendes",
+        "nombre": "S. Duarte",
         "equipo": "visitante",
-        "posicion": "Delantero",
+        "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Rodrigues",
+        "nombre": "Pico",
         "equipo": "visitante",
-        "posicion": "Delantero",
+        "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Bebé",
+        "nombre": "Da Costa",
         "equipo": "visitante",
         "posicion": "Delantero",
         "titular": true
-      },
-      {
-        "nombre": "Cabral",
-        "equipo": "visitante",
-        "titular": false,
-        "sustituyeA": "Bebé"
-      },
-      {
-        "nombre": "Teixeira",
-        "equipo": "visitante",
-        "titular": false,
-        "sustituyeA": "Rodrigues"
-      },
-      {
-        "nombre": "Santos",
-        "equipo": "visitante",
-        "titular": false,
-        "sustituyeA": "Andrade"
       }
     ],
-    "formacionLocal": "4-3-3",
-    "formacionVisitante": "4-3-3"
+    "formacionLocal": "4-4-2",
+    "formacionVisitante": "4-1-4-1"
   },
   {
     "localCodigo": "AUS",
@@ -3019,25 +3025,19 @@
     "fecha": "2026-07-03",
     "alineaciones": [
       {
-        "nombre": "Ryan",
+        "nombre": "Beach",
         "equipo": "local",
         "posicion": "Portero",
         "titular": true
       },
       {
-        "nombre": "Atkinson",
+        "nombre": "Circati",
         "equipo": "local",
         "posicion": "Defensa",
         "titular": true
       },
       {
-        "nombre": "Souttar",
-        "equipo": "local",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
-        "nombre": "Rowles",
+        "nombre": "Bos",
         "equipo": "local",
         "posicion": "Defensa",
         "titular": true
@@ -3049,13 +3049,7 @@
         "titular": true
       },
       {
-        "nombre": "Boyle",
-        "equipo": "local",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Baccus",
+        "nombre": "O'Neill",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
@@ -3067,43 +3061,73 @@
         "titular": true
       },
       {
-        "nombre": "Goodwin",
+        "nombre": "Metcalfe",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Duke",
+        "nombre": "Volpato",
+        "equipo": "local",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Irankunda",
+        "equipo": "local",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Herrington",
+        "equipo": "local",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Maseko",
         "equipo": "local",
         "posicion": "Delantero",
         "titular": true
       },
       {
-        "nombre": "Yengi",
-        "equipo": "local",
-        "posicion": "Delantero",
-        "titular": true
-      },
-      {
-        "nombre": "McGree",
+        "nombre": "Kai Trewin",
         "equipo": "local",
         "titular": false,
-        "sustituyeA": "Goodwin"
+        "sustituyeA": "Bos"
       },
       {
-        "nombre": "Hrustic",
+        "nombre": "Ajdin Hrustic",
         "equipo": "local",
         "titular": false,
-        "sustituyeA": "Baccus"
+        "sustituyeA": "Volpato"
       },
       {
-        "nombre": "Borrello",
+        "nombre": "Mohamed Toure",
         "equipo": "local",
         "titular": false,
-        "sustituyeA": "Duke"
+        "sustituyeA": "Irankunda"
       },
       {
-        "nombre": "El Shenawy",
+        "nombre": "Paul Okon-Engstler",
+        "equipo": "local",
+        "titular": false,
+        "sustituyeA": "O'Neill"
+      },
+      {
+        "nombre": "Awer Mabil",
+        "equipo": "local",
+        "titular": false,
+        "sustituyeA": "Metcalfe"
+      },
+      {
+        "nombre": "Mathew Ryan",
+        "equipo": "local",
+        "titular": false,
+        "sustituyeA": "Beach"
+      },
+      {
+        "nombre": "Shobeir",
         "equipo": "visitante",
         "posicion": "Portero",
         "titular": true
@@ -3115,37 +3139,43 @@
         "titular": true
       },
       {
-        "nombre": "Abdelmonem",
+        "nombre": "Rabia",
         "equipo": "visitante",
         "posicion": "Defensa",
         "titular": true
       },
       {
-        "nombre": "Hegazi",
+        "nombre": "Attia",
         "equipo": "visitante",
         "posicion": "Defensa",
         "titular": true
       },
       {
-        "nombre": "Hamdi",
+        "nombre": "Hafez",
         "equipo": "visitante",
         "posicion": "Defensa",
-        "titular": true
-      },
-      {
-        "nombre": "Elneny",
-        "equipo": "visitante",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Fathi",
-        "equipo": "visitante",
-        "posicion": "Centrocampista",
         "titular": true
       },
       {
         "nombre": "Ashour",
+        "equipo": "visitante",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Lasheen",
+        "equipo": "visitante",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Ziko",
+        "equipo": "visitante",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Hassan",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
@@ -3157,38 +3187,26 @@
         "titular": true
       },
       {
-        "nombre": "Mostafa Mohamed",
+        "nombre": "Ibrahim",
         "equipo": "visitante",
         "posicion": "Delantero",
         "titular": true
       },
       {
-        "nombre": "Trézéguet",
-        "equipo": "visitante",
-        "posicion": "Delantero",
-        "titular": true
-      },
-      {
-        "nombre": "Marmoush",
+        "nombre": "Mahmoud Trezeguet",
         "equipo": "visitante",
         "titular": false,
-        "sustituyeA": "Trézéguet"
+        "sustituyeA": "Hafez"
       },
       {
-        "nombre": "Zizo",
+        "nombre": "Mahmoud Saber",
         "equipo": "visitante",
         "titular": false,
-        "sustituyeA": "Ashour"
-      },
-      {
-        "nombre": "Sherif",
-        "equipo": "visitante",
-        "titular": false,
-        "sustituyeA": "Mostafa Mohamed"
+        "sustituyeA": "Attia"
       }
     ],
-    "formacionLocal": "4-4-2",
-    "formacionVisitante": "4-3-3"
+    "formacionLocal": "3-4-2-1",
+    "formacionVisitante": "4-4-2"
   },
   {
     "localCodigo": "SUI",
@@ -3244,13 +3262,19 @@
     "fecha": "2026-07-03",
     "alineaciones": [
       {
-        "nombre": "Sommer",
+        "nombre": "Kobel",
         "equipo": "local",
         "posicion": "Portero",
         "titular": true
       },
       {
-        "nombre": "Schär",
+        "nombre": "Elvedi",
+        "equipo": "local",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Rodríguez",
         "equipo": "local",
         "posicion": "Defensa",
         "titular": true
@@ -3262,13 +3286,13 @@
         "titular": true
       },
       {
-        "nombre": "Rodriguez",
+        "nombre": "Rieder",
         "equipo": "local",
         "posicion": "Defensa",
         "titular": true
       },
       {
-        "nombre": "Widmer",
+        "nombre": "Zakaria",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
@@ -3280,25 +3304,7 @@
         "titular": true
       },
       {
-        "nombre": "Xhaka",
-        "equipo": "local",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
         "nombre": "Ndoye",
-        "equipo": "local",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Shaqiri",
-        "equipo": "local",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Vargas",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
@@ -3306,37 +3312,43 @@
       {
         "nombre": "Embolo",
         "equipo": "local",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Xhaka",
+        "equipo": "local",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Vargas",
+        "equipo": "local",
         "posicion": "Delantero",
         "titular": true
       },
       {
-        "nombre": "Zakaria",
-        "equipo": "local",
-        "titular": false,
-        "sustituyeA": "Shaqiri"
-      },
-      {
-        "nombre": "Okafor",
-        "equipo": "local",
-        "titular": false,
-        "sustituyeA": "Vargas"
-      },
-      {
-        "nombre": "Amdouni",
+        "nombre": "Zeki Amdouni",
         "equipo": "local",
         "titular": false,
         "sustituyeA": "Embolo"
       },
       {
-        "nombre": "Mandrea",
-        "equipo": "visitante",
-        "posicion": "Portero",
-        "titular": true
+        "nombre": "Silvan Widmer",
+        "equipo": "local",
+        "titular": false,
+        "sustituyeA": "Zakaria"
       },
       {
-        "nombre": "Atal",
+        "nombre": "Michel Aebischer",
+        "equipo": "local",
+        "titular": false,
+        "sustituyeA": "Ndoye"
+      },
+      {
+        "nombre": "Maza",
         "equipo": "visitante",
-        "posicion": "Defensa",
+        "posicion": "Portero",
         "titular": true
       },
       {
@@ -3352,19 +3364,19 @@
         "titular": true
       },
       {
-        "nombre": "Aït-Nouri",
+        "nombre": "Ait-Nouri",
         "equipo": "visitante",
         "posicion": "Defensa",
         "titular": true
       },
       {
-        "nombre": "Bentaleb",
+        "nombre": "Zidane",
         "equipo": "visitante",
-        "posicion": "Centrocampista",
+        "posicion": "Defensa",
         "titular": true
       },
       {
-        "nombre": "Bennacer",
+        "nombre": "Zerrouki",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
@@ -3376,43 +3388,55 @@
         "titular": true
       },
       {
+        "nombre": "Chaïbi",
+        "equipo": "visitante",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Belghali",
+        "equipo": "visitante",
+        "posicion": "Delantero",
+        "titular": true
+      },
+      {
         "nombre": "Mahrez",
         "equipo": "visitante",
         "posicion": "Delantero",
         "titular": true
       },
       {
-        "nombre": "Bounedjah",
+        "nombre": "Manzambi",
         "equipo": "visitante",
         "posicion": "Delantero",
         "titular": true
       },
       {
-        "nombre": "Chaïbi",
-        "equipo": "visitante",
-        "posicion": "Delantero",
-        "titular": true
-      },
-      {
-        "nombre": "Gouiri",
+        "nombre": "Jaouen Hadjam",
         "equipo": "visitante",
         "titular": false,
-        "sustituyeA": "Bounedjah"
+        "sustituyeA": "Aouar"
       },
       {
-        "nombre": "Amoura",
+        "nombre": "Amine Gouiri",
         "equipo": "visitante",
         "titular": false,
-        "sustituyeA": "Chaïbi"
+        "sustituyeA": "Zerrouki"
       },
       {
-        "nombre": "Slimani",
+        "nombre": "Anis Hadj Moussa",
         "equipo": "visitante",
         "titular": false,
         "sustituyeA": "Mahrez"
+      },
+      {
+        "nombre": "Adil Boulbina",
+        "equipo": "visitante",
+        "titular": false,
+        "sustituyeA": "Belghali"
       }
     ],
-    "formacionLocal": "3-4-2-1",
+    "formacionLocal": "4-2-3-1",
     "formacionVisitante": "4-3-3"
   },
   {
@@ -3476,13 +3500,7 @@
         "titular": true
       },
       {
-        "nombre": "Sánchez",
-        "equipo": "local",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
-        "nombre": "Cuesta",
+        "nombre": "Lucumí",
         "equipo": "local",
         "posicion": "Defensa",
         "titular": true
@@ -3496,11 +3514,17 @@
       {
         "nombre": "Lerma",
         "equipo": "local",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Sánchez",
+        "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Ríos",
+        "nombre": "Puerta",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
@@ -3512,61 +3536,31 @@
         "titular": true
       },
       {
-        "nombre": "James Rodríguez",
-        "equipo": "local",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
         "nombre": "Díaz",
-        "equipo": "local",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Durán",
         "equipo": "local",
         "posicion": "Delantero",
         "titular": true
       },
       {
-        "nombre": "Borré",
+        "nombre": "Rodríguez",
         "equipo": "local",
-        "titular": false,
-        "sustituyeA": "Durán"
+        "posicion": "Delantero",
+        "titular": true
       },
       {
-        "nombre": "Carrascal",
+        "nombre": "Córdoba",
         "equipo": "local",
-        "titular": false,
-        "sustituyeA": "James Rodríguez"
+        "posicion": "Delantero",
+        "titular": true
       },
       {
-        "nombre": "Sinisterra",
-        "equipo": "local",
-        "titular": false,
-        "sustituyeA": "Arias"
-      },
-      {
-        "nombre": "Ati-Zigi",
+        "nombre": "Zigi",
         "equipo": "visitante",
         "posicion": "Portero",
         "titular": true
       },
       {
-        "nombre": "Seidu",
-        "equipo": "visitante",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
-        "nombre": "Amartey",
-        "equipo": "visitante",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
-        "nombre": "Salisu",
+        "nombre": "Yirenkyi",
         "equipo": "visitante",
         "posicion": "Defensa",
         "titular": true
@@ -3578,62 +3572,56 @@
         "titular": true
       },
       {
-        "nombre": "Samed",
+        "nombre": "Opoku",
+        "equipo": "visitante",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Senaya",
+        "equipo": "visitante",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Partey",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Ashimeru",
+        "nombre": "Sibo",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Kudus",
+        "nombre": "Ayew",
         "equipo": "visitante",
         "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "J. Ayew",
-        "equipo": "visitante",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Nuamah",
-        "equipo": "visitante",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Iñaki Williams",
-        "equipo": "visitante",
-        "posicion": "Delantero",
         "titular": true
       },
       {
         "nombre": "Semenyo",
         "equipo": "visitante",
-        "titular": false,
-        "sustituyeA": "Nuamah"
+        "posicion": "Centrocampista",
+        "titular": true
       },
       {
-        "nombre": "Partey",
+        "nombre": "Williams",
         "equipo": "visitante",
-        "titular": false,
-        "sustituyeA": "Ashimeru"
+        "posicion": "Centrocampista",
+        "titular": true
       },
       {
-        "nombre": "Bukari",
+        "nombre": "Luckassen",
         "equipo": "visitante",
-        "titular": false,
-        "sustituyeA": "J. Ayew"
+        "posicion": "Delantero",
+        "titular": true
       }
     ],
-    "formacionLocal": "4-2-3-1",
-    "formacionVisitante": "4-2-3-1"
+    "formacionLocal": "4-3-3",
+    "formacionVisitante": "4-1-4-1"
   },
   {
     "localCodigo": "PAR",
@@ -3685,19 +3673,19 @@
     "fecha": "2026-07-04",
     "alineaciones": [
       {
-        "nombre": "Coronel",
+        "nombre": "Gómez",
         "equipo": "local",
         "posicion": "Portero",
         "titular": true
       },
       {
-        "nombre": "Rojas",
+        "nombre": "Velázquez",
         "equipo": "local",
         "posicion": "Defensa",
         "titular": true
       },
       {
-        "nombre": "Gómez",
+        "nombre": "Cáceres",
         "equipo": "local",
         "posicion": "Defensa",
         "titular": true
@@ -3721,7 +3709,7 @@
         "titular": true
       },
       {
-        "nombre": "Villasanti",
+        "nombre": "Galarza",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
@@ -3733,34 +3721,22 @@
         "titular": true
       },
       {
-        "nombre": "Almirón",
-        "equipo": "local",
-        "posicion": "Delantero",
-        "titular": true
-      },
-      {
         "nombre": "Enciso",
         "equipo": "local",
-        "posicion": "Delantero",
+        "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Sosa",
+        "nombre": "Almirón",
         "equipo": "local",
-        "posicion": "Delantero",
+        "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Sanabria",
+        "nombre": "Gill",
         "equipo": "local",
-        "titular": false,
-        "sustituyeA": "Sosa"
-      },
-      {
-        "nombre": "Romero",
-        "equipo": "local",
-        "titular": false,
-        "sustituyeA": "D. Gómez"
+        "posicion": "Delantero",
+        "titular": true
       },
       {
         "nombre": "Maignan",
@@ -3775,7 +3751,7 @@
         "titular": true
       },
       {
-        "nombre": "Konaté",
+        "nombre": "Upamecano",
         "equipo": "visitante",
         "posicion": "Defensa",
         "titular": true
@@ -3787,31 +3763,19 @@
         "titular": true
       },
       {
-        "nombre": "T. Hernández",
+        "nombre": "Digne",
         "equipo": "visitante",
         "posicion": "Defensa",
         "titular": true
       },
       {
-        "nombre": "Tchouaméni",
-        "equipo": "visitante",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
         "nombre": "Rabiot",
         "equipo": "visitante",
-        "posicion": "Centrocampista",
+        "posicion": "Defensa",
         "titular": true
       },
       {
-        "nombre": "Dembélé",
-        "equipo": "visitante",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Griezmann",
+        "nombre": "Koné",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
@@ -3823,26 +3787,26 @@
         "titular": true
       },
       {
-        "nombre": "Mbappé",
+        "nombre": "Olise",
         "equipo": "visitante",
-        "posicion": "Delantero",
+        "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Thuram",
+        "nombre": "Mbappé",
         "equipo": "visitante",
-        "titular": false,
-        "sustituyeA": "Barcola"
+        "posicion": "Centrocampista",
+        "titular": true
       },
       {
-        "nombre": "Camavinga",
+        "nombre": "Dembélé",
         "equipo": "visitante",
-        "titular": false,
-        "sustituyeA": "Griezmann"
+        "posicion": "Delantero",
+        "titular": true
       }
     ],
-    "formacionLocal": "4-3-3",
-    "formacionVisitante": "4-2-3-1"
+    "formacionLocal": "4-2-3-1",
+    "formacionVisitante": "5-4-1"
   },
   {
     "localCodigo": "CAN",
@@ -3903,13 +3867,13 @@
     "fecha": "2026-07-04",
     "alineaciones": [
       {
-        "nombre": "Crépeau",
+        "nombre": "Crepeau",
         "equipo": "local",
         "posicion": "Portero",
         "titular": true
       },
       {
-        "nombre": "Johnston",
+        "nombre": "Laryea",
         "equipo": "local",
         "posicion": "Defensa",
         "titular": true
@@ -3921,31 +3885,25 @@
         "titular": true
       },
       {
-        "nombre": "Cornelius",
+        "nombre": "Johnston",
         "equipo": "local",
         "posicion": "Defensa",
         "titular": true
       },
       {
-        "nombre": "Davies",
+        "nombre": "Fougerolles",
         "equipo": "local",
         "posicion": "Defensa",
         "titular": true
       },
       {
-        "nombre": "Eustáquio",
+        "nombre": "Eustaquio",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Koné",
-        "equipo": "local",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Buchanan",
+        "nombre": "Ahmed",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
@@ -3957,34 +3915,28 @@
         "titular": true
       },
       {
-        "nombre": "Shaffelburg",
+        "nombre": "Oluwaseyi",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Larin",
+        "nombre": "Saibari",
         "equipo": "local",
         "posicion": "Delantero",
         "titular": true
       },
       {
-        "nombre": "Osorio",
+        "nombre": "Halhal",
         "equipo": "local",
-        "titular": false,
-        "sustituyeA": "Koné"
+        "posicion": "Delantero",
+        "titular": true
       },
       {
-        "nombre": "Brym",
+        "nombre": "Cyle Larin",
         "equipo": "local",
         "titular": false,
-        "sustituyeA": "Larin"
-      },
-      {
-        "nombre": "Millar",
-        "equipo": "local",
-        "titular": false,
-        "sustituyeA": "Shaffelburg"
+        "sustituyeA": "Oluwaseyi"
       },
       {
         "nombre": "Bono",
@@ -3999,25 +3951,25 @@
         "titular": true
       },
       {
-        "nombre": "Aguerd",
-        "equipo": "visitante",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
-        "nombre": "Saïss",
-        "equipo": "visitante",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
         "nombre": "Mazraoui",
         "equipo": "visitante",
         "posicion": "Defensa",
         "titular": true
       },
       {
-        "nombre": "Amrabat",
+        "nombre": "Talbi",
+        "equipo": "visitante",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "El Aynaoui",
+        "equipo": "visitante",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Bouaddi",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
@@ -4029,49 +3981,43 @@
         "titular": true
       },
       {
-        "nombre": "El Khannouss",
+        "nombre": "Khannouss",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Ziyech",
-        "equipo": "visitante",
-        "posicion": "Delantero",
-        "titular": true
-      },
-      {
-        "nombre": "En-Nesyri",
-        "equipo": "visitante",
-        "posicion": "Delantero",
-        "titular": true
-      },
-      {
         "nombre": "Díaz",
         "equipo": "visitante",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Diop",
+        "equipo": "visitante",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Saibari",
+        "equipo": "visitante",
         "posicion": "Delantero",
         "titular": true
       },
       {
-        "nombre": "Adli",
+        "nombre": "Samir El Mourabet",
         "equipo": "visitante",
         "titular": false,
-        "sustituyeA": "Ziyech"
+        "sustituyeA": "Khannouss"
       },
       {
-        "nombre": "Rahimi",
+        "nombre": "Soufiane Rahimi",
         "equipo": "visitante",
         "titular": false,
-        "sustituyeA": "En-Nesyri"
-      },
-      {
-        "nombre": "Amallah",
-        "equipo": "visitante",
-        "titular": false,
-        "sustituyeA": "El Khannouss"
+        "sustituyeA": "Bouaddi"
       }
     ],
-    "formacionLocal": "4-2-3-1",
+    "formacionLocal": "4-4-2",
     "formacionVisitante": "4-2-3-1"
   },
   {
@@ -4123,7 +4069,7 @@
     "fecha": "2026-07-06",
     "alineaciones": [
       {
-        "nombre": "Diogo Costa",
+        "nombre": "D. Costa",
         "equipo": "local",
         "posicion": "Portero",
         "titular": true
@@ -4135,13 +4081,7 @@
         "titular": true
       },
       {
-        "nombre": "Rúben Dias",
-        "equipo": "local",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
-        "nombre": "Inácio",
+        "nombre": "Dias",
         "equipo": "local",
         "posicion": "Defensa",
         "titular": true
@@ -4153,9 +4093,9 @@
         "titular": true
       },
       {
-        "nombre": "Palhinha",
+        "nombre": "Neves",
         "equipo": "local",
-        "posicion": "Centrocampista",
+        "posicion": "Defensa",
         "titular": true
       },
       {
@@ -4165,61 +4105,79 @@
         "titular": true
       },
       {
-        "nombre": "Bruno Fernandes",
+        "nombre": "Veiga",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Bernardo Silva",
+        "nombre": "Fernandes",
+        "equipo": "local",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Félix",
+        "equipo": "local",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Neto",
+        "equipo": "local",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Ronaldo",
         "equipo": "local",
         "posicion": "Delantero",
         "titular": true
       },
       {
-        "nombre": "Cristiano Ronaldo",
+        "nombre": "Nélson Semedo",
         "equipo": "local",
-        "posicion": "Delantero",
-        "titular": true
+        "titular": false,
+        "sustituyeA": "Mendes"
+      },
+      {
+        "nombre": "Diogo Dalot",
+        "equipo": "local",
+        "titular": false,
+        "sustituyeA": "Cancelo"
       },
       {
         "nombre": "Rafael Leão",
         "equipo": "local",
-        "posicion": "Delantero",
-        "titular": true
+        "titular": false,
+        "sustituyeA": "Félix"
       },
       {
-        "nombre": "Jota",
+        "nombre": "Bernardo Silva",
         "equipo": "local",
         "titular": false,
-        "sustituyeA": "Rafael Leão"
+        "sustituyeA": "Vitinha"
       },
       {
-        "nombre": "Ramos",
+        "nombre": "Francisco Conceição",
         "equipo": "local",
         "titular": false,
-        "sustituyeA": "Cristiano Ronaldo"
+        "sustituyeA": "Neto"
       },
       {
-        "nombre": "Conceição",
-        "equipo": "local",
-        "titular": false,
-        "sustituyeA": "Bernardo Silva"
-      },
-      {
-        "nombre": "Simón",
+        "nombre": "U. Simón",
         "equipo": "visitante",
         "posicion": "Portero",
         "titular": true
       },
       {
-        "nombre": "Carvajal",
+        "nombre": "Porro",
         "equipo": "visitante",
         "posicion": "Defensa",
         "titular": true
       },
       {
-        "nombre": "Le Normand",
+        "nombre": "Cubarsí",
         "equipo": "visitante",
         "posicion": "Defensa",
         "titular": true
@@ -4237,19 +4195,13 @@
         "titular": true
       },
       {
-        "nombre": "Pedri",
-        "equipo": "visitante",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
         "nombre": "Rodri",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Ruiz",
+        "nombre": "Pedri",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
@@ -4257,42 +4209,54 @@
       {
         "nombre": "Yamal",
         "equipo": "visitante",
-        "posicion": "Delantero",
-        "titular": true
-      },
-      {
-        "nombre": "Morata",
-        "equipo": "visitante",
-        "posicion": "Delantero",
-        "titular": true
-      },
-      {
-        "nombre": "Williams",
-        "equipo": "visitante",
-        "posicion": "Delantero",
+        "posicion": "Centrocampista",
         "titular": true
       },
       {
         "nombre": "Olmo",
         "equipo": "visitante",
-        "titular": false,
-        "sustituyeA": "Pedri"
+        "posicion": "Centrocampista",
+        "titular": true
       },
       {
         "nombre": "Oyarzabal",
         "equipo": "visitante",
-        "titular": false,
-        "sustituyeA": "Morata"
+        "posicion": "Centrocampista",
+        "titular": true
       },
       {
-        "nombre": "Merino",
+        "nombre": "Baena",
+        "equipo": "visitante",
+        "posicion": "Delantero",
+        "titular": true
+      },
+      {
+        "nombre": "Ferran Torres",
         "equipo": "visitante",
         "titular": false,
-        "sustituyeA": "Ruiz"
+        "sustituyeA": "Baena"
+      },
+      {
+        "nombre": "Fabián Ruiz",
+        "equipo": "visitante",
+        "titular": false,
+        "sustituyeA": "Pedri"
+      },
+      {
+        "nombre": "Mikel Merino",
+        "equipo": "visitante",
+        "titular": false,
+        "sustituyeA": "Olmo"
+      },
+      {
+        "nombre": "Borja Iglesias",
+        "equipo": "visitante",
+        "titular": false,
+        "sustituyeA": "Oyarzabal"
       }
     ],
-    "formacionLocal": "4-3-3",
-    "formacionVisitante": "4-3-3"
+    "formacionLocal": "4-2-3-1",
+    "formacionVisitante": "4-2-3-1"
   },
   {
     "localCodigo": "USA",
@@ -4369,7 +4333,7 @@
         "titular": true
       },
       {
-        "nombre": "Scally",
+        "nombre": "Robinson",
         "equipo": "local",
         "posicion": "Defensa",
         "titular": true
@@ -4387,9 +4351,15 @@
         "titular": true
       },
       {
-        "nombre": "Robinson",
+        "nombre": "Dest",
         "equipo": "local",
         "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Adams",
+        "equipo": "local",
+        "posicion": "Centrocampista",
         "titular": true
       },
       {
@@ -4399,19 +4369,13 @@
         "titular": true
       },
       {
-        "nombre": "Musah",
+        "nombre": "Tillman",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Reyna",
-        "equipo": "local",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Weah",
+        "nombre": "Pulisic",
         "equipo": "local",
         "posicion": "Delantero",
         "titular": true
@@ -4423,49 +4387,37 @@
         "titular": true
       },
       {
-        "nombre": "Pulisic",
+        "nombre": "Freeman",
         "equipo": "local",
         "posicion": "Delantero",
         "titular": true
       },
       {
-        "nombre": "Pepi",
+        "nombre": "Giovanni Reyna",
         "equipo": "local",
         "titular": false,
-        "sustituyeA": "Balogun"
+        "sustituyeA": "Dest"
       },
       {
-        "nombre": "Aaronson",
+        "nombre": "Ricardo Pepi",
         "equipo": "local",
         "titular": false,
-        "sustituyeA": "Weah"
+        "sustituyeA": "Pulisic"
       },
       {
-        "nombre": "Zendejas",
+        "nombre": "Esmir Bajraktarevic",
         "equipo": "local",
         "titular": false,
-        "sustituyeA": "Reyna"
+        "sustituyeA": "McKennie"
       },
       {
-        "nombre": "Casteels",
+        "nombre": "Courtois",
         "equipo": "visitante",
         "posicion": "Portero",
         "titular": true
       },
       {
-        "nombre": "Castagne",
-        "equipo": "visitante",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
-        "nombre": "Faes",
-        "equipo": "visitante",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
-        "nombre": "Vertonghen",
+        "nombre": "Mechele",
         "equipo": "visitante",
         "posicion": "Defensa",
         "titular": true
@@ -4477,58 +4429,52 @@
         "titular": true
       },
       {
+        "nombre": "Castagne",
+        "equipo": "visitante",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "De Cuyper",
+        "equipo": "visitante",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
         "nombre": "Onana",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Mangala",
+        "nombre": "Vanaken",
         "equipo": "visitante",
         "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Bakayoko",
-        "equipo": "visitante",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "De Bruyne",
-        "equipo": "visitante",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Doku",
-        "equipo": "visitante",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Lukaku",
-        "equipo": "visitante",
-        "posicion": "Delantero",
         "titular": true
       },
       {
         "nombre": "Trossard",
         "equipo": "visitante",
-        "titular": false,
-        "sustituyeA": "Bakayoko"
-      },
-      {
-        "nombre": "Tielemans",
-        "equipo": "visitante",
-        "titular": false,
-        "sustituyeA": "Mangala"
+        "posicion": "Centrocampista",
+        "titular": true
       },
       {
         "nombre": "De Ketelaere",
         "equipo": "visitante",
-        "titular": false,
-        "sustituyeA": "Doku"
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Tielemans",
+        "equipo": "visitante",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Ngoy",
+        "equipo": "visitante",
+        "posicion": "Delantero",
+        "titular": true
       }
     ],
     "formacionLocal": "4-3-3",
@@ -4606,31 +4552,25 @@
         "titular": true
       },
       {
-        "nombre": "Militão",
-        "equipo": "local",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
         "nombre": "Marquinhos",
         "equipo": "local",
         "posicion": "Defensa",
         "titular": true
       },
       {
-        "nombre": "Wendell",
+        "nombre": "Magalhães",
         "equipo": "local",
         "posicion": "Defensa",
         "titular": true
       },
       {
-        "nombre": "Guimarães",
+        "nombre": "Santos",
         "equipo": "local",
-        "posicion": "Centrocampista",
+        "posicion": "Defensa",
         "titular": true
       },
       {
-        "nombre": "Gomes",
+        "nombre": "Casemiro",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
@@ -4642,7 +4582,25 @@
         "titular": true
       },
       {
-        "nombre": "Vinícius Jr.",
+        "nombre": "Guimarães",
+        "equipo": "local",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Vinícius Jr",
+        "equipo": "local",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Cunha",
+        "equipo": "local",
+        "posicion": "Delantero",
+        "titular": true
+      },
+      {
+        "nombre": "Martinelli",
         "equipo": "local",
         "posicion": "Delantero",
         "titular": true
@@ -4650,32 +4608,8 @@
       {
         "nombre": "Endrick",
         "equipo": "local",
-        "posicion": "Delantero",
-        "titular": true
-      },
-      {
-        "nombre": "Raphinha",
-        "equipo": "local",
-        "posicion": "Delantero",
-        "titular": true
-      },
-      {
-        "nombre": "Sávio",
-        "equipo": "local",
         "titular": false,
-        "sustituyeA": "Raphinha"
-      },
-      {
-        "nombre": "Martinelli",
-        "equipo": "local",
-        "titular": false,
-        "sustituyeA": "Endrick"
-      },
-      {
-        "nombre": "Gabriel Jesus",
-        "equipo": "local",
-        "titular": false,
-        "sustituyeA": "Paquetá"
+        "sustituyeA": "Cunha"
       },
       {
         "nombre": "Nyland",
@@ -4684,19 +4618,19 @@
         "titular": true
       },
       {
-        "nombre": "Ryerson",
-        "equipo": "visitante",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
-        "nombre": "Østigård",
-        "equipo": "visitante",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
         "nombre": "Ajer",
+        "equipo": "visitante",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Heggem",
+        "equipo": "visitante",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Ryerson",
         "equipo": "visitante",
         "posicion": "Defensa",
         "titular": true
@@ -4708,13 +4642,13 @@
         "titular": true
       },
       {
-        "nombre": "Berge",
+        "nombre": "Berg",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Berg",
+        "nombre": "Berge",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
@@ -4726,7 +4660,7 @@
         "titular": true
       },
       {
-        "nombre": "Bobb",
+        "nombre": "Sørloth",
         "equipo": "visitante",
         "posicion": "Delantero",
         "titular": true
@@ -4744,19 +4678,19 @@
         "titular": true
       },
       {
-        "nombre": "Sørloth",
-        "equipo": "visitante",
-        "titular": false,
-        "sustituyeA": "Bobb"
-      },
-      {
-        "nombre": "Thorstvedt",
+        "nombre": "Andreas Schjelderup",
         "equipo": "visitante",
         "titular": false,
         "sustituyeA": "Nusa"
+      },
+      {
+        "nombre": "Leo Østigård",
+        "equipo": "visitante",
+        "titular": false,
+        "sustituyeA": "Wolfe"
       }
     ],
-    "formacionLocal": "4-3-3",
+    "formacionLocal": "4-4-2",
     "formacionVisitante": "4-3-3"
   },
   {
@@ -4830,7 +4764,7 @@
     "fecha": "2026-07-05",
     "alineaciones": [
       {
-        "nombre": "Malagón",
+        "nombre": "Rangel",
         "equipo": "local",
         "posicion": "Portero",
         "titular": true
@@ -4842,87 +4776,87 @@
         "titular": true
       },
       {
-        "nombre": "Montes",
-        "equipo": "local",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
         "nombre": "Vásquez",
         "equipo": "local",
         "posicion": "Defensa",
         "titular": true
       },
       {
-        "nombre": "Arteaga",
+        "nombre": "Montes",
         "equipo": "local",
         "posicion": "Defensa",
         "titular": true
       },
       {
-        "nombre": "Álvarez",
+        "nombre": "Gallardo",
+        "equipo": "local",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Romo",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Chávez",
+        "nombre": "Lira",
         "equipo": "local",
         "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Antuna",
-        "equipo": "local",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Pineda",
-        "equipo": "local",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Huerta",
-        "equipo": "local",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Giménez",
-        "equipo": "local",
-        "posicion": "Delantero",
         "titular": true
       },
       {
         "nombre": "Quiñones",
         "equipo": "local",
-        "titular": false,
-        "sustituyeA": "Huerta"
+        "posicion": "Centrocampista",
+        "titular": true
       },
       {
-        "nombre": "Romo",
+        "nombre": "Mora",
         "equipo": "local",
-        "titular": false,
-        "sustituyeA": "Pineda"
+        "posicion": "Delantero",
+        "titular": true
       },
       {
-        "nombre": "Vega",
+        "nombre": "Alvarado",
+        "equipo": "local",
+        "posicion": "Delantero",
+        "titular": true
+      },
+      {
+        "nombre": "Jiménez",
+        "equipo": "local",
+        "posicion": "Delantero",
+        "titular": true
+      },
+      {
+        "nombre": "Edson Álvarez",
         "equipo": "local",
         "titular": false,
-        "sustituyeA": "Antuna"
+        "sustituyeA": "Montes"
+      },
+      {
+        "nombre": "Brian Gutiérrez",
+        "equipo": "local",
+        "titular": false,
+        "sustituyeA": "Romo"
+      },
+      {
+        "nombre": "Santiago Giménez",
+        "equipo": "local",
+        "titular": false,
+        "sustituyeA": "Mora"
+      },
+      {
+        "nombre": "Álvaro Fidalgo",
+        "equipo": "local",
+        "titular": false,
+        "sustituyeA": "Sánchez"
       },
       {
         "nombre": "Pickford",
         "equipo": "visitante",
         "posicion": "Portero",
-        "titular": true
-      },
-      {
-        "nombre": "Walker",
-        "equipo": "visitante",
-        "posicion": "Defensa",
         "titular": true
       },
       {
@@ -4938,7 +4872,7 @@
         "titular": true
       },
       {
-        "nombre": "Trippier",
+        "nombre": "Konsa",
         "equipo": "visitante",
         "posicion": "Defensa",
         "titular": true
@@ -4946,17 +4880,17 @@
       {
         "nombre": "Rice",
         "equipo": "visitante",
-        "posicion": "Centrocampista",
+        "posicion": "Defensa",
         "titular": true
       },
       {
-        "nombre": "Mainoo",
+        "nombre": "Anderson",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Saka",
+        "nombre": "Gordon",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
@@ -4968,38 +4902,26 @@
         "titular": true
       },
       {
-        "nombre": "Foden",
+        "nombre": "Kane",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Kane",
+        "nombre": "Saka",
         "equipo": "visitante",
         "posicion": "Delantero",
         "titular": true
       },
       {
-        "nombre": "Palmer",
+        "nombre": "Quansah",
         "equipo": "visitante",
-        "titular": false,
-        "sustituyeA": "Saka"
-      },
-      {
-        "nombre": "Watkins",
-        "equipo": "visitante",
-        "titular": false,
-        "sustituyeA": "Foden"
-      },
-      {
-        "nombre": "Gallagher",
-        "equipo": "visitante",
-        "titular": false,
-        "sustituyeA": "Mainoo"
+        "posicion": "Delantero",
+        "titular": true
       }
     ],
-    "formacionLocal": "4-2-3-1",
-    "formacionVisitante": "4-2-3-1"
+    "formacionLocal": "4-3-3",
+    "formacionVisitante": "4-4-2"
   },
   {
     "localCodigo": "ARG",
@@ -5070,19 +4992,13 @@
     "fecha": "2026-07-07",
     "alineaciones": [
       {
-        "nombre": "Dibu Martínez",
+        "nombre": "E. Martínez",
         "equipo": "local",
         "posicion": "Portero",
         "titular": true
       },
       {
-        "nombre": "Molina",
-        "equipo": "local",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
-        "nombre": "C. Romero",
+        "nombre": "Romero",
         "equipo": "local",
         "posicion": "Defensa",
         "titular": true
@@ -5100,13 +5016,13 @@
         "titular": true
       },
       {
-        "nombre": "De Paul",
+        "nombre": "Molina",
         "equipo": "local",
-        "posicion": "Centrocampista",
+        "posicion": "Defensa",
         "titular": true
       },
       {
-        "nombre": "Enzo Fernández",
+        "nombre": "Paredes",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
@@ -5118,43 +5034,55 @@
         "titular": true
       },
       {
+        "nombre": "Enzo Fernández",
+        "equipo": "local",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "De Paul",
+        "equipo": "local",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
         "nombre": "Messi",
         "equipo": "local",
         "posicion": "Delantero",
         "titular": true
       },
       {
-        "nombre": "Julián Álvarez",
+        "nombre": "Álvarez",
         "equipo": "local",
         "posicion": "Delantero",
         "titular": true
       },
       {
-        "nombre": "Di María",
-        "equipo": "local",
-        "posicion": "Delantero",
-        "titular": true
-      },
-      {
-        "nombre": "Lautaro Martínez",
+        "nombre": "Nicolás González",
         "equipo": "local",
         "titular": false,
-        "sustituyeA": "Julián Álvarez"
+        "sustituyeA": "Tagliafico"
       },
       {
-        "nombre": "Paredes",
+        "nombre": "Gonzalo Montiel",
         "equipo": "local",
         "titular": false,
-        "sustituyeA": "Enzo Fernández"
+        "sustituyeA": "Molina"
       },
       {
-        "nombre": "Lo Celso",
+        "nombre": "Nicolás Otamendi",
         "equipo": "local",
         "titular": false,
-        "sustituyeA": "Di María"
+        "sustituyeA": "Romero"
       },
       {
-        "nombre": "El Shenawy",
+        "nombre": "Facundo Medina",
+        "equipo": "local",
+        "titular": false,
+        "sustituyeA": "Álvarez"
+      },
+      {
+        "nombre": "Shobeir",
         "equipo": "visitante",
         "posicion": "Portero",
         "titular": true
@@ -5166,37 +5094,43 @@
         "titular": true
       },
       {
-        "nombre": "Abdelmonem",
+        "nombre": "Rabia",
         "equipo": "visitante",
         "posicion": "Defensa",
         "titular": true
       },
       {
-        "nombre": "Hegazi",
+        "nombre": "Attia",
         "equipo": "visitante",
         "posicion": "Defensa",
         "titular": true
       },
       {
-        "nombre": "Hamdi",
+        "nombre": "Hafez",
         "equipo": "visitante",
         "posicion": "Defensa",
-        "titular": true
-      },
-      {
-        "nombre": "Elneny",
-        "equipo": "visitante",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Fathi",
-        "equipo": "visitante",
-        "posicion": "Centrocampista",
         "titular": true
       },
       {
         "nombre": "Ashour",
+        "equipo": "visitante",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Lasheen",
+        "equipo": "visitante",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Ziko",
+        "equipo": "visitante",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Hassan",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
@@ -5208,32 +5142,14 @@
         "titular": true
       },
       {
-        "nombre": "Mostafa Mohamed",
+        "nombre": "Ibrahim",
         "equipo": "visitante",
         "posicion": "Delantero",
         "titular": true
-      },
-      {
-        "nombre": "Marmoush",
-        "equipo": "visitante",
-        "posicion": "Delantero",
-        "titular": true
-      },
-      {
-        "nombre": "Trézéguet",
-        "equipo": "visitante",
-        "titular": false,
-        "sustituyeA": "Marmoush"
-      },
-      {
-        "nombre": "Zizo",
-        "equipo": "visitante",
-        "titular": false,
-        "sustituyeA": "Ashour"
       }
     ],
-    "formacionLocal": "4-3-3",
-    "formacionVisitante": "4-3-3"
+    "formacionLocal": "4-1-3-2",
+    "formacionVisitante": "4-4-2"
   },
   {
     "localCodigo": "SUI",
@@ -5280,13 +5196,19 @@
     "fecha": "2026-07-07",
     "alineaciones": [
       {
-        "nombre": "Sommer",
+        "nombre": "Kobel",
         "equipo": "local",
         "posicion": "Portero",
         "titular": true
       },
       {
-        "nombre": "Schär",
+        "nombre": "Elvedi",
+        "equipo": "local",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Rodríguez",
         "equipo": "local",
         "posicion": "Defensa",
         "titular": true
@@ -5298,13 +5220,13 @@
         "titular": true
       },
       {
-        "nombre": "Rodriguez",
+        "nombre": "Rieder",
         "equipo": "local",
         "posicion": "Defensa",
         "titular": true
       },
       {
-        "nombre": "Widmer",
+        "nombre": "Zakaria",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
@@ -5316,25 +5238,7 @@
         "titular": true
       },
       {
-        "nombre": "Xhaka",
-        "equipo": "local",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
         "nombre": "Ndoye",
-        "equipo": "local",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Shaqiri",
-        "equipo": "local",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Vargas",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
@@ -5342,26 +5246,44 @@
       {
         "nombre": "Embolo",
         "equipo": "local",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Xhaka",
+        "equipo": "local",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Vargas",
+        "equipo": "local",
         "posicion": "Delantero",
         "titular": true
       },
       {
-        "nombre": "Zakaria",
+        "nombre": "Miro Muheim",
         "equipo": "local",
         "titular": false,
-        "sustituyeA": "Shaqiri"
+        "sustituyeA": "Rodríguez"
       },
       {
-        "nombre": "Okafor",
+        "nombre": "Silvan Widmer",
         "equipo": "local",
         "titular": false,
-        "sustituyeA": "Vargas"
+        "sustituyeA": "Zakaria"
       },
       {
-        "nombre": "Rieder",
+        "nombre": "Cédric Itten",
         "equipo": "local",
         "titular": false,
         "sustituyeA": "Embolo"
+      },
+      {
+        "nombre": "Zeki Amdouni",
+        "equipo": "local",
+        "titular": false,
+        "sustituyeA": "Rieder"
       },
       {
         "nombre": "Vargas",
@@ -5376,13 +5298,7 @@
         "titular": true
       },
       {
-        "nombre": "Sánchez",
-        "equipo": "visitante",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
-        "nombre": "Cuesta",
+        "nombre": "Lucumí",
         "equipo": "visitante",
         "posicion": "Defensa",
         "titular": true
@@ -5396,11 +5312,17 @@
       {
         "nombre": "Lerma",
         "equipo": "visitante",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Sánchez",
+        "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Ríos",
+        "nombre": "Puerta",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
@@ -5412,44 +5334,50 @@
         "titular": true
       },
       {
-        "nombre": "James Rodríguez",
-        "equipo": "visitante",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
         "nombre": "Díaz",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Durán",
+        "nombre": "Rodríguez",
+        "equipo": "visitante",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Suárez",
         "equipo": "visitante",
         "posicion": "Delantero",
         "titular": true
       },
       {
-        "nombre": "Borré",
+        "nombre": "Richard Ríos",
         "equipo": "visitante",
         "titular": false,
-        "sustituyeA": "Durán"
+        "sustituyeA": "Rodríguez"
       },
       {
-        "nombre": "Carrascal",
-        "equipo": "visitante",
-        "titular": false,
-        "sustituyeA": "James Rodríguez"
-      },
-      {
-        "nombre": "Sinisterra",
+        "nombre": "Jaminton Campaz",
         "equipo": "visitante",
         "titular": false,
         "sustituyeA": "Arias"
+      },
+      {
+        "nombre": "Cucho Hernández",
+        "equipo": "visitante",
+        "titular": false,
+        "sustituyeA": "Suárez"
+      },
+      {
+        "nombre": "Yerry Mina",
+        "equipo": "visitante",
+        "titular": false,
+        "sustituyeA": "Lucumí"
       }
     ],
-    "formacionLocal": "3-4-2-1",
-    "formacionVisitante": "4-2-3-1"
+    "formacionLocal": "4-2-3-1",
+    "formacionVisitante": "4-4-1-1"
   },
   {
     "localCodigo": "FRA",
@@ -5535,19 +5463,13 @@
         "titular": true
       },
       {
-        "nombre": "Koné",
-        "equipo": "local",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
         "nombre": "Rabiot",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Dembélé",
+        "nombre": "Koné",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
@@ -5559,34 +5481,46 @@
         "titular": true
       },
       {
-        "nombre": "Doué",
+        "nombre": "Mbappé",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Mbappé",
+        "nombre": "Dembélé",
+        "equipo": "local",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Doué",
         "equipo": "local",
         "posicion": "Delantero",
         "titular": true
       },
       {
-        "nombre": "Barcola",
+        "nombre": "Warren Zaïre-Emery",
+        "equipo": "local",
+        "titular": false,
+        "sustituyeA": "Koné"
+      },
+      {
+        "nombre": "Jean-Philippe Mateta",
+        "equipo": "local",
+        "titular": false,
+        "sustituyeA": "Mbappé"
+      },
+      {
+        "nombre": "Bradley Barcola",
         "equipo": "local",
         "titular": false,
         "sustituyeA": "Doué"
       },
       {
-        "nombre": "Thuram",
+        "nombre": "Malo Gusto",
         "equipo": "local",
         "titular": false,
-        "sustituyeA": "Dembélé"
-      },
-      {
-        "nombre": "Tchouaméni",
-        "equipo": "local",
-        "titular": false,
-        "sustituyeA": "Koné"
+        "sustituyeA": "Koundé"
       },
       {
         "nombre": "Bono",
@@ -5601,13 +5535,13 @@
         "titular": true
       },
       {
-        "nombre": "Diop",
+        "nombre": "Mazraoui",
         "equipo": "visitante",
         "posicion": "Defensa",
         "titular": true
       },
       {
-        "nombre": "Mazraoui",
+        "nombre": "Talbi",
         "equipo": "visitante",
         "posicion": "Defensa",
         "titular": true
@@ -5625,7 +5559,19 @@
         "titular": true
       },
       {
+        "nombre": "Ounahi",
+        "equipo": "visitante",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
         "nombre": "El Aynaoui",
+        "equipo": "visitante",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Khannouss",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
@@ -5637,40 +5583,16 @@
         "titular": true
       },
       {
-        "nombre": "Ounahi",
-        "equipo": "visitante",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "El Khannouss",
-        "equipo": "visitante",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Talbi",
+        "nombre": "Diop",
         "equipo": "visitante",
         "posicion": "Delantero",
         "titular": true
       },
       {
-        "nombre": "Amrabat",
-        "equipo": "visitante",
-        "titular": false,
-        "sustituyeA": "Bouaddi"
-      },
-      {
-        "nombre": "El Kaabi",
+        "nombre": "Chadi Riad",
         "equipo": "visitante",
         "titular": false,
         "sustituyeA": "Talbi"
-      },
-      {
-        "nombre": "Rahimi",
-        "equipo": "visitante",
-        "titular": false,
-        "sustituyeA": "El Khannouss"
       }
     ],
     "formacionLocal": "4-2-3-1",
@@ -5735,7 +5657,7 @@
     },
     "alineaciones": [
       {
-        "nombre": "Simón",
+        "nombre": "U. Simón",
         "equipo": "local",
         "posicion": "Portero",
         "titular": true
@@ -5771,7 +5693,7 @@
         "titular": true
       },
       {
-        "nombre": "Ruiz",
+        "nombre": "Fabián Ruiz",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
@@ -5789,31 +5711,31 @@
         "titular": true
       },
       {
-        "nombre": "Baena",
+        "nombre": "Oyarzabal",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
-        "nombre": "Oyarzabal",
+        "nombre": "Baena",
         "equipo": "local",
         "posicion": "Delantero",
         "titular": true
       },
       {
-        "nombre": "Merino",
-        "equipo": "local",
-        "titular": false,
-        "sustituyeA": "Ruiz"
-      },
-      {
-        "nombre": "Williams",
+        "nombre": "Ferran Torres",
         "equipo": "local",
         "titular": false,
         "sustituyeA": "Baena"
       },
       {
-        "nombre": "Zubimendi",
+        "nombre": "Nico Williams",
+        "equipo": "local",
+        "titular": false,
+        "sustituyeA": "Oyarzabal"
+      },
+      {
+        "nombre": "Mikel Merino",
         "equipo": "local",
         "titular": false,
         "sustituyeA": "Olmo"
@@ -5825,19 +5747,19 @@
         "titular": true
       },
       {
-        "nombre": "Castagne",
-        "equipo": "visitante",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
-        "nombre": "Ngoy",
-        "equipo": "visitante",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
         "nombre": "Mechele",
+        "equipo": "visitante",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Theate",
+        "equipo": "visitante",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Castagne",
         "equipo": "visitante",
         "posicion": "Defensa",
         "titular": true
@@ -5849,25 +5771,13 @@
         "titular": true
       },
       {
-        "nombre": "Raskin",
+        "nombre": "Onana",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
       },
       {
         "nombre": "Vanaken",
-        "equipo": "visitante",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Doku",
-        "equipo": "visitante",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "De Bruyne",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
@@ -5881,26 +5791,26 @@
       {
         "nombre": "De Ketelaere",
         "equipo": "visitante",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "De Bruyne",
+        "equipo": "visitante",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Ngoy",
+        "equipo": "visitante",
         "posicion": "Delantero",
         "titular": true
       },
       {
-        "nombre": "Lukaku",
+        "nombre": "Alexis Saelemaekers",
         "equipo": "visitante",
         "titular": false,
-        "sustituyeA": "De Ketelaere"
-      },
-      {
-        "nombre": "Lukébakio",
-        "equipo": "visitante",
-        "titular": false,
-        "sustituyeA": "Trossard"
-      },
-      {
-        "nombre": "Theate",
-        "equipo": "visitante",
-        "titular": false,
-        "sustituyeA": "De Cuyper"
+        "sustituyeA": "De Bruyne"
       }
     ],
     "formacionLocal": "4-2-3-1",
@@ -5971,12 +5881,6 @@
         "titular": true
       },
       {
-        "nombre": "Ryerson",
-        "equipo": "local",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
         "nombre": "Ajer",
         "equipo": "local",
         "posicion": "Defensa",
@@ -5984,6 +5888,12 @@
       },
       {
         "nombre": "Heggem",
+        "equipo": "local",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Ryerson",
         "equipo": "local",
         "posicion": "Defensa",
         "titular": true
@@ -6031,33 +5941,33 @@
         "titular": true
       },
       {
-        "nombre": "Nusa",
+        "nombre": "Fredrik Aursnes",
+        "equipo": "local",
+        "titular": false,
+        "sustituyeA": "Ryerson"
+      },
+      {
+        "nombre": "Antonio Nusa",
         "equipo": "local",
         "titular": false,
         "sustituyeA": "Schjelderup"
       },
       {
-        "nombre": "Bobb",
+        "nombre": "Marcus Pedersen",
         "equipo": "local",
         "titular": false,
-        "sustituyeA": "Sørloth"
+        "sustituyeA": "Wolfe"
       },
       {
-        "nombre": "Larsen",
+        "nombre": "Leo Østigård",
         "equipo": "local",
         "titular": false,
-        "sustituyeA": "Berg"
+        "sustituyeA": "Haaland"
       },
       {
         "nombre": "Pickford",
         "equipo": "visitante",
         "posicion": "Portero",
-        "titular": true
-      },
-      {
-        "nombre": "Konsa",
-        "equipo": "visitante",
-        "posicion": "Defensa",
         "titular": true
       },
       {
@@ -6073,7 +5983,7 @@
         "titular": true
       },
       {
-        "nombre": "O'Reilly",
+        "nombre": "Konsa",
         "equipo": "visitante",
         "posicion": "Defensa",
         "titular": true
@@ -6081,23 +5991,11 @@
       {
         "nombre": "Rice",
         "equipo": "visitante",
-        "posicion": "Centrocampista",
+        "posicion": "Defensa",
         "titular": true
       },
       {
         "nombre": "Anderson",
-        "equipo": "visitante",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Madueke",
-        "equipo": "visitante",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Bellingham",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
@@ -6109,31 +6007,55 @@
         "titular": true
       },
       {
+        "nombre": "Bellingham",
+        "equipo": "visitante",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
         "nombre": "Kane",
+        "equipo": "visitante",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Madueke",
+        "equipo": "visitante",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "O'Reilly",
         "equipo": "visitante",
         "posicion": "Delantero",
         "titular": true
       },
       {
-        "nombre": "Saka",
+        "nombre": "Eberechi Eze",
+        "equipo": "visitante",
+        "titular": false,
+        "sustituyeA": "Rice"
+      },
+      {
+        "nombre": "Bukayo Saka",
         "equipo": "visitante",
         "titular": false,
         "sustituyeA": "Madueke"
       },
       {
-        "nombre": "Mainoo",
-        "equipo": "visitante",
-        "titular": false,
-        "sustituyeA": "Anderson"
-      },
-      {
-        "nombre": "Watkins",
+        "nombre": "Reece James",
         "equipo": "visitante",
         "titular": false,
         "sustituyeA": "Gordon"
+      },
+      {
+        "nombre": "Dan Burn",
+        "equipo": "visitante",
+        "titular": false,
+        "sustituyeA": "Konsa"
       }
     ],
-    "formacionLocal": "4-1-2-3",
+    "formacionLocal": "4-3-3",
     "formacionVisitante": "4-2-3-1"
   },
   {
@@ -6200,19 +6122,13 @@
     },
     "alineaciones": [
       {
-        "nombre": "Dibu Martínez",
+        "nombre": "E. Martínez",
         "equipo": "local",
         "posicion": "Portero",
         "titular": true
       },
       {
-        "nombre": "Molina",
-        "equipo": "local",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
-        "nombre": "C. Romero",
+        "nombre": "Romero",
         "equipo": "local",
         "posicion": "Defensa",
         "titular": true
@@ -6230,19 +6146,13 @@
         "titular": true
       },
       {
+        "nombre": "Molina",
+        "equipo": "local",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
         "nombre": "Paredes",
-        "equipo": "local",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "De Paul",
-        "equipo": "local",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Enzo Fernández",
         "equipo": "local",
         "posicion": "Centrocampista",
         "titular": true
@@ -6254,34 +6164,46 @@
         "titular": true
       },
       {
+        "nombre": "Enzo Fernández",
+        "equipo": "local",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "De Paul",
+        "equipo": "local",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
         "nombre": "Messi",
         "equipo": "local",
         "posicion": "Delantero",
         "titular": true
       },
       {
-        "nombre": "Julián Álvarez",
+        "nombre": "Álvarez",
         "equipo": "local",
         "posicion": "Delantero",
         "titular": true
       },
       {
-        "nombre": "Lautaro Martínez",
+        "nombre": "Nicolás González",
         "equipo": "local",
         "titular": false,
-        "sustituyeA": "Julián Álvarez"
+        "sustituyeA": "Tagliafico"
       },
       {
-        "nombre": "Otamendi",
+        "nombre": "Gonzalo Montiel",
         "equipo": "local",
         "titular": false,
-        "sustituyeA": "L. Martínez"
+        "sustituyeA": "Molina"
       },
       {
-        "nombre": "Lo Celso",
+        "nombre": "Nicolás Otamendi",
         "equipo": "local",
         "titular": false,
-        "sustituyeA": "Paredes"
+        "sustituyeA": "Romero"
       },
       {
         "nombre": "Kobel",
@@ -6290,19 +6212,7 @@
         "titular": true
       },
       {
-        "nombre": "Zakaria",
-        "equipo": "visitante",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
-        "nombre": "Nico Elvedi",
-        "equipo": "visitante",
-        "posicion": "Defensa",
-        "titular": true
-      },
-      {
-        "nombre": "Akanji",
+        "nombre": "Elvedi",
         "equipo": "visitante",
         "posicion": "Defensa",
         "titular": true
@@ -6314,7 +6224,37 @@
         "titular": true
       },
       {
+        "nombre": "Akanji",
+        "equipo": "visitante",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Rieder",
+        "equipo": "visitante",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Zakaria",
+        "equipo": "visitante",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
         "nombre": "Freuler",
+        "equipo": "visitante",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Ndoye",
+        "equipo": "visitante",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Embolo",
         "equipo": "visitante",
         "posicion": "Centrocampista",
         "titular": true
@@ -6326,58 +6266,22 @@
         "titular": true
       },
       {
-        "nombre": "Dan Ndoye",
-        "equipo": "visitante",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Rieder",
-        "equipo": "visitante",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
         "nombre": "Sow",
-        "equipo": "visitante",
-        "posicion": "Centrocampista",
-        "titular": true
-      },
-      {
-        "nombre": "Embolo",
         "equipo": "visitante",
         "posicion": "Delantero",
         "titular": true
-      },
-      {
-        "nombre": "Vargas",
-        "equipo": "visitante",
-        "titular": false,
-        "sustituyeA": "Sow"
-      },
-      {
-        "nombre": "Amdouni",
-        "equipo": "visitante",
-        "titular": false,
-        "sustituyeA": "Rieder"
-      },
-      {
-        "nombre": "Widmer",
-        "equipo": "visitante",
-        "titular": false,
-        "sustituyeA": "Ndoye"
       }
     ],
     "formacionLocal": "4-1-3-2",
     "formacionVisitante": "4-2-3-1"
   },
-
-{
+  {
     "localCodigo": "FRA",
     "visitanteCodigo": "ESP",
     "golesLocal": 0,
     "golesVisitante": 2,
     "fase": "Semifinales",
+    "fecha": "2026-07-14",
     "jugado": true,
     "estadisticas": {
       "local": {
@@ -6412,10 +6316,184 @@
       }
     },
     "goleadores": [
-      { "nombre": "Pedro Porro", "equipo": "visitante", "minuto": 58 },
-      { "nombre": "Mikel Oyarzabal", "equipo": "visitante", "minuto": 22, "penal": true }
+      {
+        "nombre": "Pedro Porro",
+        "equipo": "visitante",
+        "minuto": 58
+      },
+      {
+        "nombre": "Mikel Oyarzabal",
+        "equipo": "visitante",
+        "minuto": 22,
+        "penal": true
+      }
     ],
-    "fecha": "2026-07-14"
+    "formacionLocal": "4-2-3-1",
+    "formacionVisitante": "4-2-3-1",
+    "alineaciones": [
+      {
+        "nombre": "Maignan",
+        "equipo": "local",
+        "posicion": "Portero",
+        "titular": true
+      },
+      {
+        "nombre": "Koundé",
+        "equipo": "local",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Upamecano",
+        "equipo": "local",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Saliba",
+        "equipo": "local",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Digne",
+        "equipo": "local",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Tchouaméni",
+        "equipo": "local",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Rabiot",
+        "equipo": "local",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Barcola",
+        "equipo": "local",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Olise",
+        "equipo": "local",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Mbappé",
+        "equipo": "local",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Dembélé",
+        "equipo": "local",
+        "posicion": "Delantero",
+        "titular": true
+      },
+      {
+        "nombre": "Maxence Lacroix",
+        "equipo": "local",
+        "titular": false,
+        "sustituyeA": "Saliba"
+      },
+      {
+        "nombre": "Manu Koné",
+        "equipo": "local",
+        "titular": false,
+        "sustituyeA": "Rabiot"
+      },
+      {
+        "nombre": "Désiré Doué",
+        "equipo": "local",
+        "titular": false,
+        "sustituyeA": "Barcola"
+      },
+      {
+        "nombre": "U. Simón",
+        "equipo": "visitante",
+        "posicion": "Portero",
+        "titular": true
+      },
+      {
+        "nombre": "Porro",
+        "equipo": "visitante",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Cubarsí",
+        "equipo": "visitante",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Laporte",
+        "equipo": "visitante",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Cucurella",
+        "equipo": "visitante",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Rodri",
+        "equipo": "visitante",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Fabián Ruiz",
+        "equipo": "visitante",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Yamal",
+        "equipo": "visitante",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Olmo",
+        "equipo": "visitante",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Oyarzabal",
+        "equipo": "visitante",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Baena",
+        "equipo": "visitante",
+        "posicion": "Delantero",
+        "titular": true
+      },
+      {
+        "nombre": "Ferran Torres",
+        "equipo": "visitante",
+        "titular": false,
+        "sustituyeA": "Oyarzabal"
+      },
+      {
+        "nombre": "Mikel Merino",
+        "equipo": "visitante",
+        "titular": false,
+        "sustituyeA": "Olmo"
+      }
+    ]
   },
   {
     "localCodigo": "ENG",
@@ -6423,16 +6501,17 @@
     "golesLocal": 1,
     "golesVisitante": 2,
     "fase": "Semifinales",
+    "fecha": "2026-07-15",
     "jugado": true,
     "estadisticas": {
       "local": {
         "posesion": 36,
-        "distanciaRecorrida": 95.2,
+        "distanciaRecorrida": 0,
         "xG": 0.53,
         "grandesOcasiones": 1,
         "tirosTotales": 5,
         "atajadas": 3,
-        "sprints": 94,
+        "sprints": 0,
         "corners": 1,
         "faltas": 11,
         "pases": 325,
@@ -6442,12 +6521,12 @@
       },
       "visitante": {
         "posesion": 64,
-        "distanciaRecorrida": 93.9,
+        "distanciaRecorrida": 0,
         "xG": 1.59,
         "grandesOcasiones": 3,
         "tirosTotales": 15,
         "atajadas": 1,
-        "sprints": 78,
+        "sprints": 0,
         "corners": 6,
         "faltas": 15,
         "pases": 588,
@@ -6457,14 +6536,193 @@
       }
     },
     "goleadores": [
-      { "nombre": "Anthony Gordon", "equipo": "local", "minuto": 55 },
-      { "nombre": "Enzo Fernández", "equipo": "visitante", "minuto": 85 },
-      { "nombre": "Lautaro Martínez", "equipo": "visitante", "minuto": 92 }
+      {
+        "nombre": "Anthony Gordon",
+        "equipo": "local",
+        "minuto": 55
+      },
+      {
+        "nombre": "Enzo Fernández",
+        "equipo": "visitante",
+        "minuto": 85
+      },
+      {
+        "nombre": "Lautaro Martínez",
+        "equipo": "visitante",
+        "minuto": 92
+      }
     ],
-    "fecha": "2026-07-15"
+    "formacionLocal": "4-2-3-1",
+    "formacionVisitante": "4-1-4-1",
+    "alineaciones": [
+      {
+        "nombre": "Pickford",
+        "equipo": "local",
+        "posicion": "Portero",
+        "titular": true
+      },
+      {
+        "nombre": "Stones",
+        "equipo": "local",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Guéhi",
+        "equipo": "local",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Rice",
+        "equipo": "local",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Bellingham",
+        "equipo": "local",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Kane",
+        "equipo": "local",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Anderson",
+        "equipo": "local",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Gordon",
+        "equipo": "local",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Madueke",
+        "equipo": "local",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "O'Reilly",
+        "equipo": "local",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Spence",
+        "equipo": "local",
+        "posicion": "Delantero",
+        "titular": true
+      },
+      {
+        "nombre": "Ezri Konsa",
+        "equipo": "local",
+        "titular": false,
+        "sustituyeA": "Gordon"
+      },
+      {
+        "nombre": "Marcus Rashford",
+        "equipo": "local",
+        "titular": false,
+        "sustituyeA": "Spence"
+      },
+      {
+        "nombre": "Ivan Toney",
+        "equipo": "local",
+        "titular": false,
+        "sustituyeA": "Stones"
+      },
+      {
+        "nombre": "E. Martínez",
+        "equipo": "visitante",
+        "posicion": "Portero",
+        "titular": true
+      },
+      {
+        "nombre": "Romero",
+        "equipo": "visitante",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "L. Martínez",
+        "equipo": "visitante",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Tagliafico",
+        "equipo": "visitante",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Molina",
+        "equipo": "visitante",
+        "posicion": "Defensa",
+        "titular": true
+      },
+      {
+        "nombre": "Paredes",
+        "equipo": "visitante",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Mac Allister",
+        "equipo": "visitante",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Enzo Fernández",
+        "equipo": "visitante",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "De Paul",
+        "equipo": "visitante",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Messi",
+        "equipo": "visitante",
+        "posicion": "Centrocampista",
+        "titular": true
+      },
+      {
+        "nombre": "Álvarez",
+        "equipo": "visitante",
+        "posicion": "Delantero",
+        "titular": true
+      },
+      {
+        "nombre": "Nicolás González",
+        "equipo": "visitante",
+        "titular": false,
+        "sustituyeA": "Tagliafico"
+      },
+      {
+        "nombre": "Gonzalo Montiel",
+        "equipo": "visitante",
+        "titular": false,
+        "sustituyeA": "Molina"
+      },
+      {
+        "nombre": "Nicolás Otamendi",
+        "equipo": "visitante",
+        "titular": false,
+        "sustituyeA": "Romero"
+      }
+    ]
   }
-
-
-
 ]
-
