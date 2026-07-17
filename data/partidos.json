@@ -6370,5 +6370,101 @@
     ],
     "formacionLocal": "4-1-3-2",
     "formacionVisitante": "4-2-3-1"
+  },
+
+{
+    "localCodigo": "FRA",
+    "visitanteCodigo": "ESP",
+    "golesLocal": 0,
+    "golesVisitante": 2,
+    "fase": "Semifinales",
+    "jugado": true,
+    "estadisticas": {
+      "local": {
+        "posesion": 49,
+        "distanciaRecorrida": 102.4,
+        "xG": 0.31,
+        "grandesOcasiones": 0,
+        "tirosTotales": 10,
+        "atajadas": 0,
+        "sprints": 98,
+        "corners": 7,
+        "faltas": 11,
+        "pases": 472,
+        "entradas": 13,
+        "tirosLibres": 12,
+        "tarjetasAmarillas": 2
+      },
+      "visitante": {
+        "posesion": 51,
+        "distanciaRecorrida": 102.7,
+        "xG": 1.63,
+        "grandesOcasiones": 3,
+        "tirosTotales": 10,
+        "atajadas": 3,
+        "sprints": 116,
+        "corners": 1,
+        "faltas": 12,
+        "pases": 502,
+        "entradas": 22,
+        "tirosLibres": 10,
+        "tarjetasAmarillas": 1
+      }
+    },
+    "goleadores": [
+      { "nombre": "Pedro Porro", "equipo": "visitante", "minuto": 58 },
+      { "nombre": "Mikel Oyarzabal", "equipo": "visitante", "minuto": 22, "penal": true }
+    ],
+    "fecha": "2026-07-14"
+  },
+  {
+    "localCodigo": "ENG",
+    "visitanteCodigo": "ARG",
+    "golesLocal": 1,
+    "golesVisitante": 2,
+    "fase": "Semifinales",
+    "jugado": true,
+    "estadisticas": {
+      "local": {
+        "posesion": 36,
+        "distanciaRecorrida": 95.2,
+        "xG": 0.53,
+        "grandesOcasiones": 1,
+        "tirosTotales": 5,
+        "atajadas": 3,
+        "sprints": 94,
+        "corners": 1,
+        "faltas": 11,
+        "pases": 325,
+        "entradas": 15,
+        "tirosLibres": 15,
+        "tarjetasAmarillas": 1
+      },
+      "visitante": {
+        "posesion": 64,
+        "distanciaRecorrida": 93.9,
+        "xG": 1.59,
+        "grandesOcasiones": 3,
+        "tirosTotales": 15,
+        "atajadas": 1,
+        "sprints": 78,
+        "corners": 6,
+        "faltas": 15,
+        "pases": 588,
+        "entradas": 20,
+        "tirosLibres": 11,
+        "tarjetasAmarillas": 3
+      }
+    },
+    "goleadores": [
+      { "nombre": "Anthony Gordon", "equipo": "local", "minuto": 55 },
+      { "nombre": "Enzo Fernández", "equipo": "visitante", "minuto": 85 },
+      { "nombre": "Lautaro Martínez", "equipo": "visitante", "minuto": 92 }
+    ],
+    "fecha": "2026-07-15"
   }
+
+
+
 ]
+
