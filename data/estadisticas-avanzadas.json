@@ -1,0 +1,1862 @@
+[
+  {
+    "localCodigo": "ENG",
+    "visitanteCodigo": "ARG",
+    "estadisticasAvanzadas": {
+      "local": {
+        "tiros": {
+          "tirosTotales": 5,
+          "tirosPuerta": 2,
+          "disparosPalo": 0,
+          "tirosFuera": 2,
+          "tirosBloqueados": 2,
+          "tirosArea": 2,
+          "tirosFueraArea": 7
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 1,
+          "ocasionesClarasFalladas": 0,
+          "pasesProfundidad": 0,
+          "toquesArea": 7,
+          "faltasUltimoTercio": 2,
+          "fuerasDeJuego": 1
+        },
+        "defensa": {
+          "entradasGanadas": 60,
+          "totalEntradas": 15,
+          "intercepciones": 9,
+          "recuperaciones": 27,
+          "despejes": 27,
+          "erroresDisparo": 1,
+          "erroresGol": 0
+        }
+      },
+      "visitante": {
+        "tiros": {
+          "tirosTotales": 15,
+          "tirosPuerta": 5,
+          "disparosPalo": 2,
+          "tirosFuera": 7,
+          "tirosBloqueados": 3,
+          "tirosArea": 7,
+          "tirosFueraArea": 8
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 1,
+          "ocasionesClarasFalladas": 2,
+          "pasesProfundidad": 0,
+          "toquesArea": 28,
+          "faltasUltimoTercio": 0,
+          "fuerasDeJuego": 3
+        },
+        "defensa": {
+          "entradasGanadas": 45,
+          "totalEntradas": 20,
+          "intercepciones": 6,
+          "recuperaciones": 33,
+          "despejes": 31,
+          "erroresDisparo": 2,
+          "erroresGol": 0
+        }
+      }
+    }
+  },
+  {
+    "localCodigo": "FRA",
+    "visitanteCodigo": "ESP",
+    "estadisticasAvanzadas": {
+      "local": {
+        "tiros": {
+          "tirosTotales": 10,
+          "tirosPuerta": 3,
+          "disparosPalo": 0,
+          "tirosFuera": 5,
+          "tirosBloqueados": 2,
+          "tirosArea": 4,
+          "tirosFueraArea": 6
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 0,
+          "ocasionesClarasFalladas": 0,
+          "pasesProfundidad": 1,
+          "toquesArea": 19,
+          "faltasUltimoTercio": 3,
+          "fuerasDeJuego": 4
+        },
+        "defensa": {
+          "entradasGanadas": 62,
+          "totalEntradas": 13,
+          "intercepciones": 8,
+          "recuperaciones": 45,
+          "despejes": 11,
+          "erroresDisparo": 2,
+          "erroresGol": 0
+        }
+      },
+      "visitante": {
+        "tiros": {
+          "tirosTotales": 10,
+          "tirosPuerta": 2,
+          "disparosPalo": 0,
+          "tirosFuera": 5,
+          "tirosBloqueados": 3,
+          "tirosArea": 5,
+          "tirosFueraArea": 5
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 2,
+          "ocasionesClarasFalladas": 1,
+          "pasesProfundidad": 0,
+          "toquesArea": 13,
+          "faltasUltimoTercio": 3,
+          "fuerasDeJuego": 5
+        },
+        "defensa": {
+          "entradasGanadas": 64,
+          "totalEntradas": 22,
+          "intercepciones": 7,
+          "recuperaciones": 50,
+          "despejes": 22,
+          "erroresDisparo": 0,
+          "erroresGol": 0
+        }
+      }
+    }
+  },
+  {
+    "localCodigo": "FRA",
+    "visitanteCodigo": "MAR",
+    "estadisticasAvanzadas": {
+      "local": {
+        "tiros": {
+          "tirosTotales": 22,
+          "tirosPuerta": 8,
+          "disparosPalo": 1,
+          "tirosFuera": 9,
+          "tirosBloqueados": 5,
+          "tirosArea": 12,
+          "tirosFueraArea": 10
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 0,
+          "ocasionesClarasFalladas": 6,
+          "pasesProfundidad": 0,
+          "toquesArea": 28,
+          "faltasUltimoTercio": 3,
+          "fuerasDeJuego": 0
+        },
+        "defensa": {
+          "entradasGanadas": 73,
+          "totalEntradas": 11,
+          "intercepciones": 13,
+          "recuperaciones": 42,
+          "despejes": 20,
+          "erroresDisparo": 0,
+          "erroresGol": 0
+        }
+      },
+      "visitante": {
+        "tiros": {
+          "tirosTotales": 5,
+          "tirosPuerta": 1,
+          "disparosPalo": 0,
+          "tirosFuera": 3,
+          "tirosBloqueados": 1,
+          "tirosArea": 1,
+          "tirosFueraArea": 4
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 0,
+          "ocasionesClarasFalladas": 0,
+          "pasesProfundidad": 0,
+          "toquesArea": 8,
+          "faltasUltimoTercio": 5,
+          "fuerasDeJuego": 0
+        },
+        "defensa": {
+          "entradasGanadas": 31,
+          "totalEntradas": 16,
+          "intercepciones": 6,
+          "recuperaciones": 41,
+          "despejes": 12,
+          "erroresDisparo": 3,
+          "erroresGol": 0
+        }
+      }
+    }
+  },
+  {
+    "localCodigo": "ESP",
+    "visitanteCodigo": "BEL",
+    "estadisticasAvanzadas": {
+      "local": {
+        "tiros": {
+          "tirosTotales": 17,
+          "tirosPuerta": 8,
+          "disparosPalo": 0,
+          "tirosFuera": 4,
+          "tirosBloqueados": 5,
+          "tirosArea": 10,
+          "tirosFueraArea": 7
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 2,
+          "ocasionesClarasFalladas": 0,
+          "pasesProfundidad": 3,
+          "toquesArea": 41,
+          "faltasUltimoTercio": 3,
+          "fuerasDeJuego": 3
+        },
+        "defensa": {
+          "entradasGanadas": 55,
+          "totalEntradas": 11,
+          "intercepciones": 5,
+          "recuperaciones": 49,
+          "despejes": 15,
+          "erroresDisparo": 1,
+          "erroresGol": 0
+        }
+      },
+      "visitante": {
+        "tiros": {
+          "tirosTotales": 5,
+          "tirosPuerta": 2,
+          "disparosPalo": 0,
+          "tirosFuera": 1,
+          "tirosBloqueados": 2,
+          "tirosArea": 4,
+          "tirosFueraArea": 1
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 1,
+          "ocasionesClarasFalladas": 0,
+          "pasesProfundidad": 1,
+          "toquesArea": 11,
+          "faltasUltimoTercio": 1,
+          "fuerasDeJuego": 1
+        },
+        "defensa": {
+          "entradasGanadas": 60,
+          "totalEntradas": 10,
+          "intercepciones": 9,
+          "recuperaciones": 39,
+          "despejes": 34,
+          "erroresDisparo": 1,
+          "erroresGol": 1
+        }
+      }
+    }
+  },
+  {
+    "localCodigo": "NOR",
+    "visitanteCodigo": "ENG",
+    "estadisticasAvanzadas": {
+      "local": {
+        "tiros": {
+          "tirosTotales": 13,
+          "tirosPuerta": 4,
+          "disparosPalo": 1,
+          "tirosFuera": 6,
+          "tirosBloqueados": 3,
+          "tirosArea": 10,
+          "tirosFueraArea": 3
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 1,
+          "ocasionesClarasFalladas": 1,
+          "pasesProfundidad": 0,
+          "toquesArea": 28,
+          "faltasUltimoTercio": 1,
+          "fuerasDeJuego": 1
+        },
+        "defensa": {
+          "entradasGanadas": 46,
+          "totalEntradas": 24,
+          "intercepciones": 9,
+          "recuperaciones": 43,
+          "despejes": 21,
+          "erroresDisparo": 1,
+          "erroresGol": 1
+        }
+      },
+      "visitante": {
+        "tiros": {
+          "tirosTotales": 14,
+          "tirosPuerta": 8,
+          "disparosPalo": 0,
+          "tirosFuera": 3,
+          "tirosBloqueados": 3,
+          "tirosArea": 8,
+          "tirosFueraArea": 6
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 2,
+          "ocasionesClarasFalladas": 1,
+          "pasesProfundidad": 0,
+          "toquesArea": 31,
+          "faltasUltimoTercio": 3,
+          "fuerasDeJuego": 5
+        },
+        "defensa": {
+          "entradasGanadas": 60,
+          "totalEntradas": 15,
+          "intercepciones": 6,
+          "recuperaciones": 44,
+          "despejes": 35,
+          "erroresDisparo": 1,
+          "erroresGol": 0
+        }
+      }
+    }
+  },
+  {
+    "localCodigo": "ARG",
+    "visitanteCodigo": "SUI",
+    "estadisticasAvanzadas": {
+      "local": {
+        "tiros": {
+          "tirosTotales": 22,
+          "tirosPuerta": 7,
+          "disparosPalo": 1,
+          "tirosFuera": 8,
+          "tirosBloqueados": 7,
+          "tirosArea": 12,
+          "tirosFueraArea": 10
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 1,
+          "ocasionesClarasFalladas": 2,
+          "pasesProfundidad": 1,
+          "toquesArea": 34,
+          "faltasUltimoTercio": 2,
+          "fuerasDeJuego": 4
+        },
+        "defensa": {
+          "entradasGanadas": 46,
+          "totalEntradas": 24,
+          "intercepciones": 9,
+          "recuperaciones": 43,
+          "despejes": 21,
+          "erroresDisparo": 1,
+          "erroresGol": 1
+        }
+      },
+      "visitante": {
+        "tiros": {
+          "tirosTotales": 11,
+          "tirosPuerta": 5,
+          "disparosPalo": 0,
+          "tirosFuera": 3,
+          "tirosBloqueados": 3,
+          "tirosArea": 5,
+          "tirosFueraArea": 6
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 1,
+          "ocasionesClarasFalladas": 0,
+          "pasesProfundidad": 1,
+          "toquesArea": 20,
+          "faltasUltimoTercio": 4,
+          "fuerasDeJuego": 3
+        },
+        "defensa": {
+          "entradasGanadas": 60,
+          "totalEntradas": 15,
+          "intercepciones": 6,
+          "recuperaciones": 44,
+          "despejes": 35,
+          "erroresDisparo": 1,
+          "erroresGol": 0
+        }
+      }
+    }
+  },
+  {
+    "localCodigo": "PAR",
+    "visitanteCodigo": "FRA",
+    "estadisticasAvanzadas": {
+      "local": {
+        "tiros": {
+          "tirosTotales": 5,
+          "tirosPuerta": 1,
+          "disparosPalo": 0,
+          "tirosFuera": 4,
+          "tirosBloqueados": 1,
+          "tirosArea": 1,
+          "tirosFueraArea": 4
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 0,
+          "ocasionesClarasFalladas": 0,
+          "pasesProfundidad": 0,
+          "toquesArea": 4,
+          "faltasUltimoTercio": 0,
+          "fuerasDeJuego": 0
+        },
+        "defensa": {
+          "entradasGanadas": 47,
+          "totalEntradas": 17,
+          "intercepciones": 13,
+          "recuperaciones": 47,
+          "despejes": 31,
+          "erroresDisparo": 0,
+          "erroresGol": 0
+        }
+      },
+      "visitante": {
+        "tiros": {
+          "tirosTotales": 15,
+          "tirosPuerta": 5,
+          "disparosPalo": 0,
+          "tirosFuera": 6,
+          "tirosBloqueados": 4,
+          "tirosArea": 5,
+          "tirosFueraArea": 10
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 1,
+          "ocasionesClarasFalladas": 1,
+          "pasesProfundidad": 0,
+          "toquesArea": 25,
+          "faltasUltimoTercio": 3,
+          "fuerasDeJuego": 0
+        },
+        "defensa": {
+          "entradasGanadas": 45,
+          "totalEntradas": 11,
+          "intercepciones": 4,
+          "recuperaciones": 50,
+          "despejes": 28,
+          "erroresDisparo": 1,
+          "erroresGol": 0
+        }
+      }
+    }
+  },
+  {
+    "localCodigo": "CAN",
+    "visitanteCodigo": "MAR",
+    "estadisticasAvanzadas": {
+      "local": {
+        "tiros": {
+          "tirosTotales": 10,
+          "tirosPuerta": 3,
+          "disparosPalo": 0,
+          "tirosFuera": 4,
+          "tirosBloqueados": 3,
+          "tirosArea": 6,
+          "tirosFueraArea": 4
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 0,
+          "ocasionesClarasFalladas": 1,
+          "pasesProfundidad": 0,
+          "toquesArea": 33,
+          "faltasUltimoTercio": 4,
+          "fuerasDeJuego": 2
+        },
+        "defensa": {
+          "entradasGanadas": 50,
+          "totalEntradas": 18,
+          "intercepciones": 5,
+          "recuperaciones": 43,
+          "despejes": 10,
+          "erroresDisparo": 1,
+          "erroresGol": 0
+        }
+      },
+      "visitante": {
+        "tiros": {
+          "tirosTotales": 5,
+          "tirosPuerta": 4,
+          "disparosPalo": 1,
+          "tirosFuera": 1,
+          "tirosBloqueados": 0,
+          "tirosArea": 3,
+          "tirosFueraArea": 2
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 1,
+          "ocasionesClarasFalladas": 1,
+          "pasesProfundidad": 0,
+          "toquesArea": 9,
+          "faltasUltimoTercio": 1,
+          "fuerasDeJuego": 3
+        },
+        "defensa": {
+          "entradasGanadas": 69,
+          "totalEntradas": 13,
+          "intercepciones": 9,
+          "recuperaciones": 44,
+          "despejes": 47,
+          "erroresDisparo": 0,
+          "erroresGol": 0
+        }
+      }
+    }
+  },
+  {
+    "localCodigo": "POR",
+    "visitanteCodigo": "ESP",
+    "estadisticasAvanzadas": {
+      "local": {
+        "tiros": {
+          "tirosTotales": 10,
+          "tirosPuerta": 2,
+          "disparosPalo": 1,
+          "tirosFuera": 5,
+          "tirosBloqueados": 3,
+          "tirosArea": 7,
+          "tirosFueraArea": 3
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 0,
+          "ocasionesClarasFalladas": 1,
+          "pasesProfundidad": 0,
+          "toquesArea": 11,
+          "faltasUltimoTercio": 2,
+          "fuerasDeJuego": 2
+        },
+        "defensa": {
+          "entradasGanadas": 47,
+          "totalEntradas": 19,
+          "intercepciones": 5,
+          "recuperaciones": 42,
+          "despejes": 19,
+          "erroresDisparo": 1,
+          "erroresGol": 0
+        }
+      },
+      "visitante": {
+        "tiros": {
+          "tirosTotales": 15,
+          "tirosPuerta": 6,
+          "disparosPalo": 0,
+          "tirosFuera": 6,
+          "tirosBloqueados": 3,
+          "tirosArea": 8,
+          "tirosFueraArea": 7
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 1,
+          "ocasionesClarasFalladas": 2,
+          "pasesProfundidad": 4,
+          "toquesArea": 27,
+          "faltasUltimoTercio": 3,
+          "fuerasDeJuego": 1
+        },
+        "defensa": {
+          "entradasGanadas": 50,
+          "totalEntradas": 22,
+          "intercepciones": 10,
+          "recuperaciones": 37,
+          "despejes": 19,
+          "erroresDisparo": 0,
+          "erroresGol": 0
+        }
+      }
+    }
+  },
+  {
+    "localCodigo": "USA",
+    "visitanteCodigo": "BEL",
+    "estadisticasAvanzadas": {
+      "local": {
+        "tiros": {
+          "tirosTotales": 7,
+          "tirosPuerta": 2,
+          "disparosPalo": 0,
+          "tirosFuera": 5,
+          "tirosBloqueados": 0,
+          "tirosArea": 5,
+          "tirosFueraArea": 2
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 0,
+          "ocasionesClarasFalladas": 0,
+          "pasesProfundidad": 2,
+          "toquesArea": 12,
+          "faltasUltimoTercio": 1,
+          "fuerasDeJuego": 0
+        },
+        "defensa": {
+          "entradasGanadas": 64,
+          "totalEntradas": 14,
+          "intercepciones": 7,
+          "recuperaciones": 50,
+          "despejes": 23,
+          "erroresDisparo": 4,
+          "erroresGol": 0
+        }
+      },
+      "visitante": {
+        "tiros": {
+          "tirosTotales": 15,
+          "tirosPuerta": 7,
+          "disparosPalo": 0,
+          "tirosFuera": 4,
+          "tirosBloqueados": 4,
+          "tirosArea": 10,
+          "tirosFueraArea": 5
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 2,
+          "ocasionesClarasFalladas": 2,
+          "pasesProfundidad": 0,
+          "toquesArea": 22,
+          "faltasUltimoTercio": 0,
+          "fuerasDeJuego": 1
+        },
+        "defensa": {
+          "entradasGanadas": 72,
+          "totalEntradas": 18,
+          "intercepciones": 6,
+          "recuperaciones": 47,
+          "despejes": 13,
+          "erroresDisparo": 1,
+          "erroresGol": 0
+        }
+      }
+    }
+  },
+  {
+    "localCodigo": "BRA",
+    "visitanteCodigo": "NOR",
+    "estadisticasAvanzadas": {
+      "local": {
+        "tiros": {
+          "tirosTotales": 14,
+          "tirosPuerta": 4,
+          "disparosPalo": 1,
+          "tirosFuera": 6,
+          "tirosBloqueados": 4,
+          "tirosArea": 10,
+          "tirosFueraArea": 4
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 1,
+          "ocasionesClarasFalladas": 4,
+          "pasesProfundidad": 1,
+          "toquesArea": 33,
+          "faltasUltimoTercio": 3,
+          "fuerasDeJuego": 1
+        },
+        "defensa": {
+          "entradasGanadas": 43,
+          "totalEntradas": 23,
+          "intercepciones": 11,
+          "recuperaciones": 40,
+          "despejes": 21,
+          "erroresDisparo": 1,
+          "erroresGol": 0
+        }
+      },
+      "visitante": {
+        "tiros": {
+          "tirosTotales": 9,
+          "tirosPuerta": 5,
+          "disparosPalo": 0,
+          "tirosFuera": 3,
+          "tirosBloqueados": 1,
+          "tirosArea": 7,
+          "tirosFueraArea": 2
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 1,
+          "ocasionesClarasFalladas": 2,
+          "pasesProfundidad": 0,
+          "toquesArea": 15,
+          "faltasUltimoTercio": 1,
+          "fuerasDeJuego": 1
+        },
+        "defensa": {
+          "entradasGanadas": 79,
+          "totalEntradas": 14,
+          "intercepciones": 6,
+          "recuperaciones": 40,
+          "despejes": 18,
+          "erroresDisparo": 1,
+          "erroresGol": 0
+        }
+      }
+    }
+  },
+  {
+    "localCodigo": "MEX",
+    "visitanteCodigo": "ENG",
+    "estadisticasAvanzadas": {
+      "local": {
+        "tiros": {
+          "tirosTotales": 20,
+          "tirosPuerta": 5,
+          "disparosPalo": 0,
+          "tirosFuera": 8,
+          "tirosBloqueados": 7,
+          "tirosArea": 12,
+          "tirosFueraArea": 8
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 2,
+          "ocasionesClarasFalladas": 0,
+          "pasesProfundidad": 0,
+          "toquesArea": 37,
+          "faltasUltimoTercio": 2,
+          "fuerasDeJuego": 1
+        },
+        "defensa": {
+          "entradasGanadas": 50,
+          "totalEntradas": 16,
+          "intercepciones": 7,
+          "recuperaciones": 32,
+          "despejes": 13,
+          "erroresDisparo": 0,
+          "erroresGol": 1
+        }
+      },
+      "visitante": {
+        "tiros": {
+          "tirosTotales": 6,
+          "tirosPuerta": 5,
+          "disparosPalo": 1,
+          "tirosFuera": 1,
+          "tirosBloqueados": 0,
+          "tirosArea": 4,
+          "tirosFueraArea": 2
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 3,
+          "ocasionesClarasFalladas": 0,
+          "pasesProfundidad": 1,
+          "toquesArea": 14,
+          "faltasUltimoTercio": 1,
+          "fuerasDeJuego": 0
+        },
+        "defensa": {
+          "entradasGanadas": 50,
+          "totalEntradas": 18,
+          "intercepciones": 4,
+          "recuperaciones": 30,
+          "despejes": 49,
+          "erroresDisparo": 0,
+          "erroresGol": 1
+        }
+      }
+    }
+  },
+  {
+    "localCodigo": "ARG",
+    "visitanteCodigo": "EGY",
+    "estadisticasAvanzadas": {
+      "local": {
+        "tiros": {
+          "tirosTotales": 19,
+          "tirosPuerta": 7,
+          "disparosPalo": 1,
+          "tirosFuera": 8,
+          "tirosBloqueados": 4,
+          "tirosArea": 11,
+          "tirosFueraArea": 8
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 2,
+          "ocasionesClarasFalladas": 4,
+          "pasesProfundidad": 2,
+          "toquesArea": 34,
+          "faltasUltimoTercio": 6,
+          "fuerasDeJuego": 3
+        },
+        "defensa": {
+          "entradasGanadas": 50,
+          "totalEntradas": 16,
+          "intercepciones": 7,
+          "recuperaciones": 32,
+          "despejes": 13,
+          "erroresDisparo": 0,
+          "erroresGol": 1
+        }
+      },
+      "visitante": {
+        "tiros": {
+          "tirosTotales": 5,
+          "tirosPuerta": 2,
+          "disparosPalo": 0,
+          "tirosFuera": 3,
+          "tirosBloqueados": 1,
+          "tirosArea": 4,
+          "tirosFueraArea": 1
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 2,
+          "ocasionesClarasFalladas": 0,
+          "pasesProfundidad": 1,
+          "toquesArea": 8,
+          "faltasUltimoTercio": 1,
+          "fuerasDeJuego": 0
+        },
+        "defensa": {
+          "entradasGanadas": 50,
+          "totalEntradas": 18,
+          "intercepciones": 4,
+          "recuperaciones": 30,
+          "despejes": 49,
+          "erroresDisparo": 0,
+          "erroresGol": 1
+        }
+      }
+    }
+  },
+  {
+    "localCodigo": "SUI",
+    "visitanteCodigo": "COL",
+    "estadisticasAvanzadas": {
+      "local": {
+        "tiros": {
+          "tirosTotales": 7,
+          "tirosPuerta": 2,
+          "disparosPalo": 0,
+          "tirosFuera": 4,
+          "tirosBloqueados": 1,
+          "tirosArea": 4,
+          "tirosFueraArea": 3
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 0,
+          "ocasionesClarasFalladas": 0,
+          "pasesProfundidad": 1,
+          "toquesArea": 18,
+          "faltasUltimoTercio": 2,
+          "fuerasDeJuego": 5
+        },
+        "defensa": {
+          "entradasGanadas": 58,
+          "totalEntradas": 12,
+          "intercepciones": 14,
+          "recuperaciones": 49,
+          "despejes": 35,
+          "erroresDisparo": 2,
+          "erroresGol": 0
+        }
+      },
+      "visitante": {
+        "tiros": {
+          "tirosTotales": 15,
+          "tirosPuerta": 3,
+          "disparosPalo": 2,
+          "tirosFuera": 8,
+          "tirosBloqueados": 4,
+          "tirosArea": 9,
+          "tirosFueraArea": 6
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 0,
+          "ocasionesClarasFalladas": 2,
+          "pasesProfundidad": 0,
+          "toquesArea": 21,
+          "faltasUltimoTercio": 4,
+          "fuerasDeJuego": 4
+        },
+        "defensa": {
+          "entradasGanadas": 47,
+          "totalEntradas": 17,
+          "intercepciones": 13,
+          "recuperaciones": 56,
+          "despejes": 22,
+          "erroresDisparo": 1,
+          "erroresGol": 0
+        }
+      }
+    }
+  },
+  {
+    "localCodigo": "GER",
+    "visitanteCodigo": "PAR",
+    "estadisticasAvanzadas": {
+      "local": {
+        "tiros": {
+          "tirosTotales": 21,
+          "tirosPuerta": 6,
+          "disparosPalo": 0,
+          "tirosFuera": 7,
+          "tirosBloqueados": 8,
+          "tirosArea": 11,
+          "tirosFueraArea": 10
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 1,
+          "ocasionesClarasFalladas": 2,
+          "pasesProfundidad": 0,
+          "toquesArea": 43,
+          "faltasUltimoTercio": 6,
+          "fuerasDeJuego": 4
+        },
+        "defensa": {
+          "entradasGanadas": 54,
+          "totalEntradas": 13,
+          "intercepciones": 4,
+          "recuperaciones": 77,
+          "despejes": 23,
+          "erroresDisparo": 1,
+          "erroresGol": 0
+        }
+      },
+      "visitante": {
+        "tiros": {
+          "tirosTotales": 7,
+          "tirosPuerta": 3,
+          "disparosPalo": 0,
+          "tirosFuera": 2,
+          "tirosBloqueados": 2,
+          "tirosArea": 6,
+          "tirosFueraArea": 1
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 1,
+          "ocasionesClarasFalladas": 2,
+          "pasesProfundidad": 0,
+          "toquesArea": 12,
+          "faltasUltimoTercio": 2,
+          "fuerasDeJuego": 1
+        },
+        "defensa": {
+          "entradasGanadas": 61,
+          "totalEntradas": 33,
+          "intercepciones": 13,
+          "recuperaciones": 62,
+          "despejes": 55,
+          "erroresDisparo": 1,
+          "erroresGol": 0
+        }
+      }
+    }
+  },
+  {
+    "localCodigo": "FRA",
+    "visitanteCodigo": "SWE",
+    "estadisticasAvanzadas": {
+      "local": {
+        "tiros": {
+          "tirosTotales": 25,
+          "tirosPuerta": 12,
+          "disparosPalo": 2,
+          "tirosFuera": 9,
+          "tirosBloqueados": 4,
+          "tirosArea": 16,
+          "tirosFueraArea": 9
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 2,
+          "ocasionesClarasFalladas": 5,
+          "pasesProfundidad": 3,
+          "toquesArea": 35,
+          "faltasUltimoTercio": 1,
+          "fuerasDeJuego": 3
+        },
+        "defensa": {
+          "entradasGanadas": 54,
+          "totalEntradas": 13,
+          "intercepciones": 5,
+          "recuperaciones": 46,
+          "despejes": 23,
+          "erroresDisparo": 0,
+          "erroresGol": 0
+        }
+      },
+      "visitante": {
+        "tiros": {
+          "tirosTotales": 8,
+          "tirosPuerta": 3,
+          "disparosPalo": 0,
+          "tirosFuera": 4,
+          "tirosBloqueados": 1,
+          "tirosArea": 7,
+          "tirosFueraArea": 1
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 0,
+          "ocasionesClarasFalladas": 1,
+          "pasesProfundidad": 1,
+          "toquesArea": 14,
+          "faltasUltimoTercio": 0,
+          "fuerasDeJuego": 1
+        },
+        "defensa": {
+          "entradasGanadas": 69,
+          "totalEntradas": 13,
+          "intercepciones": 12,
+          "recuperaciones": 35,
+          "despejes": 26,
+          "erroresDisparo": 0,
+          "erroresGol": 0
+        }
+      }
+    }
+  },
+  {
+    "localCodigo": "RSA",
+    "visitanteCodigo": "CAN",
+    "estadisticasAvanzadas": {
+      "local": {
+        "tiros": {
+          "tirosTotales": 6,
+          "tirosPuerta": 1,
+          "disparosPalo": 0,
+          "tirosFuera": 4,
+          "tirosBloqueados": 1,
+          "tirosArea": 1,
+          "tirosFueraArea": 5
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 0,
+          "ocasionesClarasFalladas": 0,
+          "pasesProfundidad": 1,
+          "toquesArea": 8,
+          "faltasUltimoTercio": 0,
+          "fuerasDeJuego": 1
+        },
+        "defensa": {
+          "entradasGanadas": 59,
+          "totalEntradas": 22,
+          "intercepciones": 15,
+          "recuperaciones": 49,
+          "despejes": 33,
+          "erroresDisparo": 1,
+          "erroresGol": 0
+        }
+      },
+      "visitante": {
+        "tiros": {
+          "tirosTotales": 12,
+          "tirosPuerta": 7,
+          "disparosPalo": 0,
+          "tirosFuera": 5,
+          "tirosBloqueados": 0,
+          "tirosArea": 9,
+          "tirosFueraArea": 3
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 0,
+          "ocasionesClarasFalladas": 4,
+          "pasesProfundidad": 1,
+          "toquesArea": 25,
+          "faltasUltimoTercio": 2,
+          "fuerasDeJuego": 0
+        },
+        "defensa": {
+          "entradasGanadas": 75,
+          "totalEntradas": 20,
+          "intercepciones": 8,
+          "recuperaciones": 56,
+          "despejes": 16,
+          "erroresDisparo": 0,
+          "erroresGol": 0
+        }
+      }
+    }
+  },
+  {
+    "localCodigo": "NED",
+    "visitanteCodigo": "MAR",
+    "estadisticasAvanzadas": {
+      "local": {
+        "tiros": {
+          "tirosTotales": 6,
+          "tirosPuerta": 2,
+          "disparosPalo": 0,
+          "tirosFuera": 1,
+          "tirosBloqueados": 3,
+          "tirosArea": 4,
+          "tirosFueraArea": 2
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 1,
+          "ocasionesClarasFalladas": 0,
+          "pasesProfundidad": 0,
+          "toquesArea": 17,
+          "faltasUltimoTercio": 0,
+          "fuerasDeJuego": 3
+        },
+        "defensa": {
+          "entradasGanadas": 53,
+          "totalEntradas": 19,
+          "intercepciones": 11,
+          "recuperaciones": 46,
+          "despejes": 22,
+          "erroresDisparo": 1,
+          "erroresGol": 0
+        }
+      },
+      "visitante": {
+        "tiros": {
+          "tirosTotales": 11,
+          "tirosPuerta": 5,
+          "disparosPalo": 1,
+          "tirosFuera": 4,
+          "tirosBloqueados": 2,
+          "tirosArea": 7,
+          "tirosFueraArea": 4
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 1,
+          "ocasionesClarasFalladas": 4,
+          "pasesProfundidad": 3,
+          "toquesArea": 20,
+          "faltasUltimoTercio": 2,
+          "fuerasDeJuego": 0
+        },
+        "defensa": {
+          "entradasGanadas": 74,
+          "totalEntradas": 19,
+          "intercepciones": 11,
+          "recuperaciones": 51,
+          "despejes": 34,
+          "erroresDisparo": 0,
+          "erroresGol": 0
+        }
+      }
+    }
+  },
+  {
+    "localCodigo": "POR",
+    "visitanteCodigo": "CRO",
+    "estadisticasAvanzadas": {
+      "local": {
+        "tiros": {
+          "tirosTotales": 15,
+          "tirosPuerta": 3,
+          "disparosPalo": 1,
+          "tirosFuera": 8,
+          "tirosBloqueados": 4,
+          "tirosArea": 10,
+          "tirosFueraArea": 5
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 1,
+          "ocasionesClarasFalladas": 2,
+          "pasesProfundidad": 0,
+          "toquesArea": 19,
+          "faltasUltimoTercio": 2,
+          "fuerasDeJuego": 1
+        },
+        "defensa": {
+          "entradasGanadas": 47,
+          "totalEntradas": 19,
+          "intercepciones": 5,
+          "recuperaciones": 42,
+          "despejes": 19,
+          "erroresDisparo": 1,
+          "erroresGol": 0
+        }
+      },
+      "visitante": {
+        "tiros": {
+          "tirosTotales": 13,
+          "tirosPuerta": 6,
+          "disparosPalo": 1,
+          "tirosFuera": 5,
+          "tirosBloqueados": 2,
+          "tirosArea": 10,
+          "tirosFueraArea": 3
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 1,
+          "ocasionesClarasFalladas": 3,
+          "pasesProfundidad": 1,
+          "toquesArea": 22,
+          "faltasUltimoTercio": 1,
+          "fuerasDeJuego": 4
+        },
+        "defensa": {
+          "entradasGanadas": 50,
+          "totalEntradas": 22,
+          "intercepciones": 10,
+          "recuperaciones": 37,
+          "despejes": 19,
+          "erroresDisparo": 0,
+          "erroresGol": 0
+        }
+      }
+    }
+  },
+  {
+    "localCodigo": "ESP",
+    "visitanteCodigo": "AUT",
+    "estadisticasAvanzadas": {
+      "local": {
+        "tiros": {
+          "tirosTotales": 23,
+          "tirosPuerta": 10,
+          "disparosPalo": 1,
+          "tirosFuera": 6,
+          "tirosBloqueados": 7,
+          "tirosArea": 15,
+          "tirosFueraArea": 8
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 3,
+          "ocasionesClarasFalladas": 1,
+          "pasesProfundidad": 0,
+          "toquesArea": 51,
+          "faltasUltimoTercio": 3,
+          "fuerasDeJuego": 2
+        },
+        "defensa": {
+          "entradasGanadas": 63,
+          "totalEntradas": 19,
+          "intercepciones": 6,
+          "recuperaciones": 46,
+          "despejes": 15,
+          "erroresDisparo": 0,
+          "erroresGol": 0
+        }
+      },
+      "visitante": {
+        "tiros": {
+          "tirosTotales": 5,
+          "tirosPuerta": 0,
+          "disparosPalo": 0,
+          "tirosFuera": 4,
+          "tirosBloqueados": 1,
+          "tirosArea": 4,
+          "tirosFueraArea": 1
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 0,
+          "ocasionesClarasFalladas": 1,
+          "pasesProfundidad": 0,
+          "toquesArea": 10,
+          "faltasUltimoTercio": 0,
+          "fuerasDeJuego": 5
+        },
+        "defensa": {
+          "entradasGanadas": 50,
+          "totalEntradas": 16,
+          "intercepciones": 7,
+          "recuperaciones": 44,
+          "despejes": 21,
+          "erroresDisparo": 1,
+          "erroresGol": 0
+        }
+      }
+    }
+  },
+  {
+    "localCodigo": "USA",
+    "visitanteCodigo": "BIH",
+    "estadisticasAvanzadas": {
+      "local": {
+        "tiros": {
+          "tirosTotales": 10,
+          "tirosPuerta": 3,
+          "disparosPalo": 0,
+          "tirosFuera": 4,
+          "tirosBloqueados": 3,
+          "tirosArea": 5,
+          "tirosFueraArea": 5
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 0,
+          "ocasionesClarasFalladas": 0,
+          "pasesProfundidad": 0,
+          "toquesArea": 7,
+          "faltasUltimoTercio": 1,
+          "fuerasDeJuego": 0
+        },
+        "defensa": {
+          "entradasGanadas": 50,
+          "totalEntradas": 16,
+          "intercepciones": 6,
+          "recuperaciones": 44,
+          "despejes": 21,
+          "erroresDisparo": 1,
+          "erroresGol": 1
+        }
+      },
+      "visitante": {
+        "tiros": {
+          "tirosTotales": 8,
+          "tirosPuerta": 2,
+          "disparosPalo": 1,
+          "tirosFuera": 4,
+          "tirosBloqueados": 2,
+          "tirosArea": 6,
+          "tirosFueraArea": 2
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 1,
+          "ocasionesClarasFalladas": 1,
+          "pasesProfundidad": 0,
+          "toquesArea": 23,
+          "faltasUltimoTercio": 5,
+          "fuerasDeJuego": 3
+        },
+        "defensa": {
+          "entradasGanadas": 63,
+          "totalEntradas": 19,
+          "intercepciones": 6,
+          "recuperaciones": 46,
+          "despejes": 15,
+          "erroresDisparo": 0,
+          "erroresGol": 0
+        }
+      }
+    }
+  },
+  {
+    "localCodigo": "BEL",
+    "visitanteCodigo": "SEN",
+    "estadisticasAvanzadas": {
+      "local": {
+        "tiros": {
+          "tirosTotales": 19,
+          "tirosPuerta": 5,
+          "disparosPalo": 1,
+          "tirosFuera": 9,
+          "tirosBloqueados": 5,
+          "tirosArea": 11,
+          "tirosFueraArea": 8
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 3,
+          "ocasionesClarasFalladas": 0,
+          "pasesProfundidad": 0,
+          "toquesArea": 37,
+          "faltasUltimoTercio": 2,
+          "fuerasDeJuego": 2
+        },
+        "defensa": {
+          "entradasGanadas": 42,
+          "totalEntradas": 12,
+          "intercepciones": 8,
+          "recuperaciones": 64,
+          "despejes": 28,
+          "erroresDisparo": 1,
+          "erroresGol": 0
+        }
+      },
+      "visitante": {
+        "tiros": {
+          "tirosTotales": 19,
+          "tirosPuerta": 5,
+          "disparosPalo": 2,
+          "tirosFuera": 11,
+          "tirosBloqueados": 3,
+          "tirosArea": 10,
+          "tirosFueraArea": 9
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 2,
+          "ocasionesClarasFalladas": 4,
+          "pasesProfundidad": 2,
+          "toquesArea": 30,
+          "faltasUltimoTercio": 2,
+          "fuerasDeJuego": 2
+        },
+        "defensa": {
+          "entradasGanadas": 33,
+          "totalEntradas": 12,
+          "intercepciones": 11,
+          "recuperaciones": 60,
+          "despejes": 31,
+          "erroresDisparo": 0,
+          "erroresGol": 1
+        }
+      }
+    }
+  },
+  {
+    "localCodigo": "BRA",
+    "visitanteCodigo": "JPN",
+    "estadisticasAvanzadas": {
+      "local": {
+        "tiros": {
+          "tirosTotales": 19,
+          "tirosPuerta": 7,
+          "disparosPalo": 1,
+          "tirosFuera": 6,
+          "tirosBloqueados": 6,
+          "tirosArea": 12,
+          "tirosFueraArea": 7
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 2,
+          "ocasionesClarasFalladas": 3,
+          "pasesProfundidad": 0,
+          "toquesArea": 35,
+          "faltasUltimoTercio": 4,
+          "fuerasDeJuego": 1
+        },
+        "defensa": {
+          "entradasGanadas": 54,
+          "totalEntradas": 13,
+          "intercepciones": 5,
+          "recuperaciones": 46,
+          "despejes": 23,
+          "erroresDisparo": 0,
+          "erroresGol": 0
+        }
+      },
+      "visitante": {
+        "tiros": {
+          "tirosTotales": 5,
+          "tirosPuerta": 2,
+          "disparosPalo": 0,
+          "tirosFuera": 1,
+          "tirosBloqueados": 2,
+          "tirosArea": 2,
+          "tirosFueraArea": 3
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 0,
+          "ocasionesClarasFalladas": 0,
+          "pasesProfundidad": 0,
+          "toquesArea": 10,
+          "faltasUltimoTercio": 1,
+          "fuerasDeJuego": 0
+        },
+        "defensa": {
+          "entradasGanadas": 69,
+          "totalEntradas": 13,
+          "intercepciones": 12,
+          "recuperaciones": 35,
+          "despejes": 26,
+          "erroresDisparo": 0,
+          "erroresGol": 0
+        }
+      }
+    }
+  },
+  {
+    "localCodigo": "CIV",
+    "visitanteCodigo": "NOR",
+    "estadisticasAvanzadas": {
+      "local": {
+        "tiros": {
+          "tirosTotales": 14,
+          "tirosPuerta": 5,
+          "disparosPalo": 0,
+          "tirosFuera": 9,
+          "tirosBloqueados": 1,
+          "tirosArea": 10,
+          "tirosFueraArea": 4
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 1,
+          "ocasionesClarasFalladas": 2,
+          "pasesProfundidad": 0,
+          "toquesArea": 48,
+          "faltasUltimoTercio": 2,
+          "fuerasDeJuego": 2
+        },
+        "defensa": {
+          "entradasGanadas": 58,
+          "totalEntradas": 12,
+          "intercepciones": 9,
+          "recuperaciones": 39,
+          "despejes": 19,
+          "erroresDisparo": 0,
+          "erroresGol": 1
+        }
+      },
+      "visitante": {
+        "tiros": {
+          "tirosTotales": 9,
+          "tirosPuerta": 4,
+          "disparosPalo": 0,
+          "tirosFuera": 2,
+          "tirosBloqueados": 3,
+          "tirosArea": 8,
+          "tirosFueraArea": 1
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 1,
+          "ocasionesClarasFalladas": 3,
+          "pasesProfundidad": 2,
+          "toquesArea": 26,
+          "faltasUltimoTercio": 1,
+          "fuerasDeJuego": 2
+        },
+        "defensa": {
+          "entradasGanadas": 40,
+          "totalEntradas": 10,
+          "intercepciones": 6,
+          "recuperaciones": 33,
+          "despejes": 45,
+          "erroresDisparo": 1,
+          "erroresGol": 1
+        }
+      }
+    }
+  },
+  {
+    "localCodigo": "MEX",
+    "visitanteCodigo": "ECU",
+    "estadisticasAvanzadas": {
+      "local": {
+        "tiros": {
+          "tirosTotales": 15,
+          "tirosPuerta": 3,
+          "disparosPalo": 0,
+          "tirosFuera": 9,
+          "tirosBloqueados": 3,
+          "tirosArea": 10,
+          "tirosFueraArea": 5
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 0,
+          "ocasionesClarasFalladas": 2,
+          "pasesProfundidad": 1,
+          "toquesArea": 20,
+          "faltasUltimoTercio": 1,
+          "fuerasDeJuego": 0
+        },
+        "defensa": {
+          "entradasGanadas": 50,
+          "totalEntradas": 10,
+          "intercepciones": 7,
+          "recuperaciones": 35,
+          "despejes": 39,
+          "erroresDisparo": 0,
+          "erroresGol": 0
+        }
+      },
+      "visitante": {
+        "tiros": {
+          "tirosTotales": 7,
+          "tirosPuerta": 1,
+          "disparosPalo": 1,
+          "tirosFuera": 5,
+          "tirosBloqueados": 1,
+          "tirosArea": 5,
+          "tirosFueraArea": 2
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 0,
+          "ocasionesClarasFalladas": 1,
+          "pasesProfundidad": 1,
+          "toquesArea": 21,
+          "faltasUltimoTercio": 1,
+          "fuerasDeJuego": 1
+        },
+        "defensa": {
+          "entradasGanadas": 73,
+          "totalEntradas": 11,
+          "intercepciones": 6,
+          "recuperaciones": 34,
+          "despejes": 19,
+          "erroresDisparo": 0,
+          "erroresGol": 1
+        }
+      }
+    }
+  },
+  {
+    "localCodigo": "ENG",
+    "visitanteCodigo": "COD",
+    "estadisticasAvanzadas": {
+      "local": {
+        "tiros": {
+          "tirosTotales": 16,
+          "tirosPuerta": 7,
+          "disparosPalo": 0,
+          "tirosFuera": 6,
+          "tirosBloqueados": 3,
+          "tirosArea": 13,
+          "tirosFueraArea": 3
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 1,
+          "ocasionesClarasFalladas": 6,
+          "pasesProfundidad": 2,
+          "toquesArea": 40,
+          "faltasUltimoTercio": 4,
+          "fuerasDeJuego": 0
+        },
+        "defensa": {
+          "entradasGanadas": 45,
+          "totalEntradas": 20,
+          "intercepciones": 9,
+          "recuperaciones": 51,
+          "despejes": 23,
+          "erroresDisparo": 2,
+          "erroresGol": 3
+        }
+      },
+      "visitante": {
+        "tiros": {
+          "tirosTotales": 7,
+          "tirosPuerta": 2,
+          "disparosPalo": 1,
+          "tirosFuera": 3,
+          "tirosBloqueados": 2,
+          "tirosArea": 2,
+          "tirosFueraArea": 5
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 0,
+          "ocasionesClarasFalladas": 1,
+          "pasesProfundidad": 0,
+          "toquesArea": 11,
+          "faltasUltimoTercio": 2,
+          "fuerasDeJuego": 4
+        },
+        "defensa": {
+          "entradasGanadas": 45,
+          "totalEntradas": 22,
+          "intercepciones": 9,
+          "recuperaciones": 54,
+          "despejes": 18,
+          "erroresDisparo": 1,
+          "erroresGol": 0
+        }
+      }
+    }
+  },
+  {
+    "localCodigo": "ARG",
+    "visitanteCodigo": "CPV",
+    "estadisticasAvanzadas": {
+      "local": {
+        "tiros": {
+          "tirosTotales": 22,
+          "tirosPuerta": 10,
+          "disparosPalo": 0,
+          "tirosFuera": 5,
+          "tirosBloqueados": 7,
+          "tirosArea": 15,
+          "tirosFueraArea": 7
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 1,
+          "ocasionesClarasFalladas": 2,
+          "pasesProfundidad": 7,
+          "toquesArea": 52,
+          "faltasUltimoTercio": 5,
+          "fuerasDeJuego": 3
+        },
+        "defensa": {
+          "entradasGanadas": 55,
+          "totalEntradas": 11,
+          "intercepciones": 7,
+          "recuperaciones": 44,
+          "despejes": 23,
+          "erroresDisparo": 0,
+          "erroresGol": 1
+        }
+      },
+      "visitante": {
+        "tiros": {
+          "tirosTotales": 16,
+          "tirosPuerta": 5,
+          "disparosPalo": 0,
+          "tirosFuera": 5,
+          "tirosBloqueados": 6,
+          "tirosArea": 6,
+          "tirosFueraArea": 10
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 0,
+          "ocasionesClarasFalladas": 0,
+          "pasesProfundidad": 0,
+          "toquesArea": 16,
+          "faltasUltimoTercio": 2,
+          "fuerasDeJuego": 2
+        },
+        "defensa": {
+          "entradasGanadas": 40,
+          "totalEntradas": 20,
+          "intercepciones": 3,
+          "recuperaciones": 35,
+          "despejes": 36,
+          "erroresDisparo": 0,
+          "erroresGol": 0
+        }
+      }
+    }
+  },
+  {
+    "localCodigo": "AUS",
+    "visitanteCodigo": "EGY",
+    "estadisticasAvanzadas": {
+      "local": {
+        "tiros": {
+          "tirosTotales": 16,
+          "tirosPuerta": 1,
+          "disparosPalo": 1,
+          "tirosFuera": 6,
+          "tirosBloqueados": 9,
+          "tirosArea": 11,
+          "tirosFueraArea": 5
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 0,
+          "ocasionesClarasFalladas": 0,
+          "pasesProfundidad": 0,
+          "toquesArea": 34,
+          "faltasUltimoTercio": 3,
+          "fuerasDeJuego": 0
+        },
+        "defensa": {
+          "entradasGanadas": 59,
+          "totalEntradas": 22,
+          "intercepciones": 9,
+          "recuperaciones": 46,
+          "despejes": 24,
+          "erroresDisparo": 1,
+          "erroresGol": 0
+        }
+      },
+      "visitante": {
+        "tiros": {
+          "tirosTotales": 14,
+          "tirosPuerta": 3,
+          "disparosPalo": 0,
+          "tirosFuera": 5,
+          "tirosBloqueados": 6,
+          "tirosArea": 8,
+          "tirosFueraArea": 6
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 1,
+          "ocasionesClarasFalladas": 2,
+          "pasesProfundidad": 0,
+          "toquesArea": 30,
+          "faltasUltimoTercio": 2,
+          "fuerasDeJuego": 3
+        },
+        "defensa": {
+          "entradasGanadas": 37,
+          "totalEntradas": 19,
+          "intercepciones": 9,
+          "recuperaciones": 51,
+          "despejes": 26,
+          "erroresDisparo": 1,
+          "erroresGol": 0
+        }
+      }
+    }
+  },
+  {
+    "localCodigo": "SUI",
+    "visitanteCodigo": "ALG",
+    "estadisticasAvanzadas": {
+      "local": {
+        "tiros": {
+          "tirosTotales": 11,
+          "tirosPuerta": 5,
+          "disparosPalo": 0,
+          "tirosFuera": 4,
+          "tirosBloqueados": 2,
+          "tirosArea": 9,
+          "tirosFueraArea": 2
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 1,
+          "ocasionesClarasFalladas": 1,
+          "pasesProfundidad": 1,
+          "toquesArea": 28,
+          "faltasUltimoTercio": 1,
+          "fuerasDeJuego": 0
+        },
+        "defensa": {
+          "entradasGanadas": 70,
+          "totalEntradas": 10,
+          "intercepciones": 9,
+          "recuperaciones": 44,
+          "despejes": 31,
+          "erroresDisparo": 0,
+          "erroresGol": 0
+        }
+      },
+      "visitante": {
+        "tiros": {
+          "tirosTotales": 8,
+          "tirosPuerta": 2,
+          "disparosPalo": 0,
+          "tirosFuera": 3,
+          "tirosBloqueados": 3,
+          "tirosArea": 5,
+          "tirosFueraArea": 3
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 0,
+          "ocasionesClarasFalladas": 2,
+          "pasesProfundidad": 0,
+          "toquesArea": 15,
+          "faltasUltimoTercio": 0,
+          "fuerasDeJuego": 2
+        },
+        "defensa": {
+          "entradasGanadas": 47,
+          "totalEntradas": 15,
+          "intercepciones": 8,
+          "recuperaciones": 41,
+          "despejes": 37,
+          "erroresDisparo": 0,
+          "erroresGol": 1
+        }
+      }
+    }
+  },
+  {
+    "localCodigo": "COL",
+    "visitanteCodigo": "GHA",
+    "estadisticasAvanzadas": {
+      "local": {
+        "tiros": {
+          "tirosTotales": 20,
+          "tirosPuerta": 8,
+          "disparosPalo": 0,
+          "tirosFuera": 8,
+          "tirosBloqueados": 4,
+          "tirosArea": 12,
+          "tirosFueraArea": 8
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 1,
+          "ocasionesClarasFalladas": 4,
+          "pasesProfundidad": 0,
+          "toquesArea": 19,
+          "faltasUltimoTercio": 1,
+          "fuerasDeJuego": 2
+        },
+        "defensa": {
+          "entradasGanadas": 67,
+          "totalEntradas": 12,
+          "intercepciones": 5,
+          "recuperaciones": 41,
+          "despejes": 24,
+          "erroresDisparo": 0,
+          "erroresGol": 0
+        }
+      },
+      "visitante": {
+        "tiros": {
+          "tirosTotales": 8,
+          "tirosPuerta": 0,
+          "disparosPalo": 0,
+          "tirosFuera": 3,
+          "tirosBloqueados": 5,
+          "tirosArea": 2,
+          "tirosFueraArea": 6
+        },
+        "ataque": {
+          "ocasionesClarasRealizadas": 0,
+          "ocasionesClarasFalladas": 0,
+          "pasesProfundidad": 0,
+          "toquesArea": 8,
+          "faltasUltimoTercio": 0,
+          "fuerasDeJuego": 0
+        },
+        "defensa": {
+          "entradasGanadas": 54,
+          "totalEntradas": 13,
+          "intercepciones": 5,
+          "recuperaciones": 42,
+          "despejes": 11,
+          "erroresDisparo": 1,
+          "erroresGol": 0
+        }
+      }
+    }
+  }
+]
